@@ -1,0 +1,5 @@
+<section id="main-content" class="container main_content homepage">
+    {{ range where .Data.Pages "Type" "index" }}
+      {{ .Content }}
+    {{ end }}
+</section>

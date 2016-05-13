@@ -1,0 +1,15 @@
+baseurl = "http://databootcamp.nyuecon.com/"
+languageCode = "en-us"
+title = "Data Bootcamp"
+metaDataFormat = "yaml"
+theme = "hyde-y"
+
+[params]
+    topline = "Data + Python @ NYU Stern"
+    brand = "Data Bootcamp"
+    footline = "A product of the NYU Python Factory @ NYU Stern"
+
+    # Sidebar position
+    sidebar = "true"  # false, true, "left", "right"
+    home = "Home"
+    highlight = "default"
