@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Bootcamp</title>
+    <link>http://databootcamp.nyuecon.com/</link>
+    <description>Recent content on Data Bootcamp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://databootcamp.nyuecon.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_data/</guid>
+      <description>
+
+&lt;h1 id=&#34;data-bootcamp-data-sources-applications:987d9bf97cab1040fa2beea3138e2fdf&#34;&gt;Data Bootcamp:  Data sources &amp;amp; applications&lt;/h1&gt;
+
+&lt;p&gt;There&amp;rsquo;s an enormous amount of public data available online:  data about countries, about markets, about individuals, and about companies.  Here are some of our favorites; we use most of them in class.  We link to a larger but less well organized list at the end.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-about-countries:987d9bf97cab1040fa2beea3138e2fdf&#34;&gt;Data about countries&lt;/h2&gt;
+
+&lt;p&gt;Go-to sources:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;FRED.&lt;/strong&gt;  &lt;a href=&#34;https://research.stlouisfed.org/fred2/&#34;&gt;Large collection&lt;/a&gt; of easy-to-use time series data from the St Louis Fed.  Comes with online graphing tools, Excel plug-in, etc.  We use the &lt;a href=&#34;http://pandas.pydata.org/pandas-docs/stable/remote_data.html&#34;&gt;Pandas tool&lt;/a&gt;. One thing to keep in mind:  it&amp;rsquo;s a mess if you mix data with different &amp;ldquo;frequencies&amp;rdquo; (monthly, quarterly, annual).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;World Bank.&lt;/strong&gt;  &lt;a href=&#34;http://data.worldbank.org/&#34;&gt;Annual data&lt;/a&gt; on the economic and social environments of a broad range of countries.  You can download the whole thing as a large csv or (our preference) use the &lt;a href=&#34;http://pandas.pydata.org/pandas-docs/stable/remote_data.html&#34;&gt;Pandas tool&lt;/a&gt;.  The latter gives us doubly indexed dataframes, with observations indexed by year and country.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Others we like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;WEO.&lt;/strong&gt;  The IMF&amp;rsquo;s &lt;a href=&#34;https://www.imf.org/external/ns/cs.aspx?id=28&#34;&gt;World Economic Outlook&lt;/a&gt; comes out twice a year.  Annual macroeconomic data for most countries, 1980 to 5-10 years in the future.  We read the whole thing from their spreadsheet link.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;PWT.&lt;/strong&gt; The &lt;a href=&#34;http://www.rug.nl/research/ggdc/data/pwt/?lang=en&#34;&gt;Penn World Table&lt;/a&gt; is the best single source of basic macroeconomic data presented on a comparable basis (&amp;ldquo;&amp;ldquo;PPP adjusted&amp;rdquo;) for most countries.  Annual from 1950 to (roughly) 3-4 years ago.  We read the whole thing from their spreadsheet link.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;UN Population data.&lt;/strong&gt;  &lt;a href=&#34;http://esa.un.org/unpd/wpp/Download/Standard/Population/&#34;&gt;Annual data&lt;/a&gt; for most countries of the population by age.  Includes estimates from 1950 and projections to 2100.  We read the whole thing from their spreadsheet link. Also data on births (fertility) and deaths (mortality).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-about-financial-markets:987d9bf97cab1040fa2beea3138e2fdf&#34;&gt;Data about financial markets&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Fama-French equity returns.&lt;/strong&gt;  The leading source of equity returns for investment research, courtesy of Gene Fama and Ken French.  Text files on &lt;a href=&#34;http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html&#34;&gt;Ken French&amp;rsquo;s website&lt;/a&gt; are easily read into Excel.  The &lt;a href=&#34;http://pandas.pydata.org/pandas-docs/stable/remote_data.html&#34;&gt;Pandas tool&lt;/a&gt; is even better &amp;ndash; when it works.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Yahoo and Google finance.&lt;/strong&gt;  Pandas also has &lt;a href=&#34;http://pandas.pydata.org/pandas-docs/stable/remote_data.html&#34;&gt;tools&lt;/a&gt; for accessing daily stock prices and other financial data.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Quandl.&lt;/strong&gt;  A &lt;a href=&#34;https://www.quandl.com/&#34;&gt;nice aggregator&lt;/a&gt; of economic and financial information. Uses the Quandl package, which comes with Anaconda.  Much of it is free, but they also serve as an interface to paid data subscriptions.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-about-individuals:987d9bf97cab1040fa2beea3138e2fdf&#34;&gt;Data about individuals&lt;/h2&gt;
+
+&lt;p&gt;There is lots of survey data online, which gives us individual outcomes (the employment status of people with specific characteristics, for example) as well as the usual average outcomes (the unemployment rate). That allows us to compare outcomes of various groups:  rich and poor, young and old, black and white, and so on.  Anthony Damico&amp;rsquo;s &lt;a href=&#34;http://www.asdfree.com/&#34;&gt;asdfree collection&lt;/a&gt; includes an extensive list with descriptions.  Gianluca Violante&amp;rsquo;s &lt;a href=&#34;http://www.econ.nyu.edu/user/violante/NYUTeaching/QM/Fall15/Lectures/Lecture2_Data.pdf&#34;&gt;guide to micro data&lt;/a&gt; is a a similar list focused on US sources.  It&amp;rsquo;s aimed at PhD students, but you should get the idea.  These sources are not necessarily easy to use, but they&amp;rsquo;re incredibly informative. Keep in mind that we have experts on hand to help with any that interest you.&lt;/p&gt;
+
+&lt;p&gt;Here are some we have used:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ACS.&lt;/strong&gt; The &lt;a href=&#34;https://www.census.gov/programs-surveys/acs/&#34;&gt;American Community Survey&lt;/a&gt; from the US Census covers demography (age, sex, ethnicity, location), economics (employment and income), education, and many other &lt;a href=&#34;https://www.census.gov/programs-surveys/acs/guidance/subjects.html&#34;&gt;subjects&lt;/a&gt;. The &lt;a href=&#34;https://www.census.gov/programs-surveys/acs/technical-documentation/pums.html&#34;&gt;Public Use Microdata Sample&lt;/a&gt; (PUMS) contains individual responses. This &lt;a href=&#34;https://source.opennews.org/en-US/learning/how-use-census-bureau-american-community-survey/&#34;&gt;guide&lt;/a&gt; was written for journalists. Ari Lambstein has a &lt;a href=&#34;http://www.arilamstein.com/blog/2016/02/15/taking-next-step-census-data/&#34;&gt;shorter guide&lt;/a&gt; to navigating the universe of Census surveys.  The Minnesota Population Center has a nice &lt;a href=&#34;https://usa.ipums.org/usa/&#34;&gt;user interface&lt;/a&gt; for the ACS and other micro-data sources.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;CPS.&lt;/strong&gt; The &lt;a href=&#34;http://www.census.gov/programs-surveys/cps.html&#34;&gt;Current Population Survey&lt;/a&gt; collects information about employment status, income, and a broad range of demographic variables (age, education, ethnicity).  The &lt;a href=&#34;https://cps.ipums.org/cps/&#34;&gt;Minnesota interface&lt;/a&gt; is useful here, too.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ATUS.&lt;/strong&gt;  The &lt;a href=&#34;http://www.bls.gov/tus/&#34;&gt;American Time Use Survey&lt;/a&gt; describes how people spend their time:  employed, doing housework, watching tv, etc.  This &lt;a href=&#34;http://scholar.princeton.edu/sites/default/files/annurev-economics-111809-125129_0.pdf&#34;&gt;article&lt;/a&gt; summarizes academic work done on similar surveys in many countries. &lt;a href=&#34;http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html&#34;&gt;The Times&lt;/a&gt; is unusually fond of this survey.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;MEPS.&lt;/strong&gt;  The &lt;a href=&#34;http://meps.ahrq.gov/mepsweb/&#34;&gt;Medical Expenditure Panel Survey&lt;/a&gt; is the leading source of information about individual healthcare, including insurance status and expenditures.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;miscellaneous-other-sources:987d9bf97cab1040fa2beea3138e2fdf&#34;&gt;Miscellaneous other sources&lt;/h2&gt;
+
+&lt;p&gt;Some that appeal to us, but please send suggestions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Kaggle datasets.&lt;/strong&gt;  Kaggle, the data competition outfit, has just opened a &lt;a href=&#34;https://www.kaggle.com/datasets&#34;&gt;datasets section&lt;/a&gt; that comes with data, documentation, coding enviroments, and forums.  More on &lt;a href=&#34;http://blog.kaggle.com/2016/01/19/introducing-kaggle-datasets/&#34;&gt;their blog&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Airbnb.&lt;/strong&gt;  &lt;a href=&#34;http://insideairbnb.com/get-the-data.html&#34;&gt;Data&lt;/a&gt; on locations, rentals, and reviews. Chase loves this.  Good input for a map project?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;NYC Open Data.&lt;/strong&gt;  &lt;a href=&#34;https://data.cityofnewyork.us/&#34;&gt;Data&lt;/a&gt; collected by the City of New York. There&amp;rsquo;s too much to summarize, but it includes taxis (every taxi ride in the city), restaurant inspections, and much much more.  &lt;a href=&#34;http://iquantny.tumblr.com/&#34;&gt;I Quant NY&lt;/a&gt; has some applications. &lt;a href=&#34;http://fivethirtyeight.com/tag/uber/&#34;&gt;538&lt;/a&gt; combined the taxi data with similar information about Uber, which they posted on their &lt;a href=&#34;https://github.com/fivethirtyeight/uber-tlc-foil-response&#34;&gt;repo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+* **Pew Research Center.**  We haven&#39;t used it, but they do lots of surveys and post [the data](http://www.pewresearch.org/) on their website.   
+--&gt; 
+
+&lt;h2 id=&#34;data-applications:987d9bf97cab1040fa2beea3138e2fdf&#34;&gt;Data applications&lt;/h2&gt;
+
+&lt;p&gt;Data journalism:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ESPN&amp;rsquo;s &lt;strong&gt;538 Blog&lt;/strong&gt;.  The high end of data journalism.  They often post their data as csv&amp;rsquo;s in their &lt;a href=&#34;https://github.com/fivethirtyeight/data/blob/master/README.md&#34;&gt;data repository&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NYT&amp;rsquo;s &lt;strong&gt;Upshot&lt;/strong&gt;.  Great graphics, including &lt;a href=&#34;http://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html&#34;&gt;these&lt;/a&gt; &lt;a href=&#34;http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html&#34;&gt;two&lt;/a&gt; examples. They list sources, but don&amp;rsquo;t typically post data.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tim Taylor&amp;rsquo;s &lt;strong&gt;Conversable Economist&lt;/strong&gt; blog.  Tim&amp;rsquo;s a former journalist, so a better writer than most economists.  He has a &lt;a href=&#34;http://conversableeconomist.blogspot.com/&#34;&gt;daily post&lt;/a&gt; about a topical economic issue, often with graphs we can use to track down data sources. If you don&amp;rsquo;t recognize a source, ask us about it.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Graphics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Our World in Data.&lt;/strong&gt; A &lt;a href=&#34;http://ourworldindata.org/&#34;&gt;website&lt;/a&gt; devoted to data visualizations.  There&amp;rsquo;s an economic development tenor, but they cover a broad range of topics:  population, energy, education, and much much more.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Flowing Data.&lt;/strong&gt;  Nathan Yau&amp;rsquo;s &lt;a href=&#34;http://flowingdata.com/&#34;&gt;daily graphic&lt;/a&gt;. A good source of ideas and advice.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;VizWiz.&lt;/strong&gt; Andy Kriebel&amp;rsquo;s &lt;a href=&#34;http://vizwiz.blogspot.com/&#34;&gt;&amp;ldquo;visualization&amp;rdquo; blog&lt;/a&gt;.  A steady stream of examples and advice, including the invaluable Makeover Monday.  Tagline:  &amp;ldquo;Friends Don&amp;rsquo;t Let Friends Use Pie Charts.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Data is beautiful.&lt;/strong&gt;  On &lt;a href=&#34;https://www.reddit.com/r/dataisbeautiful/&#34;&gt;Reddit&lt;/a&gt;. Relatively unfiltered, but a good source of ideas.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more:987d9bf97cab1040fa2beea3138e2fdf&#34;&gt;More&lt;/h2&gt;
+
+&lt;p&gt;This is &lt;strong&gt;not for the timid&lt;/strong&gt;, but we have a &lt;strong&gt;&lt;a href=&#34;https://docs.google.com/document/d/1L2ZDKFyyqfOrCGbNcCIE9mmgap4tjkTNuw32hK4c6BI/edit?usp=sharing&#34;&gt;huge collection&lt;/a&gt;&lt;/strong&gt; of data sources and applications.  Get a cold drink and a comfy chair and see what strikes your fancy. Active investing?  Movie grosses? Sports? College Scorecard? Shooting deaths? All this and more.  Similar courage is called for if you go to &lt;strong&gt;&lt;a href=&#34;https://github.com/caesar0301/awesome-public-datasets#awesome-public-datasets&#34;&gt;Awesome Public Datasets&lt;/a&gt;&lt;/strong&gt;.  There&amp;rsquo;s way too much there, but one advantage is that it goes beyond economics and finance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_duedates_mba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_duedates_mba/</guid>
+      <description>
+
+&lt;h1 id=&#34;data-bootcamp-mba-due-dates:02ad6f1f1684378b8e15618caef98105&#34;&gt;Data Bootcamp:  MBA Due Dates&lt;/h1&gt;
+
+&lt;p&gt;Due dates for Data Bootcamp @ NYU Stern, Spring 2016, MBA section.  Deliverables are due at the start of class on the dates listed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;February 10&lt;/strong&gt; &lt;br&gt; First class.  Bring your computer, roll up your sleeves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;February 17&lt;/strong&gt; &lt;br&gt; If you haven&amp;rsquo;t already, complete the &lt;a href=&#34;https://docs.google.com/forms/d/1N7ugrqIQNHm_e1BLVAtaRMnC8SmSiTDMoYBy_0FYZic/viewform&#34;&gt;Entry Poll&lt;/a&gt;, sign up for the &lt;a href=&#34;https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba&#34;&gt;Discussion Group&lt;/a&gt;, and read the &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_syllabus.pdf&#34;&gt;Syllabus&lt;/a&gt; and &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;February 24&lt;/strong&gt; &lt;br&gt; Submit answers to &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_1.pdf&#34;&gt;Code Practice #1&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;March 2&lt;/strong&gt; &lt;br&gt; Submit answers to &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_2.pdf&#34;&gt;Code Practice #2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;March 9&lt;/strong&gt; &lt;br&gt; Submit answers to &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_3.pdf&#34;&gt;Code Practice #3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[Spring break, have fun]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;March 23&lt;/strong&gt; &lt;br&gt; Recommended but not graded:  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_practice_a.ipynb&#34;&gt;Optional Code Practice A&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;March 30&lt;/strong&gt; &lt;br&gt; Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;April 6&lt;/strong&gt; &lt;br&gt; Submit &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Revised Project Ideas&lt;/a&gt;.&lt;br /&gt;
+(We&amp;rsquo;re willing to let this slide a week.  The point is that you should start thinking
+about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)&lt;/p&gt;
+
+&lt;!--
+Recommended but not graded:  [Optional Code Practice B](https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_b.pdf).
+--&gt; 
+
+&lt;p&gt;&lt;strong&gt;April 13&lt;/strong&gt; &lt;br&gt; Nothing due.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;April 20&lt;/strong&gt; &lt;br&gt; Submit &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Proposal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;April 27&lt;/strong&gt; &lt;br&gt; Submit &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Data Report&lt;/a&gt;.  This is really a little late; we urge you to think about data from the beginning. Ask for help if you&amp;rsquo;re not sure you have what you need.&lt;/p&gt;
+
+&lt;!--
+Recommended but not graded: [Optional Code Practice C](https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_c.pdf).
+--&gt; 
+
+&lt;p&gt;&lt;strong&gt;May 4&lt;/strong&gt; &lt;br&gt; Submit project by email to db3@nyu.edu. The subject line should be &amp;ldquo;bootcamp project mba&amp;rdquo;.  The file name should be your last names separated by dashes and a short title;  eg, something like &lt;em&gt;Jones-Smith-Zhang-India.ipynb&lt;/em&gt;. See &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Guide&lt;/a&gt; for additional information.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re willing to give you another week, but the absolute latest time a project can be submitted is &lt;strong&gt;5pm May 13&lt;/strong&gt;.  No exceptions.  Keep in mind that this is the last possible time, not a target; you&amp;rsquo;re more than welcome to submit your project earlier.  And honestly, you don&amp;rsquo;t want this to drag on any longer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_duedates_ug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_duedates_ug/</guid>
+      <description>
+
+&lt;h1 id=&#34;data-bootcamp-ug-due-dates:862f4e964005a21fb2c3879091c28da8&#34;&gt;Data Bootcamp:  UG Due Dates&lt;/h1&gt;
+
+&lt;p&gt;Due dates for Data Bootcamp @ NYU Stern, Spring 2016, Undergrad section.  Deliverables are due at the start of class on the dates listed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;January 26&lt;/strong&gt; &lt;br&gt; First class.  Bring your computer, roll up your sleeves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;January 28&lt;/strong&gt; &lt;br&gt; If you haven&amp;rsquo;t already, complete the &lt;a href=&#34;https://docs.google.com/forms/d/1N7ugrqIQNHm_e1BLVAtaRMnC8SmSiTDMoYBy_0FYZic/viewform&#34;&gt;Entry Poll&lt;/a&gt;, sign up for the &lt;a href=&#34;https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug&#34;&gt;Discussion Group&lt;/a&gt;, and read the &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_syllabus.pdf&#34;&gt;Syllabus&lt;/a&gt; and &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;February 11 (was Feb 9)&lt;/strong&gt; &lt;br&gt; Submit answers to &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_1.pdf&#34;&gt;Code Practice #1&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;February 18 (was Feb 16)&lt;/strong&gt; &lt;br&gt; Submit answers to &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_2.pdf&#34;&gt;Code Practice #2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;March 3 (was Mar 1)&lt;/strong&gt; &lt;br&gt; Submit answers to &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_3.pdf&#34;&gt;Code Practice #3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[Spring break, have fun]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;March 22&lt;/strong&gt; &lt;br&gt; Recommended but not graded:  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_practice_a.ipynb&#34;&gt;Optional Code Practice A&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;March 29&lt;/strong&gt; &lt;br&gt; Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;April 7&lt;/strong&gt; &lt;br&gt; Submit &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Revised Project Ideas&lt;/a&gt;. &lt;br&gt; (We&amp;rsquo;re willing to let this slide till April 12.  The point is that you should start thinking about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;April 19&lt;/strong&gt; &lt;br&gt; Submit &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Proposal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;April 26.&lt;/strong&gt; Submit &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Data Report&lt;/a&gt;.  This is really a little late; we urge you to think about data from the beginning. Ask for help if you&amp;rsquo;re not sure you have what you need.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;May 5&lt;/strong&gt; &lt;br&gt; Submit project by email to db3@nyu.edu. The subject line should be &amp;ldquo;bootcamp project ug&amp;rdquo;.  The file name should be your last names separated by dashes and a short title;  eg, something like &lt;em&gt;Jones-Smith-Zhang-India.ipynb&lt;/em&gt;. See &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Guide&lt;/a&gt; for additional information.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re willing to give you another week, but the absolute latest time a project can be submitted is &lt;strong&gt;5pm May 13&lt;/strong&gt;.  No exceptions.  Keep in mind that this is the last possible time, not a target; you&amp;rsquo;re more than welcome to submit your project earlier.  And honestly, you don&amp;rsquo;t want this to drag on any longer than this.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;There is no final exam.&lt;/strong&gt; If NYU schedules an exam time, which they sometimes do, we still won&amp;rsquo;t have one.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_faq/</guid>
+      <description>
+
+&lt;h1 id=&#34;data-bootcamp-description-sales-pitch:417d56135ba43ab461fdf8ac7dc9a33e&#34;&gt;Data Bootcamp:  Description &amp;amp; Sales Pitch&lt;/h1&gt;
+
+&lt;h2 id=&#34;course-description:417d56135ba43ab461fdf8ac7dc9a33e&#34;&gt;Course description&lt;/h2&gt;
+
+&lt;p&gt;Data Bootcamp is about nuts and bolts data analysis.  You will learn about economic, financial, and business data, and enough about computer programming to work with it effectively.  Applications include some or all of:  leading economic indicators; emerging market country indicators; bond and equity returns; stock options; income by zip code; long tail sales data; innovation diffusion curves; and many others.  We will use Python, a popular high-level computer language that’s widely used in finance, consulting, technology, and other parts of the business world.  “High-level” means it’s less painful than most (the hard work is done by the language), but it’s a serious language with extensive capabilities.  “Data analysis” means primarily graphical descriptions that summarize data in ways that are helpful to managers.  “Bootcamp” is a reminder that expertise takes work.  Don’t worry, it’s worth it.&lt;/p&gt;
+
+&lt;h2 id=&#34;frequently-asked-questions:417d56135ba43ab461fdf8ac7dc9a33e&#34;&gt;Frequently asked questions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Why should I take this course?&lt;/strong&gt;  It’s an investment in your future.  You will learn how to  process data and communicate its content effectively and efficiently.  You will be more valuable to current and future employers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can’t I do what I need in Excel?&lt;/strong&gt;  Excel is a great program, but once you have a little programming experience it will remind you of doing arithmetic on your fingers.  With Python, you will be able do routine tasks more efficiently (“automate the boring stuff,” as one guide suggests), handle larger data sets, merge different data sets, and generally do things that spreadsheet programs can’t do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are the prerequisites?&lt;/strong&gt;  There are none, other than the &lt;strong&gt;desire&lt;/strong&gt; to take on a challenge and the &lt;strong&gt;patience&lt;/strong&gt; to debug programs that don’t quite work &amp;ndash; and they never work the first time, and often not the second or third time either.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What if my quant skills are weak or nonexistent?&lt;/strong&gt;  This is the course for you!  We will start at the beginning and do our best to make the material accessible to everyone.  We’re looking beyond quants to marketing, management, and humanities majors.  One of our design team was an English major.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is this a standard Python course?&lt;/strong&gt;  No, it’s a data course that uses Python.  We’ll cover aspects of Python related to data analysis, specifically data management and visualization, and ignore the rest.  We estimate the overlap with a typical programming class to be 15-20 percent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Will this turn me into a programmer?&lt;/strong&gt;  You will come out of the course somewhere between Brad Pitt and Jonah Hill in “&lt;a href=&#34;http://en.wikipedia.org/wiki/Moneyball_(film)&#34;&gt;Moneyball&lt;/a&gt;,&amp;rdquo; with the skills to deal with whatever data comes your way.  You will not be ready for a career as a programmer, but you will be able to do things with data that Excel users can only dream about.  And you will be able to work effectively with people who know more.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Will this turn me into a data scientist?&lt;/strong&gt;  Sadly, no.  But you will have a solid foundation for pursuing the many technical topics that fall under the rubrics data science and machine learning.  See, for example, the extensive collection of courses on &lt;strong&gt;business analytics&lt;/strong&gt; and &lt;strong&gt;data science&lt;/strong&gt; offered by our &lt;a href=&#34;http://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept/&#34;&gt;IOMS&lt;/a&gt; and &lt;a href=&#34;https://www.cs.nyu.edu/web/index.html&#34;&gt;CS&lt;/a&gt; groups.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I do this on my own?&lt;/strong&gt;  In principle, yes, but it’s much easier in a supportive environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Should I take this course if I already know how to code?&lt;/strong&gt;  You’re welcome to, and will learn a lot about data and the data components of Python.  But please don’t scare the other students.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Will this course cover SQL?&lt;/strong&gt; Short answer: No. Longer answer: We will use some of the same functionality in Python&amp;rsquo;s data-management tools, but we will not cover SQL explicitly. We will also skip such computer science standards as regular expressions (yes, that&amp;rsquo;s a thing) and data formats (XML, JSON, etc).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What if I have other questions?&lt;/strong&gt;  Stop by or email:  Dave Backus, db3@nyu.edu, &lt;a href=&#34;http://pages.stern.nyu.edu/~dbackus/&#34;&gt;directions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;more-inspiration:417d56135ba43ab461fdf8ac7dc9a33e&#34;&gt;More inspiration&lt;/h2&gt;
+
+&lt;p&gt;Not that you need any more, but here are a couple good pieces:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Steve Levitt on &amp;ldquo;&lt;a href=&#34;https://youtu.be/r5jATFtKtI8?t=5m12s&#34;&gt;big data&lt;/a&gt;&amp;rdquo; in business (55m, very entertaining)&lt;br /&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mevan on &lt;a href=&#34;https://medium.com/@meandvan/how-i-learned-to-stop-worrying-and-love-the-code-af1a809457c7&#34;&gt;learning to code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Noah Lorang on &lt;a href=&#34;http://flowingdata.com/2016/02/18/data-scientists-mostly-just-do-arithmetic/&#34;&gt;what businesses need&lt;/a&gt;:  &amp;ldquo;The dirty little secret of the ongoing &amp;lsquo;data science&amp;rsquo; boom is that most of what people talk about as being data science isn’t what businesses actually need.  Businesses need accurate and actionable information to help them make decisions about how they spend their time and resources. There is a very small subset of business problems that are best solved by machine learning; most of them just need good data and an understanding of what it means that is best gained using simple methods.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_mainpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_mainpage/</guid>
+      <description>
+
+&lt;h1 id=&#34;data-bootcamp:ffd489939015ded07a5c1baacc50e9b6&#34;&gt;Data Bootcamp&lt;/h1&gt;
+
+&lt;p&gt;A course at &lt;strong&gt;NYU Stern&lt;/strong&gt; exploring &lt;strong&gt;economic and financial data&lt;/strong&gt; with the &lt;strong&gt;Python&lt;/strong&gt; programming language. The course was developed by Stern faculty and students with the assistance and support of executives at &lt;strong&gt;Amazon&lt;/strong&gt;. The immediate goal is to train students to succeed as summer interns and full-time employees of technology companies, but the same skills are valued in finance, marketing, consulting, media, and other areas. We think of it as literacy for the modern age.&lt;/p&gt;
+
+&lt;p&gt;More concretely, the course is designed to (i) introduce students to sources of economic, financial, and business data and (ii) give &lt;strong&gt;programming newbies&lt;/strong&gt; a sense of how modern software &amp;ndash; in this case Python &amp;ndash; makes life easier and more interesting. We&amp;rsquo;ll let data speak for itself. As for coding: It&amp;rsquo;s a skill that opens doors to new &lt;strong&gt;career opportunities&lt;/strong&gt;. You can do lots of things in Excel, but if you value your time &amp;ndash; and you should &amp;ndash; you&amp;rsquo;ll find you can do more, and do it more quickly, with a modern programming language. We like to say we do it because we&amp;rsquo;re lazy, laziness being a synonym here for efficiency.&lt;/p&gt;
+
+&lt;p&gt;If that doesn&amp;rsquo;t convince you, there&amp;rsquo;s more on our &lt;a href=&#34;http://databootcamp.nyuecon.com/bootcamp_faq&#34;&gt;FAQ&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quick links:&lt;/strong&gt;  &lt;strong&gt;&lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_syllabus.pdf&#34;&gt;Syllabus&lt;/a&gt;&lt;/strong&gt; | &lt;strong&gt;&lt;a href=&#34;https://www.gitbook.com/book/davebackus/test/details&#34;&gt;Book&lt;/a&gt;&lt;/strong&gt; | &lt;strong&gt;&lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Guide&lt;/a&gt;&lt;/strong&gt; | Discussion Groups (&lt;strong&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug&#34;&gt;UG&lt;/a&gt;&lt;/strong&gt; | &lt;strong&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba&#34;&gt;MBA&lt;/a&gt;&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class Outlines&lt;/strong&gt; can be found under &lt;em&gt;Topic outlines &amp;amp; links&lt;/em&gt; (look left). &lt;br&gt; &lt;strong&gt;Code Practice&lt;/strong&gt; can be found in the same place &amp;ndash; and under &lt;em&gt;Due dates&lt;/em&gt; (ditto).&lt;/p&gt;
+
+&lt;h2 id=&#34;spring-2016-schedule:ffd489939015ded07a5c1baacc50e9b6&#34;&gt;Spring 2016 schedule&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Undergrad:&lt;/strong&gt;  ECON-UB.0232, Tuesday and Thursday, 2-3:15, KMC 4-80, January 26 to May 5 &lt;br&gt;
+&lt;strong&gt;MBA:&lt;/strong&gt;  ECON-GB.2313, Wednesday nights, 6-9pm, KMC 4-90, February 10 to May 4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future:&lt;/strong&gt; We expect to offer sections in Fall 2016 and Spring 2017.&lt;/p&gt;
+
+&lt;h2 id=&#34;contact-information:ffd489939015ded07a5c1baacc50e9b6&#34;&gt;Contact information&lt;/h2&gt;
+
+&lt;p&gt;Dave Backus:  KMC 7-68, &lt;a href=&#34;mailto:db3@nyu.edu&#34;&gt;db3@nyu.edu&lt;/a&gt;, &lt;a href=&#34;http://pages.stern.nyu.edu/~dbackus/&#34;&gt;directions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UG section&lt;/strong&gt; &lt;br&gt; Spencer Lyon, co-teacher, &lt;a href=&#34;mailto:sgl290@nyu.edu&#34;&gt;sgl290@nyu.edu&lt;/a&gt; &lt;br&gt; Brian LeBlanc, teaching fellow, &lt;a href=&#34;mailto:bl1741@nyu.edu&#34;&gt;bl1741@nyu.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MBA section&lt;/strong&gt; &lt;br&gt; Chase Coleman, co-teacher, &lt;a href=&#34;mailto:cc7768@gmail.com&#34;&gt;cc7768@gmail.com&lt;/a&gt; &lt;br&gt; Itamar Snir, teaching fellow, &lt;a href=&#34;mailto:is1413@stern.nyu.edu&#34;&gt;is1413@stern.nyu.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;other-materials:ffd489939015ded07a5c1baacc50e9b6&#34;&gt;Other materials&lt;/h2&gt;
+
+&lt;p&gt;In addition to the quick links at the top, keep in mind:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Our &lt;strong&gt;GitHub repository&lt;/strong&gt; (collection of files): &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp&#34;&gt;Everything&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/tree/master/Code/Python&#34;&gt;Python programs&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/tree/master/Code/IPython&#34;&gt;IPython notebooks&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/tree/master/Code/Lab&#34;&gt;Experiments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Or &lt;strong&gt;search&lt;/strong&gt;:  &lt;a href=&#34;http://lmgtfy.com/?q=nyu+data+bootcamp&#34;&gt;nyu data bootcamp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;before-the-first-class:ffd489939015ded07a5c1baacc50e9b6&#34;&gt;Before the first class&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make sure you have a &lt;strong&gt;laptop computer&lt;/strong&gt; you can bring to class and install your own programs on.  This is a must.  We will be writing programs in every class.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Take our &lt;strong&gt;&lt;a href=&#34;https://docs.google.com/forms/d/1N7ugrqIQNHm_e1BLVAtaRMnC8SmSiTDMoYBy_0FYZic/viewform&#34;&gt;entry poll&lt;/a&gt;&lt;/strong&gt; (click on the link, follow instructions).&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Join a &lt;strong&gt;discussion group:&lt;/strong&gt; &lt;a href=&#34;https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug&#34;&gt;UG&lt;/a&gt; | &lt;a href=&#34;https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba&#34;&gt;MBA&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Bring a &lt;strong&gt;nameplate&lt;/strong&gt; to class.  If you don&amp;rsquo;t have one, type your first name in this &lt;a href=&#34;https://docs.google.com/document/d/18mDKqDO-48wbwYfFEGD0BAYJRsshRRRxR9IEKhekTWM/edit?usp=sharing&#34;&gt;template&lt;/a&gt;, print it, and fold it in thirds.&lt;/li&gt;
+&lt;li&gt;Non-Stern students:  &lt;strong&gt;&lt;a href=&#34;https://w3.stern.nyu.edu/start/home&#34;&gt;activate your Stern account&lt;/a&gt;&lt;/strong&gt; to get wireless access.  If you have trouble, stop by the Help Desk in the lobby between KMC and Tisch or email &lt;a href=&#34;mailto:helpdesk@stern.nyu.edu&#34;&gt;helpdesk@stern.nyu.edu&lt;/a&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_outline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_outline/</guid>
+      <description>
+
+&lt;h1 id=&#34;data-bootcamp-topic-outlines-links:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Data Bootcamp: Topic outlines &amp;amp; links&lt;/h1&gt;
+
+&lt;p&gt;A list of topics with links to material used in class.  We expect each topic to take roughly one week &amp;ndash; maybe a little more.&lt;/p&gt;
+
+&lt;p&gt;The topics in the first half follow &lt;strong&gt;&lt;a href=&#34;https://www.gitbook.com/book/davebackus/test/details&#34;&gt;THE BOOK&lt;/a&gt;&lt;/strong&gt;.  At the book link, click the large blue Read button to read online &amp;ndash; or download the pdf.  Both come with links.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-1-data-python-magic:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 1.  Data + Python = Magic!&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_intro.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://www.gitbook.com/book/davebackus/test/details&#34;&gt;Book&lt;/a&gt; (Click on blue &amp;ldquo;Read&amp;rdquo; button) | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_3ideas.pdf&#34;&gt;Three ideas&lt;/a&gt; &lt;br&gt;
+&lt;strong&gt;Examples:&lt;/strong&gt;  &lt;a href=&#34;http://www.gapminder.org/world/&#34;&gt;Gapminder&lt;/a&gt; | &lt;a href=&#34;http://www.vox.com/2015/10/28/9631500/does-mammography-work&#34;&gt;cancer screening&lt;/a&gt; | &lt;a href=&#34;http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/&#34;&gt;Uber in NYC&lt;/a&gt; | &lt;a href=&#34;http://www.nihcm.org/pdf/DataBrief3%20Final.pdf&#34;&gt;medical expenditures&lt;/a&gt; | &lt;a href=&#34;http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf&#34;&gt;mortality&lt;/a&gt; | &lt;a href=&#34;https://jawbone.com/blog/napa-earthquake-effect-on-sleep/&#34;&gt;earthquake&lt;/a&gt; | &lt;a href=&#34;http://esoltas.blogspot.com/2014/04/how-big-is-gender-pay-gap_10.html&#34;&gt;Gender pay gap&lt;/a&gt; | &lt;a href=&#34;http://www.randalolson.com/2015/08/23/small-multiples-vs-animated-gifs-for-showing-changes-in-fertility-rates-over-time/&#34;&gt;Fertility&lt;/a&gt; | &lt;a href=&#34;http://graphics.wsj.com/infectious-diseases-and-vaccines/&#34;&gt;Vaccines&lt;/a&gt; &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  It&amp;rsquo;s nice to have skills; installing Anaconda; Spyder and Jupyter/IPython; data; questions; idea machines.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-2-python-fundamentals-1:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 2.  Python fundamentals 1&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_pyfun1.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://davebackus.gitbooks.io/test/content/py-fun1.html&#34;&gt;Book chapter&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_1.pdf&#34;&gt;Code Practice #1&lt;/a&gt; &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-3-python-fundamentals-2:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 3.  Python fundamentals 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_pyfun2.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://davebackus.gitbooks.io/test/content/py-fun2.html&#34;&gt;Book chapter&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_2.pdf&#34;&gt;Code Practice #2&lt;/a&gt; &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-4-data-input-packages-and-pandas:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 4.  Data input:  Packages and Pandas&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_pandas-input.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://davebackus.gitbooks.io/test/content/pandas-input.html&#34;&gt;Book chapter&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/Python/bootcamp_pandas-input.py&#34;&gt;Code&lt;/a&gt; (Download &amp;ldquo;Raw&amp;rdquo;) | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_practice_3.pdf&#34;&gt;Code Practice #3&lt;/a&gt; (&lt;a href=&#34;https://raw.githubusercontent.com/DaveBackus/Data_Bootcamp/master/Code/Python/bootcamp_practice_3_template.py&#34;&gt;code template&lt;/a&gt;) &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-5-python-graphics-matplotlib-fundamentals:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 5.  Python graphics:  Matplotlib fundamentals&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_graphics.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://davebackus.gitbooks.io/test/content/graphs1.html&#34;&gt;Book chapter&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_graphics.ipynb&#34;&gt;Code&lt;/a&gt; (Download &amp;ldquo;Raw&amp;rdquo; as ipynb) | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_practice_a.ipynb&#34;&gt;Code Practice A&lt;/a&gt; (Download &amp;ldquo;Raw&amp;rdquo; as ipynb) &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-6-review-applications:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 6.  Review &amp;amp; applications&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_review.pdf&#34;&gt;Outline&lt;/a&gt; | Code (&lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_exam_practice.ipynb&#34;&gt;review&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/Lab/UN_demography.ipynb&#34;&gt;applications&lt;/a&gt;) &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Exam review, followed by applications to get us thinking about interesting datasets and how to work with them.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-7-exam:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic #7.  Exam&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Posted after class:&lt;/strong&gt; Exam with answers&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-8-thinking-about-projects:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic #8.  Thinking about projects&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt; &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_projects.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_project_examples.pdf&#34;&gt;Project Examples&lt;/a&gt; | Code (&lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_examples.ipynb&#34;&gt;examples&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_indicators.ipynb&#34;&gt;current indicators&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/Lab/UN_demography.ipynb&#34;&gt;demography&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/Lab/Airbnb_experiments_Chase.ipynb&#34;&gt;Airbnb&lt;/a&gt;) &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Projects:  say something interesting with data.  Idea machines. Examples.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;remaining-topics-will-depend-upon-interest-yours-and-ours:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Remaining topics will depend upon interest &amp;ndash; yours and ours.&lt;/h2&gt;
+
+&lt;p&gt;We have almost enough for another course.  If there&amp;rsquo;s something you&amp;rsquo;d particularly like to see, let us know.The plan is to mix data applications and tools in parallel.  The topics are generally shorter than before.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-9-more-pandas-cleaning:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 9.  More Pandas: Cleaning&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_pandas-clean.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_pandas-clean.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the &lt;code&gt;isin&lt;/code&gt; and &lt;code&gt;contains&lt;/code&gt; methods.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-10-more-pandas-shaping:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 10.  More Pandas: Shaping&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Documents/bootcamp_topic_pandas-shape.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_pandas-shape.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the &lt;code&gt;isin&lt;/code&gt; and &lt;code&gt;contains&lt;/code&gt; methods.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-11-updating-and-installing-packages:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 11.  Updating and installing packages&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://davebackus.gitbooks.io/test/content/conda-pip.html&#34;&gt;Book chapter&lt;/a&gt; &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Using conda, pip, etc.  Updating Anaconda, installing Seaborn, Plotly, and Pandas-Datareader.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-12-more-pandas-combining-summarizing-data:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic 12.  More Pandas: Combining &amp;amp; summarizing data&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Code (&lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_pandas-merge.ipynb&#34;&gt;combining&lt;/a&gt;|&lt;a href=&#34;https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/IPython/bootcamp_pandas-summarize.ipynb&#34;&gt;summarizing&lt;/a&gt;)&lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Combining dataframes (merge, concatenate).  Statistics (mean, median, quantiles), categorical variables, grouping data by categories, counts and statistics by category.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-advanced-graphics-with-seaborn-and-plotly:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic.  Advanced graphics with Seaborn and Plotly&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Outline | Code  &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-web-scraping-with-beautiful-soup:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic.  Web scraping with Beautiful Soup&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Outline | Code  &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The next three topics provide some structure for thinking about data.  &lt;em&gt;Distributions&lt;/em&gt; is about the frequencies of various outcomes:  stock returns, incomes of individuals, medical expenses, movie grosses.  &lt;em&gt;Dependence&lt;/em&gt; is about connections between two variables, a connection often summarized (incompletely) byt their correlation.  &lt;em&gt;Dynamics&lt;/em&gt; is about the relation between a variable at two different dates. Is strong economic growth followed by the same?  How do bond ratings evolve?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-distributions:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic.  Distributions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Outline | Code  &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Some data is usefully described not by (say) its mean or median, but by its range of outcomes.  Examples include equity returns, the age distribution of the population, size of firms, and incomes of individuals.  We describe distributions with histograms, smoothed histograms (kde&amp;rsquo;s), and so on.  We introduce the Numpy package along the way and use ipywidgets in Jupyter to add interactivity to our code.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-dependence:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic.  Dependence&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Outline | Code  &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-dynamics:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic.  Dynamics&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Outline | Code  &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--
+:  scatterplots, correlation, contour plot, Anscombe&#39;s quartet, Simpson&#39;s paradox. 
+
+:  stock returns this month and next, cross-correlations, the ccf.
+
+--&gt; 
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;topic-statistics-machine-learning:1f8661465d379c14c98143df8e0e3aac&#34;&gt;Topic.  Statistics &amp;amp; Machine Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Outline | Code  &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  These are whole subjects, not topics, but we thought a brief overview of their history would be useful.  We combine it an application to multivariate regression with two packages, StatsModels (statistics) and Scikit-Learn (machine learning).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_outline_intro_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_outline_intro_old/</guid>
+      <description>
+
+&lt;h1 id=&#34;topic-introduction-to-data-and-python:98e0c731c8f7e5b123477f745a5cc79e&#34;&gt;Topic:  Introduction to Data and Python&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Outline&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why are we doing this?&lt;/li&gt;
+&lt;li&gt;Install Anaconda&lt;/li&gt;
+&lt;li&gt;Thinking about data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;why-are-we-doing-this:98e0c731c8f7e5b123477f745a5cc79e&#34;&gt;Why are we doing this?&lt;/h2&gt;
+
+&lt;p&gt;Reading in the middle ages&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Why skills?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Businesses want people with skills (duh!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Why code?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One of the skills businesses value (not the only one)&lt;/li&gt;
+&lt;li&gt;Do things Excel can&amp;rsquo;t do, and do them faster&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Why Python?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;User-friendly&lt;/li&gt;
+&lt;li&gt;Broad range of applications&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Work ethic and outcomes&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Little work:  you&amp;rsquo;ll die&lt;/li&gt;
+&lt;li&gt;Modest work:  you&amp;rsquo;ll learn something&lt;/li&gt;
+&lt;li&gt;Much work:  you&amp;rsquo;ll learn a lot, be ready for more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Where we&amp;rsquo;re headed&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Think of a &lt;strong&gt;picture&lt;/strong&gt; you&amp;rsquo;d like to produce &amp;ndash; a &amp;ldquo;visualization&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;And about what &lt;strong&gt;data&lt;/strong&gt; you&amp;rsquo;ll need&lt;/li&gt;
+&lt;li&gt;And the &lt;strong&gt;coding skills&lt;/strong&gt; to get there&lt;/li&gt;
+&lt;li&gt;Examples:  &lt;a href=&#34;http://www.gapminder.org/world/&#34;&gt;Gapminder&lt;/a&gt; | &lt;a href=&#34;http://www.vox.com/2015/10/28/9631500/does-mammography-work&#34;&gt;cancer screening&lt;/a&gt; | &lt;a href=&#34;http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/&#34;&gt;Uber in NYC&lt;/a&gt; | &lt;a href=&#34;http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf&#34;&gt;mortality&lt;/a&gt; | &lt;a href=&#34;https://jawbone.com/blog/napa-earthquake-effect-on-sleep/&#34;&gt;earthquake&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://flowingdata.com/2016/01/05/causes-of-death/&#34;&gt;http://flowingdata.com/2016/01/05/causes-of-death/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://graphics.wsj.com/infectious-diseases-and-vaccines/&#34;&gt;http://graphics.wsj.com/infectious-diseases-and-vaccines/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Philosophy&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Target &lt;strong&gt;coding novices&lt;/strong&gt;, no prior experience required or expected&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jump right in&lt;/strong&gt; the deep end of the pool, figure it out as we go&lt;/li&gt;
+&lt;li&gt;Not a typical programming course:  cover only those aspects of Python relevant to data work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Rules to live by&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Don&amp;rsquo;t panic&lt;/strong&gt;.  The jargon and concepts will seem mysterious at first, but if you keep with it they&amp;rsquo;ll start to make sense.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One step at a time.&lt;/strong&gt;  We&amp;rsquo;ll go as slowly as we need.  Speed is the enemy, it leads to mistakes.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Doing is learning.&lt;/strong&gt;  We&amp;rsquo;ll set you up to teach yourself.  If you&amp;rsquo;re stuck, either &lt;strong&gt;ask for help&lt;/strong&gt; or practice your &lt;strong&gt;Google fu&lt;/strong&gt; and find the answer with Google.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Prelaunch checklist&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Install Anaconda&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google &amp;ldquo;anaconda download&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Download installer for &lt;strong&gt;Python 3.5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Run installer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Locate this file in a browser&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google &amp;ldquo;nyu data bootcamp&amp;rdquo; and follow links&lt;/li&gt;
+&lt;li&gt;Or:  type in url at the top&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Save today&amp;rsquo;s code file in a handy place&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create directory/folder &lt;code&gt;Data_Bootcamp&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Click on code link above, then Raw button&lt;/li&gt;
+&lt;li&gt;Save file in &lt;code&gt;Data_Bootcamp&lt;/code&gt; directory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Launch&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Look for &lt;strong&gt;Launcher&lt;/strong&gt; in your programs&lt;/li&gt;
+&lt;li&gt;Start it up (takes a minute)&lt;/li&gt;
+&lt;li&gt;Click on &lt;strong&gt;Spyder&lt;/strong&gt; (another minute)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming basics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our typical program&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Input data&lt;/li&gt;
+&lt;li&gt;Manipulate data until it&amp;rsquo;s in the form we want&lt;/li&gt;
+&lt;li&gt;Produce a compelling graphic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spyder basics&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Editor&lt;/li&gt;
+&lt;li&gt;IPython console, object inspector&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Python basics
+* Calculations, assignments, comments, strings and quotes, lists, built-in functions (print, type), objects and methods, tab completion, getting help&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to do more of this on your own:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work your way through the &lt;a href=&#34;https://www.codecademy.com/tracks/python&#34;&gt;Codecademy&lt;/a&gt; course.  You can stop when you get to Advanced Topics.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Read the Python Fundamentals chapters of our &lt;a href=&#34;https://www.gitbook.com/book/davebackus/test/details&#34;&gt;Data Bootcamp book&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Read Mevan&amp;rsquo;s &lt;a href=&#34;https://medium.com/keep-learning-keep-growing/how-i-learned-to-stop-worrying-and-love-the-code-af1a809457c7&#34;&gt;wonderful guide&lt;/a&gt; &amp;ldquo;to the misconceptions and anxieties that people like me &amp;ndash; people newly learning to code &amp;ndash; may have.&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install-anaconda:98e0c731c8f7e5b123477f745a5cc79e&#34;&gt;Install Anaconda&lt;/h2&gt;
+
+&lt;h2 id=&#34;thinking-about-data:98e0c731c8f7e5b123477f745a5cc79e&#34;&gt;Thinking about data&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_team/</guid>
+      <description>
+
+&lt;h1 id=&#34;data-bootcamp-our-team:8423fc2cf5e41c1e6bb9ab1917e3faca&#34;&gt;Data Bootcamp:  Our Team&lt;/h1&gt;
+
+&lt;p&gt;This course reflects the collective effort of many people. It was Glenn Okun&amp;rsquo;s idea. He really should have done it himself, but we thank him for the idea.  The course content was developed by Dave Backus, Sarah Beckett-Hile, Chase Coleman, and Spencer Lyon.  Many others contributed technical support and applications, among them Paul Backus, Hersh Iyer (MBA17), Matt McKay, Kim Ruhl, and Itamar Snir (MBA17).  You may also notice a family resemblance to Tom Sargent and John Stachurski&amp;rsquo;s &lt;a href=&#34;http://quant-econ.net/&#34;&gt;Quantitative Economics&lt;/a&gt;, a Python- and Julia-based course in dynamic macroeconomic theory.  This course is one of the byproducts of the environment they created.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_topic_fun1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_topic_fun1/</guid>
+      <description>
+
+&lt;h1 id=&#34;data-bootcamp-topic-outline:59a73aeb78df7fb160d84d9ed68c8a3f&#34;&gt;Data Bootcamp Topic Outline&lt;/h1&gt;
+
+&lt;h2 id=&#34;topic-2-python-fundamentals-1:59a73aeb78df7fb160d84d9ed68c8a3f&#34;&gt;Topic 2:  Python fundamentals 1&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Where we&amp;rsquo;re headed&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Think of a &lt;strong&gt;picture&lt;/strong&gt; you&amp;rsquo;d like to produce &amp;ndash; a &amp;ldquo;visualization&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;And about what &lt;strong&gt;data&lt;/strong&gt; you&amp;rsquo;ll need&lt;/li&gt;
+&lt;li&gt;And the &lt;strong&gt;coding skills&lt;/strong&gt; to get there&lt;/li&gt;
+&lt;li&gt;Examples:  &lt;a href=&#34;http://www.gapminder.org/world/&#34;&gt;Gapminder&lt;/a&gt; | &lt;a href=&#34;http://www.vox.com/2015/10/28/9631500/does-mammography-work&#34;&gt;cancer screening&lt;/a&gt; | &lt;a href=&#34;http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/&#34;&gt;Uber in NYC&lt;/a&gt; | &lt;a href=&#34;http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf&#34;&gt;mortality&lt;/a&gt; | &lt;a href=&#34;https://jawbone.com/blog/napa-earthquake-effect-on-sleep/&#34;&gt;earthquake&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Philosophy&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Target &lt;strong&gt;coding novices&lt;/strong&gt;, no prior experience required or expected&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jump right in&lt;/strong&gt; the deep end of the pool, figure it out as we go&lt;/li&gt;
+&lt;li&gt;Not a typical programming course:  cover only those aspects of Python relevant to data work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Rules to live by&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Don&amp;rsquo;t panic&lt;/strong&gt;.  The jargon and concepts will seem mysterious at first, but if you keep with it they&amp;rsquo;ll start to make sense.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One step at a time.&lt;/strong&gt;  We&amp;rsquo;ll go as slowly as we need.  Speed is the enemy, it leads to mistakes.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Doing is learning.&lt;/strong&gt;  We&amp;rsquo;ll set you up to teach yourself.  If you&amp;rsquo;re stuck, either &lt;strong&gt;ask for help&lt;/strong&gt; or practice your &lt;strong&gt;Google fu&lt;/strong&gt; and find the answer with Google.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Prelaunch checklist&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Install Anaconda&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google &amp;ldquo;anaconda download&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Download installer for &lt;strong&gt;Python 3.5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Run installer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Locate this file in a browser&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google &amp;ldquo;nyu data bootcamp&amp;rdquo; and follow links&lt;/li&gt;
+&lt;li&gt;Or:  type in url at the top&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Save today&amp;rsquo;s code file in a handy place&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create directory/folder &lt;code&gt;Data_Bootcamp&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Click on code link above, then Raw button&lt;/li&gt;
+&lt;li&gt;Save file in &lt;code&gt;Data_Bootcamp&lt;/code&gt; directory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Launch&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Look for &lt;strong&gt;Launcher&lt;/strong&gt; in your programs&lt;/li&gt;
+&lt;li&gt;Start it up (takes a minute)&lt;/li&gt;
+&lt;li&gt;Click on &lt;strong&gt;Spyder&lt;/strong&gt; (another minute)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming basics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our typical program&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Input data&lt;/li&gt;
+&lt;li&gt;Manipulate data until it&amp;rsquo;s in the form we want&lt;/li&gt;
+&lt;li&gt;Produce a compelling graphic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spyder basics&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Editor&lt;/li&gt;
+&lt;li&gt;IPython console, object inspector&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Python basics&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Calculations, assignments, comments, strings and quotes, lists, built-in functions (print, type), objects and methods, tab completion, getting help&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Before our next topic.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://databootcamp.nyuecon.com/bootcamp_topic_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://databootcamp.nyuecon.com/bootcamp_topic_intro/</guid>
+      <description>
+
+&lt;h1 id=&#34;topic-1-data-python:b26f38a7bdae852fd782bdaf10e2b9d7&#34;&gt;Topic 1:  Data + Python&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Materials&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;First-day handouts:  Syllabus, Project Guide, Due Dates&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Today&amp;rsquo;s handouts:  this document, code&lt;/li&gt;
+&lt;li&gt;Read after class:  &amp;ldquo;Where are we headed?&amp;rdquo;,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Outline&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why are we doing this?&lt;/li&gt;
+&lt;li&gt;Install Anaconda&lt;/li&gt;
+&lt;li&gt;Data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Why skills?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Businesses want people with skills (duh!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Why code?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One of the skills businesses value (not the only one)&lt;/li&gt;
+&lt;li&gt;Do things Excel can&amp;rsquo;t do, and do them faster&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Why Python?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;User-friendly&lt;/li&gt;
+&lt;li&gt;Broad range of applications&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Where we&amp;rsquo;re headed&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Think of a &lt;strong&gt;picture&lt;/strong&gt; you&amp;rsquo;d like to produce &amp;ndash; a &amp;ldquo;visualization&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;And about what &lt;strong&gt;data&lt;/strong&gt; you&amp;rsquo;ll need&lt;/li&gt;
+&lt;li&gt;And the &lt;strong&gt;coding skills&lt;/strong&gt; to get there&lt;/li&gt;
+&lt;li&gt;Examples:  &lt;a href=&#34;http://www.gapminder.org/world/&#34;&gt;Gapminder&lt;/a&gt; | &lt;a href=&#34;http://www.vox.com/2015/10/28/9631500/does-mammography-work&#34;&gt;cancer screening&lt;/a&gt; | &lt;a href=&#34;http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/&#34;&gt;Uber in NYC&lt;/a&gt; | &lt;a href=&#34;http://www.pnas.org/content/early/2015/10/29/1518393112.full.pdf&#34;&gt;mortality&lt;/a&gt; | &lt;a href=&#34;https://jawbone.com/blog/napa-earthquake-effect-on-sleep/&#34;&gt;earthquake&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://graphics.wsj.com/infectious-diseases-and-vaccines/&#34;&gt;http://graphics.wsj.com/infectious-diseases-and-vaccines/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/interactive/2016/01/07/us/drug-overdose-deaths-in-the-us.html&#34;&gt;http://www.nytimes.com/interactive/2016/01/07/us/drug-overdose-deaths-in-the-us.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Philosophy&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Target &lt;strong&gt;coding novices&lt;/strong&gt;, no prior experience required or expected&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jump right in&lt;/strong&gt; the deep end of the pool, figure it out as we go&lt;/li&gt;
+&lt;li&gt;Not a typical programming course:  cover only those aspects of Python relevant to data work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Rules to live by&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Don&amp;rsquo;t panic&lt;/strong&gt;.  The jargon and concepts will seem mysterious at first, but if you keep with it they&amp;rsquo;ll start to make sense.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One step at a time.&lt;/strong&gt;  We&amp;rsquo;ll go as slowly as we need.  Speed is the enemy, it leads to mistakes.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Doing is learning.&lt;/strong&gt;  We&amp;rsquo;ll set you up to teach yourself.  If you&amp;rsquo;re stuck, either &lt;strong&gt;ask for help&lt;/strong&gt; or practice your &lt;strong&gt;Google fu&lt;/strong&gt; and find the answer with Google.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Prelaunch checklist&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Install Anaconda&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google &amp;ldquo;anaconda download&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Download installer for &lt;strong&gt;Python 3.5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Run installer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Locate this file in a browser&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Google &amp;ldquo;nyu data bootcamp&amp;rdquo; and follow links&lt;/li&gt;
+&lt;li&gt;Or:  type in url at the top&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Save today&amp;rsquo;s code file in a handy place&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create directory/folder &lt;code&gt;Data_Bootcamp&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Click on code link above, then Raw button&lt;/li&gt;
+&lt;li&gt;Save file in &lt;code&gt;Data_Bootcamp&lt;/code&gt; directory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Launch&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Look for &lt;strong&gt;Launcher&lt;/strong&gt; in your programs&lt;/li&gt;
+&lt;li&gt;Start it up (takes a minute)&lt;/li&gt;
+&lt;li&gt;Click on &lt;strong&gt;Spyder&lt;/strong&gt; (another minute)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming basics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our typical program&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Input data&lt;/li&gt;
+&lt;li&gt;Manipulate data until it&amp;rsquo;s in the form we want&lt;/li&gt;
+&lt;li&gt;Produce a compelling graphic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spyder basics&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Editor&lt;/li&gt;
+&lt;li&gt;IPython console, object inspector&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Python basics
+* Calculations, assignments, comments, strings and quotes, lists, built-in functions (print, type), objects and methods, tab completion, getting help&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to do more of this on your own:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work your way through the &lt;a href=&#34;https://www.codecademy.com/tracks/python&#34;&gt;Codecademy&lt;/a&gt; course.  You can stop when you get to Advanced Topics.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Read the Python Fundamentals chapters of our &lt;a href=&#34;https://www.gitbook.com/book/davebackus/test/details&#34;&gt;Data Bootcamp book&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Read Mevan&amp;rsquo;s &lt;a href=&#34;https://medium.com/keep-learning-keep-growing/how-i-learned-to-stop-worrying-and-love-the-code-af1a809457c7&#34;&gt;wonderful guide&lt;/a&gt; &amp;ldquo;to the misconceptions and anxieties that people like me &amp;ndash; people newly learning to code &amp;ndash; may have.&amp;rdquo;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Wednesday or Thursday:&lt;/strong&gt;  Work through the review below.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;session-2:b26f38a7bdae852fd782bdaf10e2b9d7&#34;&gt;Session 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Prelaunch checklist&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Start Spyder&lt;/li&gt;
+&lt;li&gt;Locate this document (Google &amp;ldquo;nyu data bootcamp&amp;rdquo;, look for mini-course link)&lt;/li&gt;
+&lt;li&gt;Save code files, open them in Spyder&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Review.&lt;/strong&gt;  Sketch brief answers.  Feel free to consult your neighbor.&lt;/p&gt;
+
+&lt;p&gt;Concepts.  Explain each of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;x = 107.3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;x = x**2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&#39;this&#39;&lt;/code&gt; and &lt;code&gt;&amp;quot;this&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;y = &#39;3.14159&#39;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;y = 2 * y&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;float(y)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;z = [3, 2, 7, 2]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;type(x)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;type?&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;w = z.count(2)&lt;/code&gt; (This one&amp;rsquo;s harder; the idea is to use the available help to find out what it does. Or just try it.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Problems.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What should you do if you don&amp;rsquo;t follow what we&amp;rsquo;re doing in class?&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Set &lt;code&gt;first = &#39;Hersh&#39;&lt;/code&gt; and &lt;code&gt;last = &#39;Iyer&#39;&lt;/code&gt;.  Construct a string &lt;code&gt;bothnames&lt;/code&gt; that consists of the first name, a space, and the last name in upper-case (capital) letters.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Suppose we have a variable &lt;code&gt;z = &#39;12,345.6&#39;&lt;/code&gt;.  What is its type?  Can we convert it to a floating point number?  (This one&amp;rsquo;s harder.  Hint:  What method can we use to get rid of the comma?)&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Reminders:  IPython console, Object explorer, code cell&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data and graphics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Packages&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Packages/libraries/modules = plug-ins that add new tools to Python&lt;/li&gt;
+&lt;li&gt;There are lots of them&lt;/li&gt;
+&lt;li&gt;Our favs:  Pandas (data), Matplotlib (graphics)&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;import&lt;/code&gt; command&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Data basics&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;import pandas as pd&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Reading spreadsheets and csv files&lt;/li&gt;
+&lt;li&gt;Dataframes:  column labels, row labels, dtypes, &amp;hellip;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Internet sources with APIs:  FRED, World Bank, Fama-French&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Graphics basics&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;import matplotlib&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Approach 1:  &lt;code&gt;plot(x,y)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Approach 2:  apply methods to &lt;code&gt;fig, ax&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Parameters and styles&lt;/li&gt;
+&lt;li&gt;Approach 3:  apply &lt;code&gt;plot&lt;/code&gt; method to dataframe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Examples&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GDP in various countries&lt;/li&gt;
+&lt;li&gt;Emerging market indicators&lt;/li&gt;
+&lt;li&gt;US GDP and GDP growth&lt;/li&gt;
+&lt;li&gt;Indicators of US economic conditions&lt;/li&gt;
+&lt;li&gt;US stock returns&lt;/li&gt;
+&lt;li&gt;Healthcare spending&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Graphics practice.&lt;/strong&gt;
+Randy Olson has a
+&lt;a href=&#34;http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/&#34;&gt;nice blog post&lt;/a&gt; (or Google &amp;ldquo;randy olson beautiful&amp;rdquo;) about creating effective graphics.
+He starts with &lt;a href=&#34;http://gfycat.com/ImprobableFemaleBasenji&#34;&gt;this gif&lt;/a&gt;.
+Skim his post, play the gif, and&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write a Python program that recreates the data in the figure, both numbers and labels.
+(There are only a few points, you can just type them into lists.)&lt;/li&gt;
+&lt;li&gt;Approximate the various graphs using Matplotlib.&lt;/li&gt;
+&lt;li&gt;Play around with the graphics parameters.
+What is the best graph you can produce?
+What do you like about it?&lt;/li&gt;
+&lt;li&gt;Variant:  Do the same with our GDP per capita bar charts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to do more of this on your own:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Browse the &lt;a href=&#34;http://pbpython.com/&#34;&gt;Practical Business Python&lt;/a&gt; blog, it&amp;rsquo;s filled with practical information about how to go between Pandas and Excel.  Start with &lt;a href=&#34;http://pbpython.com/excel-pandas-comp.html&#34;&gt;this one&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Watch Brandon Rhodes&amp;rsquo;s &lt;a href=&#34;https://youtu.be/5JnMutdy6Fw&#34;&gt;video&lt;/a&gt;, it&amp;rsquo;s a wonderful start on advanced features of Pandas.  Two hours long, but worth it.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Check out the Matplotlib &lt;a href=&#34;http://matplotlib.org/gallery.html&#34;&gt;gallery&lt;/a&gt; of examples, they all come with code you can run yourself.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Wait till we write the relevant chapters of our book.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing list.&lt;/strong&gt;  If you&amp;rsquo;d like to get announcements about similar events, sign up for the NYU Data Bootcamp &lt;a href=&#34;https://groups.google.com/forum/#!forum/nyu_data_bootcamp&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

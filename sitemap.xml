@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_data/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_duedates_mba/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_duedates_ug/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_mainpage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_outline/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_outline_intro_old/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_team/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_topic_fun1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://databootcamp.nyuecon.com/bootcamp_topic_intro/</loc>
+  </url>
+  
+</urlset>
