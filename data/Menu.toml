@@ -1,23 +1,23 @@
 [1]
     Name = "Description & FAQ"
-    URL = "/bootcamp_faq"
+    URL = "/faq"
 
 [2]
     Name = "Topic outlines & links"
-    URL = "/bootcamp_outline"
+    URL = "/outline"
 
 [3]
     Name = "Due dates (UG)"
-    URL = "/bootcamp_duedates_ug"
+    URL = "/duedates_ug"
 
 [4]
     Name = "Due dates (MBA)"
-    URL = "/bootcamp_duedates_mba"
+    URL = "/duedates_mba"
 
 [5]
     Name = "Data sources"
-    URL = "/bootcamp_data"
+    URL = "/data"
 
 [6]
     Name = "Our team"
-    URL = "/bootcamp_team"
+    URL = "/team"
