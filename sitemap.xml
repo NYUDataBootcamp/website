@@ -3,47 +3,46 @@
   
   <url>
     <loc>http://databootcamp.nyuecon.com/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_data/</loc>
+    <loc>http://databootcamp.nyuecon.com/data/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_duedates_mba/</loc>
+    <loc>http://databootcamp.nyuecon.com/duedates_mba/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_duedates_ug/</loc>
+    <loc>http://databootcamp.nyuecon.com/duedates_ug/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_faq/</loc>
+    <loc>http://databootcamp.nyuecon.com/faq/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_mainpage/</loc>
+    <loc>http://databootcamp.nyuecon.com/mainpage/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_outline/</loc>
+    <loc>http://databootcamp.nyuecon.com/outline/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_outline_intro_old/</loc>
+    <loc>http://databootcamp.nyuecon.com/outline_intro_old/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_team/</loc>
+    <loc>http://databootcamp.nyuecon.com/team/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_topic_fun1/</loc>
+    <loc>http://databootcamp.nyuecon.com/topic_fun1/</loc>
   </url>
   
   <url>
-    <loc>http://databootcamp.nyuecon.com/bootcamp_topic_intro/</loc>
+    <loc>http://databootcamp.nyuecon.com/topic_intro/</loc>
   </url>
   
 </urlset>
