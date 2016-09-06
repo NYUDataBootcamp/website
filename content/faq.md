@@ -28,7 +28,7 @@ Data Bootcamp is about nuts and bolts data analysis.  You will learn about econo
 
 **Will this course cover SQL?** Short answer: No. Longer answer: We will use some of the same functionality in Python's data-management tools, but we will not cover SQL explicitly. We will also skip such computer science standards as regular expressions (yes, that's a thing) and data formats (XML, JSON, etc).  
 
-**What if I have other questions?**  Stop by or email:  Dave Backus, db3@nyu.edu, [directions](http://pages.stern.nyu.edu/~dbackus/).   
+**What if I have other questions?**  Send us an email [Chase Coleman](mailto:cc7768@gmail.com) or [Spencer Lyon](mailto:spencerlyon2@gmail.com)
 
 
 ## More inspiration
@@ -39,5 +39,3 @@ Not that you need any more, but here are a couple good pieces:
 * Mevan on [learning to code](https://medium.com/@meandvan/how-i-learned-to-stop-worrying-and-love-the-code-af1a809457c7)  
 
 * Noah Lorang on [what businesses need](http://flowingdata.com/2016/02/18/data-scientists-mostly-just-do-arithmetic/):  "The dirty little secret of the ongoing 'data science' boom is that most of what people talk about as being data science isn’t what businesses actually need.  Businesses need accurate and actionable information to help them make decisions about how they spend their time and resources. There is a very small subset of business problems that are best solved by machine learning; most of them just need good data and an understanding of what it means that is best gained using simple methods."
-
-
