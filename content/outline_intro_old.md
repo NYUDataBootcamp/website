@@ -102,7 +102,7 @@ Python basics
 If you'd like to do more of this on your own:     
 
 * Work your way through the [Codecademy](https://www.codecademy.com/tracks/python) course.  You can stop when you get to Advanced Topics.     
-* Read the Python Fundamentals chapters of our [Data Bootcamp book](https://www.gitbook.com/book/davebackus/test/details).
+* Read the Python Fundamentals chapters of our [Data Bootcamp book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details).
 * Read Mevan's [wonderful guide](https://medium.com/keep-learning-keep-growing/how-i-learned-to-stop-worrying-and-love-the-code-af1a809457c7) "to the misconceptions and anxieties that people like me -- people newly learning to code -- may have."  
 
 

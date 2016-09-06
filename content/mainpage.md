@@ -10,8 +10,7 @@ More concretely, the course is designed to (i) introduce students to sources of 
 
 If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
-<!-- TODO: Need to update link to gitbook and discussion groups-->
-**Quick links:**  **[Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf)** | **[Book](https://www.gitbook.com/book/davebackus/test/details)** | **[Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** | Discussion Groups (**[UG](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug)** | **[MBA](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba)**)
+**Quick links:**  **[Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf)** | **[Book](httphttps://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | **[Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** | Discussion Groups (**[UG](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug)** | **[MBA](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba)**)
 
 **Class Outlines** can be found under *Topic outlines & links* (look left). <br> **Code Practice** can be found in the same place -- and under *Due dates* (ditto).
 
@@ -19,6 +18,7 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 ## Spring 2016 schedule
 
 **Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 2-3:15, Tisch LC-25, September 6 to December 15 <br>
+
 **MBA:**  ECON-GB.2313, Wednesday nights, 6-9pm, KMC 3-50, September 21 to December 21
 
 **Future:** We expect to offer sections in Spring 2017.
@@ -45,7 +45,7 @@ In addition to the quick links at the top, keep in mind:
 ## Before the first class
 
 * Make sure you have a **laptop computer** you can bring to class and install your own programs on.  This is a must.  We will be writing programs in every class.
-* Take our **[entry poll](https://docs.google.com/forms/d/1jQIHp-fuKYcLCjgFQAL9-JVI_-vRLFsS_oQkZcbqXH4/edit)** (click on the link, follow instructions).
+* Take our **[entry poll](https://docs.google.com/forms/d/e/1FAIpQLSdiVdav2f6RFCiopp3MGHZRX6PKR5MA77z2NrFrdXV8eFFgaQ/viewform)** (click on the link, follow instructions).
 * Join a **discussion group:** [UG](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug) | [MBA](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba).
 * Bring a **nameplate** to class.  If you don't have one, type your first name in this [template](https://docs.google.com/document/d/18mDKqDO-48wbwYfFEGD0BAYJRsshRRRxR9IEKhekTWM/edit?usp=sharing), print it, and fold it in thirds.
 * Non-Stern students:  **[activate your Stern account](https://w3.stern.nyu.edu/start/home)** to get wireless access.  If you have trouble, stop by the Help Desk in the lobby between KMC and Tisch or email [helpdesk@stern.nyu.edu](mailto:helpdesk@stern.nyu.edu).
