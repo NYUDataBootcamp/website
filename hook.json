@@ -1,8 +1,8 @@
 [
   {
     "id": "deploy-databootcamp",
-    "execute-command": "/home/sglyon/Teaching/Data_Bootcamp/website/deploy.sh",
-    "command-working-directory": "/home/sglyon/Teaching/Data_Bootcamp/website",
+    "execute-command": "/home/sglyon/Teaching/NYUDataBootcamp/website/deploy.sh",
+    "command-working-directory": "/home/sglyon/Teaching/NYUDataBootcamp/website",
     "trigger-rule":
     {
       "and":
