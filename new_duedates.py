@@ -21,7 +21,6 @@ new_ug = new_dates(old_ug, new_ug_start)
 
 print("new ug dates:", list(new_ug.strftime("%B %d")))
 
-
 old_mba = pd.to_datetime(["February 10 2016",
                           "February 17 2016",
                           "February 24 2016",
