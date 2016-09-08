@@ -10,7 +10,7 @@ More concretely, the course is designed to (i) introduce students to sources of 
 
 If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
-**Quick links:**  **[Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf)** | **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | **[Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** | Discussion Groups (**[UG](piazza.com/nyu/fall2016/econub0232)** | **[MBA](piazza.com/nyu/fall2016/econgb2313)**)
+**Quick links:**  **[Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf)** | **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | **[Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** | Discussion Groups (**[UG](https://piazza.com/nyu/fall2016/econub0232)** | **[MBA](https://piazza.com/nyu/fall2016/econgb2313)**)
 
 **Class Outlines** can be found under *Topic outlines & links* (look left). <br> **Code Practice** can be found in the same place -- and under *Due dates* (ditto).
 
