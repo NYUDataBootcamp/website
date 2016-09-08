@@ -6,7 +6,7 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2016, Undergrad section.  Delivera
 
 **September 08** <br> If you haven't already, complete the [Entry Poll](https://docs.google.com/forms/d/e/1FAIpQLSdiVdav2f6RFCiopp3MGHZRX6PKR5MA77z2NrFrdXV8eFFgaQ/viewform), sign up for the [Discussion Group](piazza.com/nyu/fall2016/econub0232), and read the [Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf) and [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 
-**September 22** <br> Submit answers to Code Practice 1 (coming soon) <!-- [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf). -->
+**September 22** <br> Submit answers to Code Practice 1 (coming soon) [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf).
 
 **September 29** <br> Submit answers to Code Practice 2 (coming soon) <!-- [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf). -->
 
