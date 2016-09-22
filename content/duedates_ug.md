@@ -8,7 +8,7 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2016, Undergrad section.  Delivera
 
 **September 22** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf).
 
-**September 29** <br> Submit answers to Code Practice 2 (coming soon) <!-- [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf). -->
+**September 29** <br> Submit answers to Code Practice 2 [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf).   
 
 **October 13** <br> Submit answers to Code Practice 3 (coming soon) <!-- [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf). -->
 
@@ -29,4 +29,3 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2016, Undergrad section.  Delivera
 We're willing to give you another week, but the absolute latest time a project can be submitted is **5pm December 21**.  No exceptions.  Keep in mind that this is the last possible time, not a target; you're more than welcome to submit your project earlier.  And honestly, you don't want this to drag on any longer than this.
 
  **There is no final exam.** If NYU schedules an exam time, which they sometimes do, we still won't have one.
-
