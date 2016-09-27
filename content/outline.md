@@ -16,13 +16,13 @@ The topics in the first half follow **[THE BOOK](https://www.gitbook.com/book/ny
 ---
 ## Topic 2.  Python fundamentals 1
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | Code Practice 1 (coming soon) [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
 **Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.
 
 ---
 ## Topic 3.  Python fundamentals 2
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) | Code Practice 2 (coming soon) <!-- [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) --> <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) | [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 ---

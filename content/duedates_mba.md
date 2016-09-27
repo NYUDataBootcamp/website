@@ -37,7 +37,7 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 -->
 
 
-**December 14** <br> Submit project by email to db3@nyu.edu. The subject line should be "bootcamp project mba".  The file name should be your last names separated by dashes and a short title;  eg, something like *Jones-Smith-Zhang-India.ipynb*. See [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf) for additional information.
+**December 14** <br> Submit project by email to nyu.databootcamp@gmail.com. The subject line should be "bootcamp project mba".  The file name should be your last names separated by dashes and a short title;  eg, something like *Jones-Smith-Zhang-India.ipynb*. See [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf) for additional information.
 
 We're willing to give you another week, but the absolute latest time a project can be submitted is **5pm December 21**.  No exceptions.  Keep in mind that this is the last possible time, not a target; you're more than welcome to submit your project earlier.  And honestly, you don't want this to drag on any longer.
 
