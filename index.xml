@@ -377,13 +377,13 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;topic-7-exam&#34;&gt;Topic #7.  Exam&lt;/h2&gt;
+&lt;h2 id=&#34;topic-7-exam&#34;&gt;Topic 7.  Exam&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Posted after class:&lt;/strong&gt; Exam with answers&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;topic-8-thinking-about-projects&#34;&gt;Topic #8.  Thinking about projects&lt;/h2&gt;
+&lt;h2 id=&#34;topic-8-thinking-about-projects&#34;&gt;Topic 8.  Thinking about projects&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt; &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf&#34;&gt;Project Examples&lt;/a&gt; | Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_examples.ipynb&#34;&gt;examples&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_indicators.ipynb&#34;&gt;current indicators&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/UN_demography.ipynb&#34;&gt;demography&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/Airbnb_experiments_Chase.ipynb&#34;&gt;Airbnb&lt;/a&gt;) &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Projects:  say something interesting with data.  Idea machines. Examples.&lt;/p&gt;
@@ -408,6 +408,8 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 &lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-shape.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the &lt;code&gt;isin&lt;/code&gt; and &lt;code&gt;contains&lt;/code&gt; methods.&lt;/p&gt;
 
+&lt;!-- TODO: this needs to be changed once we re-arrange the book --&gt;
+
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;topic-11-updating-and-installing-packages&#34;&gt;Topic 11.  Updating and installing packages&lt;/h2&gt;
@@ -426,14 +428,14 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;h2 id=&#34;topic-advanced-graphics-with-seaborn-and-plotly&#34;&gt;Topic.  Advanced graphics with Seaborn and Plotly&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Outline | Code  &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_plotly.ipynb&#34;&gt;Plotly&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_advgraphics_seaborn.ipynb&#34;&gt;Seaborn &lt;/a&gt;)  &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;topic-web-scraping-with-beautiful-soup&#34;&gt;Topic.  Web scraping with Beautiful Soup&lt;/h2&gt;
+&lt;h2 id=&#34;topic-web-scraping&#34;&gt;Topic.  Web scraping&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Outline | Code  &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_scraping-sortof.ipynb&#34;&gt;Code&lt;/a&gt;  &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
