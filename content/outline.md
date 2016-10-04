@@ -51,7 +51,7 @@ The topics in the first half follow **[THE BOOK](https://www.gitbook.com/book/ny
 ---
 ## Topic 8.  Thinking about projects
 
-**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/Airbnb_experiments_Chase.ipynb)) <br>
+**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:**  Projects:  say something interesting with data.  Idea machines. Examples.
 
 ---
