@@ -392,7 +392,7 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;h2 id=&#34;remaining-topics-will-depend-upon-interest-yours-and-ours&#34;&gt;Remaining topics will depend upon interest &amp;ndash; yours and ours.&lt;/h2&gt;
 
-&lt;p&gt;We have almost enough for another course.  If there&amp;rsquo;s something you&amp;rsquo;d particularly like to see, let us know.The plan is to mix data applications and tools in parallel.  The topics are generally shorter than before.&lt;/p&gt;
+&lt;p&gt;We have almost enough for another course.  If there&amp;rsquo;s something you&amp;rsquo;d particularly like to see, let us know.The plan is to mix data applications and tools in parallel.  These topics are generally shorter than before.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -429,14 +429,14 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 &lt;h2 id=&#34;topic-advanced-graphics-with-seaborn-and-plotly&#34;&gt;Topic.  Advanced graphics with Seaborn and Plotly&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_plotly.ipynb&#34;&gt;Plotly&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_advgraphics_seaborn.ipynb&#34;&gt;Seaborn &lt;/a&gt;)  &lt;br&gt;
-&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt; We cover more advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort. We also show how to leverage plotly&amp;rsquo;s unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;topic-web-scraping&#34;&gt;Topic.  Web scraping&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_scraping-sortof.ipynb&#34;&gt;Code&lt;/a&gt;  &lt;br&gt;
-&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt; Python has great tools for scraping data off websites. We will give a &lt;em&gt;very light&lt;/em&gt; introduction to some of the routines we&amp;rsquo;ve found useful for doing this.&lt;/p&gt;
 
 &lt;hr /&gt;
 
