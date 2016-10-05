@@ -8,7 +8,7 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2016, MBA section.  Deliverables a
 
 **October 05** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf).
 
-**October 19** <br> Submit answers to Code Practice 2 (coming soon)<!-- [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf). -->
+**October 19** <br> Submit answers to [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf).
 
 **October 26** <br> Submit answers to Code Practice 3 (coming soon)<!-- [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf). -->
 
