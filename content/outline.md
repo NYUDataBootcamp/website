@@ -57,7 +57,7 @@ The topics in the first half follow **[THE BOOK](https://www.gitbook.com/book/ny
 ---
 ## Remaining topics will depend upon interest -- yours and ours.
 
-We have almost enough for another course.  If there's something you'd particularly like to see, let us know.The plan is to mix data applications and tools in parallel.  The topics are generally shorter than before.
+We have almost enough for another course.  If there's something you'd particularly like to see, let us know.The plan is to mix data applications and tools in parallel.  These topics are generally shorter than before.
 
 ---
 ## Topic 9.  More Pandas: Cleaning
@@ -90,13 +90,13 @@ We have almost enough for another course.  If there's something you'd particular
 ## Topic.  Advanced graphics with Seaborn and Plotly
 
 **Handouts:**  Code ([Plotly](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_plotly.ipynb) | [Seaborn ](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_advgraphics_seaborn.ipynb))  <br>
-**Summary:**
+**Summary:** We cover more advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort. We also show how to leverage plotly's unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.
 
 ---
 ## Topic.  Web scraping
 
 **Handouts:**  [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_scraping-sortof.ipynb)  <br>
-**Summary:**
+**Summary:** Python has great tools for scraping data off websites. We will give a _very light_ introduction to some of the routines we've found useful for doing this.
 
 ---
 
