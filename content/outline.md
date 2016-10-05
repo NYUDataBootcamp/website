@@ -90,7 +90,7 @@ We have almost enough for another course.  If there's something you'd particular
 ## Topic.  Advanced graphics with Seaborn and Plotly
 
 **Handouts:**  Code ([Plotly](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_plotly.ipynb) | [Seaborn ](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_advgraphics_seaborn.ipynb))  <br>
-**Summary:** We cover advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little. We also show how to leverage plotly's unique features to do things that are very difficult, or impossible, to do with matplotlib.
+**Summary:** We cover more advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort. We also show how to leverage plotly's unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.
 
 ---
 ## Topic.  Web scraping
