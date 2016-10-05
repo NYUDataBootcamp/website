@@ -44,14 +44,14 @@ The topics in the first half follow **[THE BOOK](https://www.gitbook.com/book/ny
 **Summary:**  Exam review, followed by applications to get us thinking about interesting datasets and how to work with them.
 
 ---
-## Topic #7.  Exam
+## Topic 7.  Exam
 
 **Posted after class:** Exam with answers
 
 ---
-## Topic #8.  Thinking about projects
+## Topic 8.  Thinking about projects
 
-**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/Airbnb_experiments_Chase.ipynb)) <br>
+**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:**  Projects:  say something interesting with data.  Idea machines. Examples.
 
 ---
@@ -71,6 +71,7 @@ We have almost enough for another course.  If there's something you'd particular
 **Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-shape.ipynb) <br>
 **Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods.
 
+<!-- TODO: this needs to be changed once we re-arrange the book -->
 ---
 ## Topic 11.  Updating and installing packages
 
@@ -88,13 +89,13 @@ We have almost enough for another course.  If there's something you'd particular
 ---
 ## Topic.  Advanced graphics with Seaborn and Plotly
 
-**Handouts:**  Outline | Code  <br>
+**Handouts:**  Code ([Plotly](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_plotly.ipynb) | [Seaborn ](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_advgraphics_seaborn.ipynb))  <br>
 **Summary:**
 
 ---
-## Topic.  Web scraping with Beautiful Soup
+## Topic.  Web scraping
 
-**Handouts:**  Outline | Code  <br>
+**Handouts:**  [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_scraping-sortof.ipynb)  <br>
 **Summary:**
 
 ---
