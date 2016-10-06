@@ -34,13 +34,13 @@ The topics in the first half follow **[THE BOOK](https://www.gitbook.com/book/ny
 ---
 ## Topic 5.  Python graphics:  Matplotlib fundamentals
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_graphics.ipynb) (Download "Raw" as ipynb) | [Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_practice_a.ipynb) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics.ipynb) (Download "Raw" as ipynb) | [Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb) (Download "Raw" as ipynb) <br>
 **Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.
 
 ---
 ## Topic 6.  Review & applications
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_review.pdf) | Code ([review](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_exam_practice.ipynb) | [applications](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/UN_demography.ipynb)) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_review.pdf) | Code ([review](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_exam_practice.ipynb) | [applications](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/UN_demography.ipynb)) <br>
 **Summary:**  Exam review, followed by applications to get us thinking about interesting datasets and how to work with them.
 
 ---
@@ -51,7 +51,7 @@ The topics in the first half follow **[THE BOOK](https://www.gitbook.com/book/ny
 ---
 ## Topic 8.  Thinking about projects
 
-**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
+**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:**  Projects:  say something interesting with data.  Idea machines. Examples.
 
 ---
@@ -62,13 +62,13 @@ We have almost enough for another course.  If there's something you'd particular
 ---
 ## Topic 9.  More Pandas: Cleaning
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-clean.ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-clean.ipynb) <br>
 **Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods.
 
 ---
 ## Topic 10.  More Pandas: Shaping
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-shape.ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-shape.ipynb) <br>
 **Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods.
 
 <!-- TODO: this needs to be changed once we re-arrange the book -->
@@ -82,20 +82,20 @@ We have almost enough for another course.  If there's something you'd particular
 ---
 ## Topic 12.  More Pandas: Combining & summarizing data
 
-**Handouts:**  Code ([combining](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-merge.ipynb)|[summarizing](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-summarize.ipynb))<br>
+**Handouts:**  Code ([combining](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-merge.ipynb)|[summarizing](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-summarize.ipynb))<br>
 **Summary:**  Combining dataframes (merge, concatenate).  Statistics (mean, median, quantiles), categorical variables, grouping data by categories, counts and statistics by category.
 
 
 ---
 ## Topic.  Advanced graphics with Seaborn and Plotly
 
-**Handouts:**  Code ([Plotly](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_plotly.ipynb) | [Seaborn ](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_advgraphics_seaborn.ipynb))  <br>
+**Handouts:**  Code ([Plotly](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_plotly.ipynb) | [Seaborn ](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_advgraphics_seaborn.ipynb))  <br>
 **Summary:** We cover more advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort. We also show how to leverage plotly's unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.
 
 ---
 ## Topic.  Web scraping
 
-**Handouts:**  [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_scraping-sortof.ipynb)  <br>
+**Handouts:**  [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_scraping-sortof.ipynb)  <br>
 **Summary:** Python has great tools for scraping data off websites. We will give a _very light_ introduction to some of the routines we've found useful for doing this.
 
 ---

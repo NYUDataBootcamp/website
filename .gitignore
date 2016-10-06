@@ -69,7 +69,7 @@ Code/Answers
 
 ## Compiled python files:
 *.pyc
-Code/IPython/.ipynb_checkpoints/
+Code/notebooks/.ipynb_checkpoints/
 
 ## website
 website/public/
