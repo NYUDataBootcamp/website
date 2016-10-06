@@ -38,7 +38,7 @@ Spencer Lyon: [sgl290@nyu.edu](mailto:sgl290@nyu.edu)
 
 In addition to the quick links at the top, keep in mind:
 
-* Our **GitHub repository** (collection of files): [Course Materials](https://github.com/NYUDataBootcamp/Materials) | [Python programs](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python) | [Jupyter notebooks](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/IPython) | [Experiments](https://github.com/NYUDataBootcamp/Lab)
+* Our **GitHub repository** (collection of files): [Course Materials](https://github.com/NYUDataBootcamp/Materials) | [Python programs](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python) | [Jupyter notebooks](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks) | [Experiments](https://github.com/NYUDataBootcamp/Lab)
 * Or **search**:  [nyu data bootcamp](http://lmgtfy.com/?q=nyu+data+bootcamp)
 
 
