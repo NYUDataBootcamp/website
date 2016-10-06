@@ -137,7 +137,7 @@ well organized list at the end.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;October 26&lt;/strong&gt; &lt;br&gt; Submit answers to Code Practice 3 (coming soon)&lt;!-- [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf). --&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;November 02&lt;/strong&gt; &lt;br&gt; Recommended but not graded:  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_practice_a.ipynb&#34;&gt;Optional Code Practice A&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November 02&lt;/strong&gt; &lt;br&gt; Recommended but not graded:  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb&#34;&gt;Optional Code Practice A&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;November 09&lt;/strong&gt; &lt;br&gt; Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).&lt;/p&gt;
 
@@ -187,7 +187,7 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;p&gt;&lt;strong&gt;October 13&lt;/strong&gt; &lt;br&gt; Submit answers to &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf&#34;&gt;Code Practice #3&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;November 01&lt;/strong&gt; &lt;br&gt; Recommended but not graded:  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_practice_a.ipynb&#34;&gt;Optional Code Practice A&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November 01&lt;/strong&gt; &lt;br&gt; Recommended but not graded:  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb&#34;&gt;Optional Code Practice A&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;November 08&lt;/strong&gt; &lt;br&gt; Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).&lt;/p&gt;
 
@@ -302,7 +302,7 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 &lt;p&gt;In addition to the quick links at the top, keep in mind:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Our &lt;strong&gt;GitHub repository&lt;/strong&gt; (collection of files): &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials&#34;&gt;Course Materials&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python&#34;&gt;Python programs&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/tree/master/Code/IPython&#34;&gt;Jupyter notebooks&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Lab&#34;&gt;Experiments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Our &lt;strong&gt;GitHub repository&lt;/strong&gt; (collection of files): &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials&#34;&gt;Course Materials&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python&#34;&gt;Python programs&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks&#34;&gt;Jupyter notebooks&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Lab&#34;&gt;Experiments&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Or &lt;strong&gt;search&lt;/strong&gt;:  &lt;a href=&#34;http://lmgtfy.com/?q=nyu+data+bootcamp&#34;&gt;nyu data bootcamp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -365,14 +365,14 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;h2 id=&#34;topic-5-python-graphics-matplotlib-fundamentals&#34;&gt;Topic 5.  Python graphics:  Matplotlib fundamentals&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html&#34;&gt;Book chapter&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_graphics.ipynb&#34;&gt;Code&lt;/a&gt; (Download &amp;ldquo;Raw&amp;rdquo; as ipynb) | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_practice_a.ipynb&#34;&gt;Code Practice A&lt;/a&gt; (Download &amp;ldquo;Raw&amp;rdquo; as ipynb) &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html&#34;&gt;Book chapter&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics.ipynb&#34;&gt;Code&lt;/a&gt; (Download &amp;ldquo;Raw&amp;rdquo; as ipynb) | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb&#34;&gt;Code Practice A&lt;/a&gt; (Download &amp;ldquo;Raw&amp;rdquo; as ipynb) &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;topic-6-review-applications&#34;&gt;Topic 6.  Review &amp;amp; applications&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_review.pdf&#34;&gt;Outline&lt;/a&gt; | Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_exam_practice.ipynb&#34;&gt;review&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/UN_demography.ipynb&#34;&gt;applications&lt;/a&gt;) &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_review.pdf&#34;&gt;Outline&lt;/a&gt; | Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_exam_practice.ipynb&#34;&gt;review&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Lab/UN_demography.ipynb&#34;&gt;applications&lt;/a&gt;) &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Exam review, followed by applications to get us thinking about interesting datasets and how to work with them.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -385,7 +385,7 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;h2 id=&#34;topic-8-thinking-about-projects&#34;&gt;Topic 8.  Thinking about projects&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt; &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf&#34;&gt;Project Examples&lt;/a&gt; | Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_examples.ipynb&#34;&gt;examples&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_indicators.ipynb&#34;&gt;current indicators&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb&#34;&gt;demography&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb&#34;&gt;Airbnb&lt;/a&gt;) &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt; &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf&#34;&gt;Project Examples&lt;/a&gt; | Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_examples.ipynb&#34;&gt;examples&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_indicators.ipynb&#34;&gt;current indicators&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb&#34;&gt;demography&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb&#34;&gt;Airbnb&lt;/a&gt;) &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Projects:  say something interesting with data.  Idea machines. Examples.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -398,14 +398,14 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;h2 id=&#34;topic-9-more-pandas-cleaning&#34;&gt;Topic 9.  More Pandas: Cleaning&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-clean.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-clean.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the &lt;code&gt;isin&lt;/code&gt; and &lt;code&gt;contains&lt;/code&gt; methods.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;topic-10-more-pandas-shaping&#34;&gt;Topic 10.  More Pandas: Shaping&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-shape.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-shape.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the &lt;code&gt;isin&lt;/code&gt; and &lt;code&gt;contains&lt;/code&gt; methods.&lt;/p&gt;
 
 &lt;!-- TODO: this needs to be changed once we re-arrange the book --&gt;
@@ -421,21 +421,21 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;h2 id=&#34;topic-12-more-pandas-combining-summarizing-data&#34;&gt;Topic 12.  More Pandas: Combining &amp;amp; summarizing data&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-merge.ipynb&#34;&gt;combining&lt;/a&gt;|&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_pandas-summarize.ipynb&#34;&gt;summarizing&lt;/a&gt;)&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-merge.ipynb&#34;&gt;combining&lt;/a&gt;|&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-summarize.ipynb&#34;&gt;summarizing&lt;/a&gt;)&lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Combining dataframes (merge, concatenate).  Statistics (mean, median, quantiles), categorical variables, grouping data by categories, counts and statistics by category.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;topic-advanced-graphics-with-seaborn-and-plotly&#34;&gt;Topic.  Advanced graphics with Seaborn and Plotly&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_plotly.ipynb&#34;&gt;Plotly&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_advgraphics_seaborn.ipynb&#34;&gt;Seaborn &lt;/a&gt;)  &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_plotly.ipynb&#34;&gt;Plotly&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_advgraphics_seaborn.ipynb&#34;&gt;Seaborn &lt;/a&gt;)  &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt; We cover more advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort. We also show how to leverage plotly&amp;rsquo;s unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;topic-web-scraping&#34;&gt;Topic.  Web scraping&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_scraping-sortof.ipynb&#34;&gt;Code&lt;/a&gt;  &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_scraping-sortof.ipynb&#34;&gt;Code&lt;/a&gt;  &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt; Python has great tools for scraping data off websites. We will give a &lt;em&gt;very light&lt;/em&gt; introduction to some of the routines we&amp;rsquo;ve found useful for doing this.&lt;/p&gt;
 
 &lt;hr /&gt;
