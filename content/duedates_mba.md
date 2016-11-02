@@ -6,11 +6,11 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2016, MBA section.  Deliverables a
 
 **September 28** <br> If you haven't already, complete the [Entry Poll](https://docs.google.com/forms/d/e/1FAIpQLSdiVdav2f6RFCiopp3MGHZRX6PKR5MA77z2NrFrdXV8eFFgaQ/viewform), sign up for the [Discussion Group](https://piazza.com/nyu/fall2016/econgb2313), and read the [Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf) and [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 
-**October 05** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf).
+**October 05** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf)  ([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_1_answers.pdf)).
 
-**October 19** <br> Submit answers to [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf).
+**October 19** <br> Submit answers to [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) ([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_2_answers.pdf)).
 
-**November 02** <br> Submit answers to [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf).
+**November 02** <br> Submit answers to [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf) ([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_3_answers.pdf)).
 
 **November 09** <br> Recommended but not graded:  [Optional Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_practice_a.ipynb).
 
@@ -37,4 +37,3 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 **December 14** <br> Submit project by email to nyu.databootcamp@gmail.com. The subject line should be "bootcamp project mba".  The file name should be your last names separated by dashes and a short title;  eg, something like *Jones-Smith-Zhang-India.ipynb*. See [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf) for additional information.
 
 We're willing to give you another week, but the absolute latest time a project can be submitted is **5pm December 21**.  No exceptions.  Keep in mind that this is the last possible time, not a target; you're more than welcome to submit your project earlier.  And honestly, you don't want this to drag on any longer.
-
