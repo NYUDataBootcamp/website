@@ -69,7 +69,7 @@ We have almost enough for another course.  If there's something you'd particular
 ## Topic 10.  More Pandas: Shaping
 
 **Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-shape.ipynb) <br>
-**Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods.
+**Summary:**  Here we introduce for key methods for "shaping" our data: `df.set_index`, `df.reset_index`, `df.stack`, and `df.unstack`. When we say shaping we mean manipulating the data so we get specific row and column labels.
 
 <!-- TODO: this needs to be changed once we re-arrange the book -->
 ---
