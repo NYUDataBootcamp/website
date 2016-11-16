@@ -406,7 +406,7 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 &lt;h2 id=&#34;topic-10-more-pandas-shaping&#34;&gt;Topic 10.  More Pandas: Shaping&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-shape.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
-&lt;strong&gt;Summary:&lt;/strong&gt;  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the &lt;code&gt;isin&lt;/code&gt; and &lt;code&gt;contains&lt;/code&gt; methods.&lt;/p&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Here we introduce for key methods for &amp;ldquo;shaping&amp;rdquo; our data: &lt;code&gt;df.set_index&lt;/code&gt;, &lt;code&gt;df.reset_index&lt;/code&gt;, &lt;code&gt;df.stack&lt;/code&gt;, and &lt;code&gt;df.unstack&lt;/code&gt;. When we say shaping we mean manipulating the data so we get specific row and column labels.&lt;/p&gt;
 
 &lt;!-- TODO: this needs to be changed once we re-arrange the book --&gt;
 
