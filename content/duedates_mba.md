@@ -14,7 +14,7 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2016, MBA section.  Deliverables a
 
 **November 09** <br> Recommended but not graded:  [Optional Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb).
 
-**November 09** <br> Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).
+**November 09** <br> Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes). [Answer key](https://github.com/NYUDataBootcamp/Materials/blob/699ddafb62e852c1f0add529b742dc136b89adb9/Code/notebooks/bootcamp_exam_f16_answers.ipynb)
 
 **November 16** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 (We're willing to let this slide a week.  The point is that you should start thinking
