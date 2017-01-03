@@ -25,9 +25,9 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
 ## Contact information
 
-<!-- Chase Coleman: [cc7768@gmail.com](mailto:cc7768@gmail.com) -->
+Daniel Csaba: [csaba.daniel@gmail.com](mailto:csaba.daniel@gmail.com)
 
-<!-- Spencer Lyon: [sgl290@nyu.edu](mailto:sgl290@nyu.edu) -->
+Balint Szoke: [balint.szoke@gmail.com](mailto:balint.szoke@gmail.com)
 
 **UG section** <br> Sean D Rosario, teaching fellow, [sdr375@nyu.edu](mailto:sdr375@nyu.edu)
 
