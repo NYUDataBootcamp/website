@@ -21,7 +21,7 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
 **MBA:**  ECON-GB.2313, Wednesday nights, 6-9pm, KMC 3-50, September 21 to December 21
 
-**Future:** We expect to offer sections in Spring 2017.
+**Future:** We expect to offer sections in Fall 2017.
 
 ## Contact information
 
