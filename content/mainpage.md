@@ -15,23 +15,23 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 **Class Outlines** can be found under *Topic outlines & links* (look left). <br> **Code Practice** can be found in the same place -- and under *Due dates* (ditto).
 
 
-## Spring 2016 schedule
+## Spring 2017 schedule
 
-**Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 2-3:15, Tisch LC-25, September 6 to December 15 <br>
+**Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 11:00am-12:15pm, Tisch LC-25, January 24 to May 4 <br>
 
-**MBA:**  ECON-GB.2313, Wednesday nights, 6-9pm, KMC 3-50, September 21 to December 21
+**MBA:**  ECON-GB.2313, Tuesday, 1:30pm-4:20pm, KMC 3-90, January 31 to May 2
 
-**Future:** We expect to offer sections in Spring 2017.
+**Future:** We expect to offer sections in Fall 2017.
 
 ## Contact information
 
-Chase Coleman: [cc7768@gmail.com](mailto:cc7768@gmail.com)
+Daniel Csaba: [csaba.daniel@gmail.com](mailto:csaba.daniel@gmail.com)
 
-Spencer Lyon: [sgl290@nyu.edu](mailto:sgl290@nyu.edu)
+Balint Szoke: [balint.szoke@gmail.com](mailto:balint.szoke@gmail.com)
 
-**UG section** <br> Sean D Rosario, teaching fellow, [sdr375@nyu.edu](mailto:sdr375@nyu.edu)
+**UG section** <br> Jihyun Kim, teaching fellow, [jihyun@nyu.edu](mailto:jihyun@nyu.edu)
 
-**MBA section** <br> Itamar Snir, teaching fellow, [is1413@stern.nyu.edu](mailto:is1413@stern.nyu.edu)
+**MBA section** <br> Jihyun Kim, teaching fellow, [jihyun@nyu.edu](mailto:jihyun@nyu.edu)
 
 
 ## Other materials
