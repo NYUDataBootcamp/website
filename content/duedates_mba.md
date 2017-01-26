@@ -6,11 +6,22 @@ Due dates for Data Bootcamp @ NYU Stern, Spring 2017, MBA section.  Deliverables
 
 **February 7** <br> If you haven't already, complete the [Entry Poll](https://docs.google.com/forms/d/e/1FAIpQLSdiVdav2f6RFCiopp3MGHZRX6PKR5MA77z2NrFrdXV8eFFgaQ/viewform), sign up for the [Discussion Group](https://piazza.com/nyu/fall2016/econgb2313), and read the [Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf) and [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 
-**February 14** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf)  ([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_1_answers.pdf)).
+**February 14** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) 
 
-**February 21** <br> Submit answers to [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) ([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_2_answers.pdf)).
+<!---
+([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_1_answers.pdf)).
+-->
 
-**February 28** <br> Submit answers to [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf) ([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_3_answers.pdf)).
+**February 21** <br> Submit answers to [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf)
+<!---
+([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_2_answers.pdf)).
+-->
+
+**February 28** <br> Submit answers to [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf)
+
+<!---
+([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_3_answers.pdf)).
+-->
 
 **March 7** <br> Recommended but not graded:  [Optional Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb).
 
