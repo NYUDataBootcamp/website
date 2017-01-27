@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Bootcamp</title>
-    <link>http://nyudatabootcamp.github.io/website/index.xml</link>
+    <link>http://nyu.data-bootcamp.com/index.xml</link>
     <description>Recent content on Data Bootcamp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://nyudatabootcamp.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://nyu.data-bootcamp.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/data/</link>
+      <link>http://nyu.data-bootcamp.com/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/data/</guid>
+      <guid>http://nyu.data-bootcamp.com/data/</guid>
       <description>
 
 &lt;h1 id=&#34;data-bootcamp-data-sources-applications&#34;&gt;Data Bootcamp:  Data sources &amp;amp; applications&lt;/h1&gt;
@@ -117,10 +117,10 @@ well organized list at the end.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/duedates_mba/</link>
+      <link>http://nyu.data-bootcamp.com/duedates_mba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/duedates_mba/</guid>
+      <guid>http://nyu.data-bootcamp.com/duedates_mba/</guid>
       <description>
 
 &lt;h1 id=&#34;data-bootcamp-mba-due-dates&#34;&gt;Data Bootcamp:  MBA Due Dates&lt;/h1&gt;
@@ -182,10 +182,10 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/duedates_ug/</link>
+      <link>http://nyu.data-bootcamp.com/duedates_ug/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/duedates_ug/</guid>
+      <guid>http://nyu.data-bootcamp.com/duedates_ug/</guid>
       <description>
 
 &lt;h1 id=&#34;data-bootcamp-ug-due-dates&#34;&gt;Data Bootcamp:  UG Due Dates&lt;/h1&gt;
@@ -228,10 +228,10 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/faq/</link>
+      <link>http://nyu.data-bootcamp.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/faq/</guid>
+      <guid>http://nyu.data-bootcamp.com/faq/</guid>
       <description>
 
 &lt;h1 id=&#34;data-bootcamp-description-sales-pitch&#34;&gt;Data Bootcamp:  Description &amp;amp; Sales Pitch&lt;/h1&gt;
@@ -280,10 +280,10 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/mainpage/</link>
+      <link>http://nyu.data-bootcamp.com/mainpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/mainpage/</guid>
+      <guid>http://nyu.data-bootcamp.com/mainpage/</guid>
       <description>
 
 &lt;h1 id=&#34;data-bootcamp&#34;&gt;Data Bootcamp&lt;/h1&gt;
@@ -292,7 +292,7 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;p&gt;More concretely, the course is designed to (i) introduce students to sources of economic, financial, and business data and (ii) give &lt;strong&gt;programming newbies&lt;/strong&gt; a sense of how modern software &amp;ndash; in this case Python &amp;ndash; makes life easier and more interesting. We&amp;rsquo;ll let data speak for itself. As for coding: It&amp;rsquo;s a skill that opens doors to new &lt;strong&gt;career opportunities&lt;/strong&gt;. You can do lots of things in Excel, but if you value your time &amp;ndash; and you should &amp;ndash; you&amp;rsquo;ll find you can do more, and do it more quickly, with a modern programming language. We like to say we do it because we&amp;rsquo;re lazy, laziness being a synonym here for efficiency.&lt;/p&gt;
 
-&lt;p&gt;If that doesn&amp;rsquo;t convince you, there&amp;rsquo;s more on our &lt;a href=&#34;http://nyudatabootcamp.github.io/website/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If that doesn&amp;rsquo;t convince you, there&amp;rsquo;s more on our &lt;a href=&#34;http://nyu.data-bootcamp.com/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Quick links:&lt;/strong&gt;  &lt;strong&gt;&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf&#34;&gt;Syllabus&lt;/a&gt;&lt;/strong&gt; | &lt;strong&gt;&lt;a href=&#34;https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details&#34;&gt;Book&lt;/a&gt;&lt;/strong&gt; | &lt;strong&gt;&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Guide&lt;/a&gt;&lt;/strong&gt; | Discussion Groups (&lt;strong&gt;&lt;a href=&#34;https://piazza.com/nyu/fall2016/econub0232&#34;&gt;UG&lt;/a&gt;&lt;/strong&gt; | &lt;strong&gt;&lt;a href=&#34;https://piazza.com/nyu/fall2016/econgb2313&#34;&gt;MBA&lt;/a&gt;&lt;/strong&gt;)&lt;/p&gt;
 
@@ -339,10 +339,10 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/outline/</link>
+      <link>http://nyu.data-bootcamp.com/outline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/outline/</guid>
+      <guid>http://nyu.data-bootcamp.com/outline/</guid>
       <description>
 
 &lt;h1 id=&#34;data-bootcamp-topic-outlines-links&#34;&gt;Data Bootcamp: Topic outlines &amp;amp; links&lt;/h1&gt;
@@ -500,10 +500,10 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/outline_intro_old/</link>
+      <link>http://nyu.data-bootcamp.com/outline_intro_old/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/outline_intro_old/</guid>
+      <guid>http://nyu.data-bootcamp.com/outline_intro_old/</guid>
       <description>
 
 &lt;h1 id=&#34;topic-introduction-to-data-and-python&#34;&gt;Topic:  Introduction to Data and Python&lt;/h1&gt;
@@ -650,10 +650,10 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/team/</link>
+      <link>http://nyu.data-bootcamp.com/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/team/</guid>
+      <guid>http://nyu.data-bootcamp.com/team/</guid>
       <description>
 
 &lt;h1 id=&#34;data-bootcamp-our-team&#34;&gt;Data Bootcamp:  Our Team&lt;/h1&gt;
@@ -664,10 +664,10 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/topic_fun1/</link>
+      <link>http://nyu.data-bootcamp.com/topic_fun1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/topic_fun1/</guid>
+      <guid>http://nyu.data-bootcamp.com/topic_fun1/</guid>
       <description>
 
 &lt;h1 id=&#34;data-bootcamp-topic-outline&#34;&gt;Data Bootcamp Topic Outline&lt;/h1&gt;
@@ -763,10 +763,10 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
     
     <item>
       <title></title>
-      <link>http://nyudatabootcamp.github.io/website/topic_intro/</link>
+      <link>http://nyu.data-bootcamp.com/topic_intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nyudatabootcamp.github.io/website/topic_intro/</guid>
+      <guid>http://nyu.data-bootcamp.com/topic_intro/</guid>
       <description>
 
 &lt;h1 id=&#34;topic-1-data-python&#34;&gt;Topic 1:  Data + Python&lt;/h1&gt;
