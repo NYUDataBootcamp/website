@@ -1,4 +1,4 @@
-baseurl = "http://nyudatabootcamp.github.io/website/"
+baseurl = "http://nyu.data-bootcamp.com"
 languageCode = "en-us"
 title = "Data Bootcamp"
 metaDataFormat = "yaml"
