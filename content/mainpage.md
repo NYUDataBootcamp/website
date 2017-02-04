@@ -15,11 +15,11 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 **Class Outlines** can be found under *Topic outlines & links* (look left). <br> **Code Practice** can be found in the same place -- and under *Due dates* (ditto).
 
 
-## Spring 2016 schedule
+## Spring 2017 schedule
 
-**Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 2-3:15, Tisch LC-25, September 6 to December 15 <br>
+**Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 11:00am-12:15pm, Tisch LC-25, January 24 to May 4 <br>
 
-**MBA:**  ECON-GB.2313, Wednesday nights, 6-9pm, KMC 3-50, September 21 to December 21
+**MBA:**  ECON-GB.2313, Tuesday, 1:30pm-4:20pm, KMC 3-90, January 31 to May 2
 
 **Future:** We expect to offer sections in Fall 2017.
 
@@ -29,9 +29,13 @@ Daniel Csaba: [csaba.daniel@gmail.com](mailto:csaba.daniel@gmail.com)
 
 Balint Szoke: [balint.szoke@gmail.com](mailto:balint.szoke@gmail.com)
 
-**UG section** <br> Sean D Rosario, teaching fellow, [sdr375@nyu.edu](mailto:sdr375@nyu.edu)
+**UG section** <br> Jihyun Kim, teaching fellow,
+[jihyun@nyu.edu](mailto:jihyun@nyu.edu), Office hours: Wednesday 4:00pm-6:00pm, KMC
+7-100 (pc: 2015)
 
-**MBA section** <br> Itamar Snir, teaching fellow, [is1413@stern.nyu.edu](mailto:is1413@stern.nyu.edu)
+**MBA section** <br> Jihyun Kim, teaching fellow,
+[jihyun@nyu.edu](mailto:jihyun@nyu.edu), Office hours: Wednesday,
+4:00pm-6:00pm, KMC 7-100 (pc: 2015)
 
 
 ## Other materials
@@ -45,7 +49,6 @@ In addition to the quick links at the top, keep in mind:
 ## Before the first class
 
 * Make sure you have a **laptop computer** you can bring to class and install your own programs on.  This is a must.  We will be writing programs in every class.
-* Take our **[entry poll](https://docs.google.com/forms/d/e/1FAIpQLSdiVdav2f6RFCiopp3MGHZRX6PKR5MA77z2NrFrdXV8eFFgaQ/viewform)** (click on the link, follow instructions).
+* Take our **[entry poll](https://docs.google.com/forms/d/e/1FAIpQLSc5qEeeYuwKzVgD0HrjLf79zP1yCg5f9b7wzFevpbdETsKMdw/viewform?c=0&w=1)** (click on the link, follow instructions).
 * Join a **discussion group:** [UG](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug) | [MBA](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba).
 * Bring a **nameplate** to class.  If you don't have one, type your first name in this [template](https://docs.google.com/document/d/18mDKqDO-48wbwYfFEGD0BAYJRsshRRRxR9IEKhekTWM/edit?usp=sharing), print it, and fold it in thirds.
-* Non-Stern students:  **[activate your Stern account](https://w3.stern.nyu.edu/start/home)** to get wireless access.  If you have trouble, stop by the Help Desk in the lobby between KMC and Tisch or email [helpdesk@stern.nyu.edu](mailto:helpdesk@stern.nyu.edu).
