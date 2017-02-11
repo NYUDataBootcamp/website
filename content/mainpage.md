@@ -43,7 +43,7 @@ Balint Szoke: [balint.szoke@gmail.com](mailto:balint.szoke@gmail.com)
 In addition to the quick links at the top, keep in mind:
 
 * Our **GitHub repository** (collection of files): [Course Materials](https://github.com/NYUDataBootcamp/Materials) | [Python programs](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python) | [Jupyter notebooks](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks) | [Experiments](https://github.com/NYUDataBootcamp/Lab)
-* **Video lectures** (Spring, 2017): [UG](https://www.dropbox.com/sh/zngcjawxvia39yg/AACD6ei1GDaDVpgEJAr4-unba?dl=0) | [MBA](https://www.dropbox.com/sh/mnofw99wvnppk8y/AAD2L6pHz7M3crfpArQBD4U1a?dl=0)
+* **Recorded lectures** (Spring 2017): [UG](httsps://www.dropbox.com/sh/zngcjawxvia39yg/AACD6ei1GDaDVpgEJAr4-unba?dl=0) | [MBA](https://www.dropbox.com/sh/mnofw99wvnppk8y/AAD2L6pHz7M3crfpArQBD4U1a?dl=0)
 * Or **search**:  [nyu data bootcamp](http://lmgtfy.com/?q=nyu+data+bootcamp)
 
 
