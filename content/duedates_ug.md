@@ -22,8 +22,10 @@ Due dates for Data Bootcamp @ NYU Stern, Spring 2017, Undergrad section.  Delive
 
 [Spring Break, have fun]
 
-**March 23** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br> (We're willing to let this slide till April 6.  The point is that you should start thinking about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)
 
+<!--
+**March 23** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br> (We're willing to let this slide till April 6.  The point is that you should start thinking about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)
+-->
 
 **April 6** <br> Submit [Project Proposal](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 

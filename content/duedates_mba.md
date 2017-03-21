@@ -6,7 +6,7 @@ Due dates for Data Bootcamp @ NYU Stern, Spring 2017, MBA section.  Deliverables
 
 **February 7** <br> If you haven't already, complete the [Entry Poll](https://docs.google.com/forms/d/e/1FAIpQLSdiVdav2f6RFCiopp3MGHZRX6PKR5MA77z2NrFrdXV8eFFgaQ/viewform), sign up for the [Discussion Group](https://piazza.com/nyu/fall2016/econgb2313), and read the [Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf) and [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 
-**February 14** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) 
+**February 14** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf)
 
 <!---
 ([answers](http://nyu-databootcamp.s3-us-west-2.amazonaws.com/bootcamp_practice_1_answers.pdf)).
@@ -27,20 +27,19 @@ Due dates for Data Bootcamp @ NYU Stern, Spring 2017, MBA section.  Deliverables
 
 **March 7** <br> Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).
 
-<!--
-[Answer key](https://github.com/NYUDataBootcamp/Materials/blob/699ddafb62e852c1f0add529b742dc136b89adb9/Code/notebooks/bootcamp_exam_f16_answers.ipynb)
--->
+[Answer key](https://www.dropbox.com/s/1a5e7c2tov42yn2/bootcamp_exam_s17_answers.ipynb?dl=0)
 
 [Spring Break, have fun]
 
+<!--
 **March 21** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 (We're willing to let this slide till April 4.  The point is that you should start thinking
 about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)
+-->
 
 <!--
 Recommended but not graded:  [Optional Code Practice B](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_b.pdf).
 -->
-
 
 **April 4** <br> Submit [Project Proposal](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 

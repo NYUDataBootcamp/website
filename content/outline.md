@@ -62,24 +62,24 @@ We have almost enough for another course.  If there's something you'd particular
 ---
 ## Topic 9.  More Pandas: Cleaning
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-clean.ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv1-clean.ipynb) <br>
 **Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods.
 
 ---
 ## Topic 10.  More Pandas: Shaping
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-shape.ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
 **Summary:**  Here we introduce for key methods for "shaping" our data: `df.set_index`, `df.reset_index`, `df.stack`, and `df.unstack`. When we say shaping we mean manipulating the data so we get specific row and column labels.
 
 <!-- TODO: this needs to be changed once we re-arrange the book -->
 ---
-## Topic 11.  Updating and installing packages
+## Topic 11.  Web scraping
 
-**Handouts:**  [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/conda-pip.html) <br>
-**Summary:**  Using conda, pip, etc.  Updating Anaconda, installing Seaborn, Plotly, and Pandas-Datareader.
-
+**Handouts:**  [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_scraping-sortof.ipynb)  <br>
+**Summary:** Python has great tools for scraping data off websites. We will give a _very light_ introduction to some of the routines we've found useful for doing this.
 
 ---
+
 ## Topic 12.  More Pandas: Combining & summarizing data
 
 **Handouts:**  Code ([combining](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-merge.ipynb)|[summarizing](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-summarize.ipynb))<br>
@@ -87,16 +87,17 @@ We have almost enough for another course.  If there's something you'd particular
 
 
 ---
-## Topic.  Advanced graphics with Seaborn and Plotly
+## Topic.  Advanced graphics with Plotly and Seaborn
 
 **Handouts:**  Code ([Plotly](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_plotly.ipynb) | [Seaborn ](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_advgraphics_seaborn.ipynb))  <br>
 **Summary:** We cover more advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort. We also show how to leverage plotly's unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.
 
 ---
-## Topic.  Web scraping
+## Topic.  Updating and installing packages
 
-**Handouts:**  [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_scraping-sortof.ipynb)  <br>
-**Summary:** Python has great tools for scraping data off websites. We will give a _very light_ introduction to some of the routines we've found useful for doing this.
+**Handouts:**  [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/conda-pip.html) <br>
+**Summary:**  Using conda, pip, etc.  Updating Anaconda, installing Seaborn, Plotly, and Pandas-Datareader.
+
 
 ---
 
