@@ -152,15 +152,15 @@ well organized list at the end.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;March 7&lt;/strong&gt; &lt;br&gt; Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).&lt;/p&gt;
 
-&lt;!--
-[Answer key](https://github.com/NYUDataBootcamp/Materials/blob/699ddafb62e852c1f0add529b742dc136b89adb9/Code/notebooks/bootcamp_exam_f16_answers.ipynb)
---&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/1a5e7c2tov42yn2/bootcamp_exam_s17_answers.ipynb?dl=0&#34;&gt;Answer key&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;[Spring Break, have fun]&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;March 21&lt;/strong&gt; &lt;br&gt; Submit &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Revised Project Ideas&lt;/a&gt;.
-(We&amp;rsquo;re willing to let this slide till April 4.  The point is that you should start thinking
-about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)&lt;/p&gt;
+&lt;!--
+**March 21** &lt;br&gt; Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
+(We&#39;re willing to let this slide till April 4.  The point is that you should start thinking
+about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)
+--&gt;
 
 &lt;!--
 Recommended but not graded:  [Optional Code Practice B](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_b.pdf).
@@ -212,7 +212,9 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;p&gt;[Spring Break, have fun]&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;March 23&lt;/strong&gt; &lt;br&gt; Submit &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Revised Project Ideas&lt;/a&gt;. &lt;br&gt; (We&amp;rsquo;re willing to let this slide till April 6.  The point is that you should start thinking about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)&lt;/p&gt;
+&lt;!--
+**March 23** &lt;br&gt; Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). &lt;br&gt; (We&#39;re willing to let this slide till April 6.  The point is that you should start thinking about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)
+--&gt;
 
 &lt;p&gt;&lt;strong&gt;April 6&lt;/strong&gt; &lt;br&gt; Submit &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf&#34;&gt;Project Proposal&lt;/a&gt;.&lt;/p&gt;
 
@@ -421,24 +423,24 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;h2 id=&#34;topic-9-more-pandas-cleaning&#34;&gt;Topic 9.  More Pandas: Cleaning&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-clean.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv1-clean.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the &lt;code&gt;isin&lt;/code&gt; and &lt;code&gt;contains&lt;/code&gt; methods.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&#34;topic-10-more-pandas-shaping&#34;&gt;Topic 10.  More Pandas: Shaping&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-shape.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf&#34;&gt;Outline&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv2-shape.ipynb&#34;&gt;Code&lt;/a&gt; &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt;  Here we introduce for key methods for &amp;ldquo;shaping&amp;rdquo; our data: &lt;code&gt;df.set_index&lt;/code&gt;, &lt;code&gt;df.reset_index&lt;/code&gt;, &lt;code&gt;df.stack&lt;/code&gt;, and &lt;code&gt;df.unstack&lt;/code&gt;. When we say shaping we mean manipulating the data so we get specific row and column labels.&lt;/p&gt;
 
 &lt;!-- TODO: this needs to be changed once we re-arrange the book --&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;topic-11-updating-and-installing-packages&#34;&gt;Topic 11.  Updating and installing packages&lt;/h2&gt;
+&lt;h2 id=&#34;topic-11-web-scraping&#34;&gt;Topic 11.  Web scraping&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/conda-pip.html&#34;&gt;Book chapter&lt;/a&gt; &lt;br&gt;
-&lt;strong&gt;Summary:&lt;/strong&gt;  Using conda, pip, etc.  Updating Anaconda, installing Seaborn, Plotly, and Pandas-Datareader.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_scraping-sortof.ipynb&#34;&gt;Code&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt; Python has great tools for scraping data off websites. We will give a &lt;em&gt;very light&lt;/em&gt; introduction to some of the routines we&amp;rsquo;ve found useful for doing this.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -449,17 +451,17 @@ Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDat
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;topic-advanced-graphics-with-seaborn-and-plotly&#34;&gt;Topic.  Advanced graphics with Seaborn and Plotly&lt;/h2&gt;
+&lt;h2 id=&#34;topic-advanced-graphics-with-plotly-and-seaborn&#34;&gt;Topic.  Advanced graphics with Plotly and Seaborn&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  Code (&lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_plotly.ipynb&#34;&gt;Plotly&lt;/a&gt; | &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_advgraphics_seaborn.ipynb&#34;&gt;Seaborn &lt;/a&gt;)  &lt;br&gt;
 &lt;strong&gt;Summary:&lt;/strong&gt; We cover more advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort. We also show how to leverage plotly&amp;rsquo;s unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;topic-web-scraping&#34;&gt;Topic.  Web scraping&lt;/h2&gt;
+&lt;h2 id=&#34;topic-updating-and-installing-packages&#34;&gt;Topic.  Updating and installing packages&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_scraping-sortof.ipynb&#34;&gt;Code&lt;/a&gt;  &lt;br&gt;
-&lt;strong&gt;Summary:&lt;/strong&gt; Python has great tools for scraping data off websites. We will give a &lt;em&gt;very light&lt;/em&gt; introduction to some of the routines we&amp;rsquo;ve found useful for doing this.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Handouts:&lt;/strong&gt;  &lt;a href=&#34;https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/conda-pip.html&#34;&gt;Book chapter&lt;/a&gt; &lt;br&gt;
+&lt;strong&gt;Summary:&lt;/strong&gt;  Using conda, pip, etc.  Updating Anaconda, installing Seaborn, Plotly, and Pandas-Datareader.&lt;/p&gt;
 
 &lt;hr /&gt;
 
