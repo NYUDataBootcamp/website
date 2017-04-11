@@ -43,7 +43,7 @@ Recommended but not graded:  [Optional Code Practice B](https://github.com/NYUDa
 
 **April 4** <br> Submit [Project Proposal](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 
-**April 20** <br> Submit [Data Report](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).  This is really a little late; we urge you to think about data from the beginning. Ask for help if you're not sure you have what you need.
+**April 18** <br> Submit [Data Report](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).  This is really a little late; we urge you to think about data from the beginning. Ask for help if you're not sure you have what you need.
 
 <!--
 Recommended but not graded: [Optional Code Practice C](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_c.pdf).
