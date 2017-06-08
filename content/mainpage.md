@@ -15,7 +15,7 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 **Class Outlines** can be found under *Topic outlines & links* (look left). <br> **Code Practice** can be found in the same place -- and under *Due dates* (ditto).
 
 
-## Spring 2016 schedule
+## Fall 2016 schedule
 
 **Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 2-3:15, Tisch LC-25, September 6 to December 15 <br>
 
