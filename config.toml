@@ -1,4 +1,4 @@
-baseurl = "http://nyudatabootcamp.github.io/website/"
+baseurl = "http://nyu.data-bootcamp.com/"
 languageCode = "en-us"
 title = "Data Bootcamp"
 metaDataFormat = "yaml"
@@ -12,4 +12,5 @@ theme = "hyde-y"
     # Sidebar position
     sidebar = "true"  # false, true, "left", "right"
     home = "Home"
-    highlight = "default"
+    highlight = "tomorrow"
+    googleAnalytics = "UA-91442796-1"
