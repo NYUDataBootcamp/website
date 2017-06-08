@@ -1,6 +1,5 @@
 #! /bin/bash
 # buld current version of the site first
-git remote add origin git@github.com:NYUDataBootcamp/website.git
 git checkout master
 git pull origin master
 hugo -d public
