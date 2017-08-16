@@ -25,17 +25,7 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
 ## Contact information
 
-Daniel Csaba: [csaba.daniel@gmail.com](mailto:csaba.daniel@gmail.com)
-
-Balint Szoke: [balint.szoke@gmail.com](mailto:balint.szoke@gmail.com)
-
-**UG section** <br> Jihyun Kim, teaching fellow,
-[jihyun@nyu.edu](mailto:jihyun@nyu.edu), Office hours: Wednesday 4:00pm-6:00pm, KMC
-7-100 (pc: 2015)
-
-**MBA section** <br> Jihyun Kim, teaching fellow,
-[jihyun@nyu.edu](mailto:jihyun@nyu.edu), Office hours: Wednesday,
-4:00pm-6:00pm, KMC 7-100 (pc: 2015)
+To be updated...
 
 
 ## Other materials
