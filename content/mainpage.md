@@ -15,13 +15,13 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 **Class Outlines** can be found under *Topic outlines & links* (look left). <br> **Code Practice** can be found in the same place -- and under *Due dates* (ditto).
 
 
-## Spring 2017 schedule
+## Fall 2017 schedule
 
-**Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 11:00am-12:15pm, Tisch LC-25, January 24 to May 4 <br>
+**Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 11:00am-12:15pm, Tisch LC-25, January 24 to May 4
 
 **MBA:**  ECON-GB.2313, Tuesday, 1:30pm-4:20pm, KMC 3-90, January 31 to May 2
 
-**Future:** We expect to offer sections in Fall 2017.
+**Future:** We are offering sections in Spring 2018.
 
 ## Contact information
 
@@ -33,13 +33,12 @@ To be updated...
 In addition to the quick links at the top, keep in mind:
 
 * Our **GitHub repository** (collection of files): [Course Materials](https://github.com/NYUDataBootcamp/Materials) | [Python programs](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python) | [Jupyter notebooks](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks) | [Experiments](https://github.com/NYUDataBootcamp/Lab)
-* **Recorded lectures** (Spring 2017): [UG](https://www.dropbox.com/sh/zngcjawxvia39yg/AACD6ei1GDaDVpgEJAr4-unba?dl=0) | [MBA](https://www.dropbox.com/sh/mnofw99wvnppk8y/AAD2L6pHz7M3crfpArQBD4U1a?dl=0)
+
 * Or **search**:  [nyu data bootcamp](http://lmgtfy.com/?q=nyu+data+bootcamp)
 
 
 ## Before the first class
 
 * Make sure you have a **laptop computer** you can bring to class and install your own programs on.  This is a must.  We will be writing programs in every class.
-* Take our **[entry poll](https://docs.google.com/forms/d/e/1FAIpQLSc5qEeeYuwKzVgD0HrjLf79zP1yCg5f9b7wzFevpbdETsKMdw/viewform?c=0&w=1)** (click on the link, follow instructions).
 * Join a **discussion group:** [UG](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug) | [MBA](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba).
 * Bring a **nameplate** to class.  If you don't have one, type your first name in this [template](https://docs.google.com/document/d/18mDKqDO-48wbwYfFEGD0BAYJRsshRRRxR9IEKhekTWM/edit?usp=sharing), print it, and fold it in thirds.
