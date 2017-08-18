@@ -10,23 +10,20 @@ More concretely, the course is designed to (i) introduce students to sources of 
 
 If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
-**Quick links:**  **[Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf)** | **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | **[Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** | Discussion Groups (**[UG](https://piazza.com/nyu/fall2016/econub0232)** | **[MBA](https://piazza.com/nyu/fall2016/econgb2313)**)
+## Quicklinks:
+ **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | Discussion Groups (**[Undergrad]()** | **[MBA]()**)
 
-**Class Outlines** can be found under *Topic outlines & links* (look left). <br> **Code Practice** can be found in the same place -- and under *Due dates* (ditto).
+**Course Sites:** **[Fall 2017 Undergrad]({{< ref "duedates_ug.md" >}})** | **[Fall 2017 MBA]({{< ref "duedates_mba.md" >}})**
 
-
-## Fall 2017 schedule
-
-**Undergrad:**  ECON-UB.0232, Tuesday and Thursday, 11:00am-12:15pm, Tisch LC-25, January 24 to May 4
-
-**MBA:**  ECON-GB.2313, Tuesday, 1:30pm-4:20pm, KMC 3-90, January 31 to May 2
-
-**Future:** We are offering sections in Spring 2018.
+ Look left too! One the course sites you will find the syllabus, class outlines and topics, deliverables, and any other course specific information.
 
 ## Contact information
 
-To be updated...
-
+** Fall 2017 Undergrad Section **  |  ** Fall 2017 MBA Section **
+-|-
+[**Michael Waugh**](https://www.waugheconomics.com)  |  **Ben Zwieg**
+Email: mwaugh@stern.nyu.edu |  
+Office Hours: TBA  |  
 
 ## Other materials
 
