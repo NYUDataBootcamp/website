@@ -19,9 +19,9 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
 ## Contact information
 
-** [Fall 2017 Undergrad]({{< ref "duedates_ug.md" >}}) **  |  ** [Fall 2017 MBA]({{< ref "duedates_mba.md" >}})**
+[Fall 2017 Undergrad]({{< ref "duedates_ug.md" >}})  | [Fall 2017 MBA]({{< ref "duedates_mba.md" >}})
 :---|:---
-[**Michael Waugh**](https://www.waugheconomics.com)  |  **Ben Zwieg**
+[**Michael Waugh**](https://www.waugheconomics.com)  |  **Ben Zweig**
 Email: mwaugh@stern.nyu.edu |  
 Office Hours: TBA  |  
 
