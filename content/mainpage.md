@@ -11,7 +11,7 @@ More concretely, the course is designed to (i) introduce students to sources of 
 If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
 ## Quicklinks:
- **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | Discussion Groups (**[Undergrad]()** | **[MBA]()**)
+ **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | Discussion Groups: **[Undergrad]()** | **[MBA]()** 
 
 **Course Sites:** **[Fall 2017 Undergrad]({{< ref "undergrad_outline.md" >}})** | **[Fall 2017 MBA]({{< ref "duedates_mba.md" >}})**
 
@@ -23,6 +23,7 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 :---|:---
 Instructor: [**Michael Waugh**](https://www.waugheconomics.com)  |  **Ben Zweig**
 Email: [mwaugh@stern.nyu.edu](mailto:mwaugh@stern.nyu.edu) |  
+Office: KMC 7-74   |
 Office Hours: TBA  |  
 
 ## Other materials

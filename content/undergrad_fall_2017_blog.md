@@ -7,7 +7,7 @@
 
 * Join the **[discussion group](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug)**
 
-* Sign up for a **[GitHub](https://github.com)** account and email me your username.
+* Sign up for a **[GitHub](https://github.com)** account and **email me your username.**
 
 * Bring a **nameplate** to class.  If you don't have one, type your first name in this [template](https://docs.google.com/document/d/18mDKqDO-48wbwYfFEGD0BAYJRsshRRRxR9IEKhekTWM/edit?usp=sharing), print it, and fold it in thirds.
 
