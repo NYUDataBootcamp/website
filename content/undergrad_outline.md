@@ -4,6 +4,11 @@ This page is your key resource for the course. Everything you need is here! Belo
 
 Last update: \today
 
+## Where and When
+- Meeting times:
+
+- Meeting place:
+
 ---
 ## Important Links
 - **[THE SYLLABUS.](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf)** All the important details about the course, procedures, important dates, etc.
