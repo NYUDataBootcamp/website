@@ -16,9 +16,9 @@
 
 Welcome to Data Bootcamp!
 
-This is a very exciting course...the world is awash in data and being able to (i) harness, (ii) analyze, and (iii) communicate the analysis in a compelling way are must have skill for the future. I'm looking forward to the semester and helping you acquire these skills.  
+This is a very exciting course...the world is awash in data and being able to (i) harness, (ii) analyze, and (iii) communicate the analysis in a compelling way are must have skills for the future. Employers are looking for them and you will be a better employee. I'm looking forward to helping you acquire these skills.  
 
-This semester we will learn about data and how to analyze it using Python. Much of the day-to-day work will focus on how to use Python. In other words, the "harnessing" part of data analysis. However, harnessing data is not an end in itself, but a necessary step to be able to analyze and communicate data to help make better decisions. I will use this blog to focus on these later aspects (analysis and communication) and do so by discussing interesting uses of data that I find on the web.
+Much of the day-to-day work will focus on how to use Python. In other words, the "harnessing" part of data analysis. However, harnessing data is not an end in itself, but a necessary step to be able to analyze and communicate data to help make better decisions. I will use this blog to focus on these latter aspects (analysis and communication) and do so by discussing interesting uses of data that I find on the web.
 
 I will also use this blog to announce any changes in the course, reminders, things to watch etc. For example, the next blog post will discuss what you need to do to be prepared for the fist day of class.
 
