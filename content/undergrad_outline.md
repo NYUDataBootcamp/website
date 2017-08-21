@@ -1,9 +1,14 @@
-# Data Bootcamp: Topic outlines & links
+# Data Bootcamp: Undergrad Fall 2017
 
+This page is your key resource for the course. Everything you need is here! Below are links to key documents such as the syllabus, the book, and the blog. Moreover, there is a date by date list of topics, and links to material used in each class. **Please watch this site regularly to stay up to date.**
 
-A list of topics with links to material used in class.  We expect each topic to take roughly one week -- maybe a little more.
+Last update: \today
 
-The topics in the first half follow **[THE BOOK](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)**.  At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
+---
+## Important Links
+- **[THE SYLLABUS.](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf)** All the important details about the course, procedures, important dates, etc.
+- **[THE BOOK.](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
+- **[THE BLOG.]({{< ref "undergrad_fall_2017_blog.md" >}})** Remember this course is a data course that uses Python. In THE BLOG, I'll discuss interesting uses of data that I find on the web and talk through various issues.
 
 ---
 
