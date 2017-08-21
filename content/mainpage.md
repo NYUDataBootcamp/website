@@ -13,13 +13,13 @@ If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 ## Quicklinks:
  **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | Discussion Groups (**[Undergrad]()** | **[MBA]()**)
 
-**Course Sites:** **[Fall 2017 Undergrad]({{< ref "duedates_ug.md" >}})** | **[Fall 2017 MBA]({{< ref "duedates_mba.md" >}})**
+**Course Sites:** **[Fall 2017 Undergrad]({{< ref "undergrad_outline.md" >}})** | **[Fall 2017 MBA]({{< ref "duedates_mba.md" >}})**
 
  Look left too! One the course sites you will find the syllabus, class outlines and topics, deliverables, and any other course specific information.
 
 ## Contact information
 
-[Fall 2017 Undergrad]({{< ref "duedates_ug.md" >}})  | [Fall 2017 MBA]({{< ref "duedates_mba.md" >}})
+[Fall 2017 Undergrad]({{< ref "undergrad_outline.md" >}})  | [Fall 2017 MBA]({{< ref "duedates_mba.md" >}})
 :---|:---
 Instructor: [**Michael Waugh**](https://www.waugheconomics.com)  |  **Ben Zweig**
 Email: [mwaugh@stern.nyu.edu](mailto:mwaugh@stern.nyu.edu) |  
