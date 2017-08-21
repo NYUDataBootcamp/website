@@ -4,10 +4,14 @@ This page is your key resource for the course. Everything you need is here! Belo
 
 Last update: \today
 
-## Where and When
-- Meeting times:
+---
 
-- Meeting place:
+## Where and When
+- Who: [Michael Waugh](mailto:mwaugh@stern.nyu.edu)  (instructor), [Felipe Alves](mailto:falves@stern.nyu.edu) (teaching fellow)   
+
+- Meeting times: Monday and Wednesday 330-445pm
+
+- Meeting place: KMC 5-140
 
 ---
 ## Important Links

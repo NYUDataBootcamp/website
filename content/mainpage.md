@@ -11,7 +11,7 @@ More concretely, the course is designed to (i) introduce students to sources of 
 If that doesn't convince you, there's more on our [FAQ]({{< ref "faq.md" >}}).
 
 ## Quicklinks:
- **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | Discussion Groups: **[Undergrad]()** | **[MBA]()** 
+ **[Book](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)** | Discussion Groups: **[Undergrad]()** | **[MBA]()**
 
 **Course Sites:** **[Fall 2017 Undergrad]({{< ref "undergrad_outline.md" >}})** | **[Fall 2017 MBA]({{< ref "duedates_mba.md" >}})**
 
@@ -33,10 +33,3 @@ In addition to the quick links at the top, keep in mind:
 * Our **GitHub repository** (collection of files): [Course Materials](https://github.com/NYUDataBootcamp/Materials) | [Python programs](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/Python) | [Jupyter notebooks](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks) | [Experiments](https://github.com/NYUDataBootcamp/Lab)
 
 * Or **search**:  [nyu data bootcamp](http://lmgtfy.com/?q=nyu+data+bootcamp)
-
-
-## Before the first class
-
-* Make sure you have a **laptop computer** you can bring to class and install your own programs on.  This is a must.  We will be writing programs in every class.
-* Join a **discussion group:** [UG](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug) | [MBA](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_mba).
-* Bring a **nameplate** to class.  If you don't have one, type your first name in this [template](https://docs.google.com/document/d/18mDKqDO-48wbwYfFEGD0BAYJRsshRRRxR9IEKhekTWM/edit?usp=sharing), print it, and fold it in thirds.
