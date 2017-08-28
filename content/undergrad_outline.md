@@ -23,6 +23,14 @@ Last update: \today
 - **[DISCUSSION GROUP](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** This is where you can get help from other classmates and from myself.  
 
 ---
+## Important Dates
+
+- **Midterm Exam:** In class 
+(75 minutes, open book, open internet if the wireless is up, bring one page of notes).
+
+- **[Final Project](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** Due Date: **End of Day December 21, 2017**
+
+---
 
 ## Topic 1.  Data + Python = Magic!
 
@@ -74,7 +82,7 @@ Last update: \today
 ---
 ## Remaining topics will depend upon interest -- yours and ours.
 
-We have almost enough for another course.  If there's something you'd particularly like to see, let us know.The plan is to mix data applications and tools in parallel.  These topics are generally shorter than before.
+We have almost enough for another course.  If there's something you'd particularly like to see, let us know. The plan is to mix data applications and tools in parallel.  These topics are generally shorter than before.
 
 ---
 ## Topic 9.  More Pandas: Cleaning
@@ -118,33 +126,13 @@ We have almost enough for another course.  If there's something you'd particular
 
 ---
 
-The next three topics provide some structure for thinking about data.  *Distributions* is about the frequencies of various outcomes:  stock returns, incomes of individuals, medical expenses, movie grosses.  *Dependence* is about connections between two variables, a connection often summarized (incompletely) byt their correlation.  *Dynamics* is about the relation between a variable at two different dates. Is strong economic growth followed by the same?  How do bond ratings evolve?
+The next three topics provide some structure for thinking about data.  *Distributions* is about the frequencies of various outcomes:  stock returns, incomes of individuals, medical expenses, movie grosses.  *Dependence* is about connections between two variables, a connection often summarized (incompletely) by their correlation.  *Dynamics* is about the relation between a variable at two different dates. Is strong economic growth followed by the same?  How do bond ratings evolve?
 
 ---
 ## Topic.  Distributions
 
 **Handouts:**  Outline | Code  <br>
 **Summary:**  Some data is usefully described not by (say) its mean or median, but by its range of outcomes.  Examples include equity returns, the age distribution of the population, size of firms, and incomes of individuals.  We describe distributions with histograms, smoothed histograms (kde's), and so on.  We introduce the Numpy package along the way and use ipywidgets in Jupyter to add interactivity to our code.
-
----
-## Topic.  Dependence
-
-**Handouts:**  Outline | Code  <br>
-**Summary:**
-
----
-## Topic.  Dynamics
-
-**Handouts:**  Outline | Code  <br>
-**Summary:**
-
-
-<!--
-:  scatterplots, correlation, contour plot, Anscombe's quartet, Simpson's paradox.
-
-:  stock returns this month and next, cross-correlations, the ccf.
-
--->
 
 ---
 ## Topic.  Statistics & Machine Learning
