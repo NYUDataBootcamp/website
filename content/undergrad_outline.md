@@ -25,8 +25,7 @@ Last update: \today
 ---
 ## Important Dates
 
-- **Midterm Exam:** In class 
-(75 minutes, open book, open internet if the wireless is up, bring one page of notes).
+- **Midterm Exam:** **November 8, 2017.** Quick info: 75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes. 
 
 - **[Final Project](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** Due Date: **End of Day December 21, 2017**
 
