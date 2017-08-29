@@ -33,6 +33,7 @@ Last update: \today
 
 ### Week By Week Guide...
 
+<br>
 
 ## Topic 1.  Data + Python = Magic!
 
