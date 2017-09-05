@@ -22,6 +22,8 @@ Last update: \today
 
 - **[DISCUSSION GROUP](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** This is where you can get help from other classmates and from myself.  
 
+- **[DUE DATES]({{< ref "fall_duedates_ug.md" >}})** This provides a summary for the due dates for code practice, midterm exam, final project.
+
 ---
 ## Important Dates
 
@@ -44,7 +46,7 @@ Last update: \today
 ---
 ## Topic 2.  Python fundamentals 1
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | [Code Practice #1 (Due September 21)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
 **Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.
 
 ---
