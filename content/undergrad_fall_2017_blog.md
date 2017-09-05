@@ -1,6 +1,19 @@
 # THE BLOG: Undergrad Fall 2017
 
 ---
+**September 5, 2017...My Project Idea**
+
+The semester is about to start and---along with you---I will execute a project as well. Over the past couple of days, I've been thinking of ideas and here is one of them.
+
+Here is the issue: We just saw a hurricane devastate the Houston, Texas area. Economically, this area is interesting as it is the center of the petroleum refining for the United States. Suppose that you are an executive at some company, you might ask, well how will this affect my business?
+
+Now suppose that none of your customers are not in Houston and none of your suppliers are in Houston. So no effect right? Not so fast, suppose that your supplier uses supplies from a company that is in Houston and affected by the hurricane. Now, via the fact that production is interlinked amongst suppliers, indirectly your company may be impacted by the hurricane.
+
+But how would you acquire this information? It turns out that public companies must report large customers in their regulatory files. From these reports, one can construct the "network" of interlinked firms. Economic and finance researchers have done this, see [Cohen and Frazzini, 2008](http://www.econ.yale.edu/~af227/pdf/Economic%20Links%20and%20Predictable%20Returns%20-%20Cohen%20and%20Frazzini.pdf), and I'm thinking it may be interesting to compile this data myself. 
+
+
+
+---
 **August 21, 2017: Before the First Class Meeting...**
 
 * Make sure you have a **laptop computer** you can bring to class and install your own programs on.  This is a must.  We will be writing programs in every class.
@@ -10,7 +23,7 @@
 * Sign up for a **[GitHub](https://github.com)** account and **email me your username.**
 
 * Bring a **nameplate** to class.  If you don't have one, type your first name in this [template](https://docs.google.com/document/d/18mDKqDO-48wbwYfFEGD0BAYJRsshRRRxR9IEKhekTWM/edit?usp=sharing), print it, and fold it in thirds.
-* Familiarize your self with the course website. Spend some time and read the Syllabus, explore the FAQ, data sources, etc. 
+* Familiarize your self with the course website. Spend some time and read the Syllabus, explore the FAQ, data sources, etc.
 
 ---
 **August 21, 2017: Welcome to Data Bootcamp...**
