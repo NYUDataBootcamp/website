@@ -4,7 +4,7 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2017, Undergrad section.  Delivera
 
 **September 06** <br> First class.  Bring your computer, roll up your sleeves.
 
-**September 11** <br> If you haven't already, sign up for the [Discussion Group](https://groups.google.com/forum/#!forum/nyu_data_bootcamp_ug), sign up for a GitHub account and email me your user name, and read the [Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf) and [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
+**September 11** <br> If you haven't already, sign up for the [Discussion Group](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad), sign up for a [GitHub](https://github.com) account and email me your user name, and read the [Syllabus](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf) and [Project Guide](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 
 **September 22** <br> Submit answers to [Code Practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf).
 
@@ -18,7 +18,7 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2017, Undergrad section.  Delivera
 
 **November 15** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br> (We're willing to let this slide till April 12.  The point is that you should start thinking about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)
 
-[Thanksgiving break, have fun]
+Thanksgiving break, have fun...show your parents your GitHub site
 
 **November 27** <br> Submit [Project Proposal](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 

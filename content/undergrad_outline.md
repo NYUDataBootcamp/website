@@ -52,19 +52,19 @@ Last update: \today
 ---
 ## Topic 3.  Python fundamentals 2
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) | [Code Practice #2](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) | [Code Practice #2 (Due September 29)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 ---
 ## Topic 4.  Data input:  Packages and Pandas
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-input.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Python/bootcamp_pandas-input.py) (Download "Raw") | <!-- Code Practice 3 (coming soon) --> [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf)  ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-input.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Python/bootcamp_pandas-input.py) (Download "Raw") | <!-- Code Practice 3 (coming soon) --> [Code Practice #3 (Due October 13)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf)  ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.
 
 ---
 ## Topic 5.  Python graphics:  Matplotlib fundamentals
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics.ipynb) (Download "Raw" as ipynb) | [Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics.ipynb) (Download "Raw" as ipynb) | [Code Practice A (try by November 3)](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb) (Download "Raw" as ipynb) <br>
 **Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.
 
 ---
@@ -74,7 +74,7 @@ Last update: \today
 **Summary:**  Exam review, followed by applications to get us thinking about interesting datasets and how to work with them.
 
 ---
-## Topic 7.  Exam
+## Topic 7.  Midterm Exam: November 8
 
 **Posted after class:** Exam with answers
 
@@ -85,7 +85,7 @@ Last update: \today
 **Summary:**  Projects:  say something interesting with data.  Idea machines. Examples.
 
 ---
-## Remaining topics will depend upon interest -- yours and ours.
+## Remaining topics will depend upon interest --- yours and ours.
 
 We have almost enough for another course.  If there's something you'd particularly like to see, let us know. The plan is to mix data applications and tools in parallel.  These topics are generally shorter than before.
 
