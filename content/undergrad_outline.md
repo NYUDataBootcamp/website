@@ -99,7 +99,7 @@ We have almost enough for another course.  If there's something you'd particular
 ## Topic 10.  More Pandas: Shaping
 
 **Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
-**Summary:**  Here we introduce for key methods for "shaping" our data: `df.set_index`, `df.reset_index`, `df.stack`, and `df.unstack`. When we say shaping we mean manipulating the data so we get specific row and column labels.
+**Summary:**  Here we introduce four key methods for "shaping" our data: `df.set_index`, `df.reset_index`, `df.stack`, and `df.unstack`. When we say shaping we mean manipulating the data so we get specific row and column labels.
 
 <!-- TODO: this needs to be changed once we re-arrange the book -->
 ---
@@ -125,7 +125,7 @@ We have almost enough for another course.  If there's something you'd particular
 ---
 ## Topic.  Updating and installing packages
 
-**Handouts:**  [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/conda-pip.html) <br>
+**Handouts:**  [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/packages.html) <br>
 **Summary:**  Using conda, pip, etc.  Updating Anaconda, installing Seaborn, Plotly, and Pandas-Datareader.
 
 
