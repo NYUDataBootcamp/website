@@ -1,6 +1,18 @@
 # THE BLOG: Undergrad Fall 2017
 
 ---
+**September 6, 2007...What we did today**
+
+Welcome to the class, great start!!!
+
+- We talked about the idea behind the course, what you should expect, and some details regarding deliverables. Took a tour of the course materials.
+- We setup our directory for which we will always work from, store files, etc.
+- We downloaded Atom (if you use another text editor great) and created a `.csv` file.
+- We checked out GitHub, created a repository, then up loaded our file to this repository.
+
+Want to get ahead, download Anaconda distribution!
+
+---
 **September 5, 2017...My Project Idea**
 
 The semester is about to start and---along with you---I will execute a project. Over the past couple of days, I've been thinking of ideas and here is one of them.
