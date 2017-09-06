@@ -15,6 +15,7 @@ A couple of "big picture" points about this project:
 
 - First, there is an important lesson here in that there is wealth of public information available that can be used to answer interesting questions. In this case, the SEC wants investors to understand how firms may be exposed to risks associated with their customers. But this same information can allow you to understand more subtle linkages between firms by connecting the data. In other words data intended for one purpose can sometimes be used for other interesting purposes. How do you link it, well that's why your in this course...
 
+
 - Second, this project is non-trivial. It requires access to certain datasets (I need to see if I can get them); it will require the ability to read and interpret company names (i.e. I have to handle strings); it will require the ability to conceptualize, interpret, and communicate what I find to the relevant audience.
 
 What do you think? Let me know.
