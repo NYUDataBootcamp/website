@@ -16,7 +16,7 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2017, Undergrad section.  Delivera
 
 **November 08** <br> Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).
 
-**November 15** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br> (We're willing to let this slide till April 12.  The point is that you should start thinking about your project as soon as the exam is over.  But if you want to take another week to think about this, do it.)
+**November 15** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br> (You should start thinking about your project as soon as the exam is over.)
 
 Thanksgiving break, have fun...show your parents your GitHub site
 
