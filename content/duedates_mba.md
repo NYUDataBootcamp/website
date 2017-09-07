@@ -114,24 +114,6 @@ We also cover Scikit-learn, Machine Learning package to model various classifica
 
 
 ---
-## Remaining topics will depend upon interest --- yours and ours.
+## Topic 12. Review and General Project Discussion.
 
-We have almost enough for another course.  If there's something you'd particularly like to see, let us know. The plan is to mix data applications and tools in parallel.  These topics are generally shorter than before.
-
-
----
-## More Topic.  Advanced graphics with Plotly
-**Handouts:**  Code ([Plotly](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_plotly.ipynb))  
-**Summary:** We cover more advanced graphics using the plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We show how to leverage plotly's unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.
-
----
-## More Topic.  Updating and installing packages
-
-**Handouts:**  [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/packages.html) <br>
-**Summary:**  Using conda, pip, etc.  Updating Anaconda, installing Seaborn, Plotly, and Pandas-Datareader.
-
----
-## More Topic.  Distributions
-
-**Handouts:**  Outline | Code  <br>
-**Summary:**  Some data is usefully described not by (say) its mean or median, but by its range of outcomes.  Examples include equity returns, the age distribution of the population, size of firms, and incomes of individuals.  We describe distributions with histograms, smoothed histograms (kde's), and so on.  We introduce the Numpy package along the way and use ipywidgets in Jupyter to add interactivity to our code.
+Discussion regarding project status, challenges, etc.
