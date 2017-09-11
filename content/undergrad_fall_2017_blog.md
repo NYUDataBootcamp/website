@@ -1,5 +1,27 @@
 # THE BLOG: Undergrad Fall 2017
 
+**September 11, 2017...What
+
+
+---
+**September 11, 2017...Where should Amazon's new headquarters be?**
+
+Amazon asked this interesting question last week...it made a lot of news as the prospect of thousands of new jobs in any locality will have many consequences (some good, maybe bad?). But this question is a great data question, its not like Bezos said, "I'm really feeling Boston now, thus we will locate there". No, Amazon wants to find the place best fits their needs...well how do you determine that...with data!
+
+The Upshot at the New York Times beat us to it. Here is there analysis:
+
+https://nyti.ms/2xSR6Ka
+
+As you go through this article and associated graphic (I do think the graphic is boring and uninformative), think about those questions we discussed in class:
+- what is the story?
+- where did the data come from?
+- what more would you like to know?
+
+The Wall Street journal has a related article about places for companies to locate...
+
+https://www.wsj.com/articles/the-new-corporate-recruitment-pool-workers-in-dead-end-jobs-1505080840
+
+
 ---
 **September 5, 2017...My Project Idea**
 
