@@ -1,7 +1,19 @@
 # THE BLOG: Undergrad Fall 2017
 
-**September 11, 2017...What
+**September 11, 2007...What we did today**
 
+Great day!!! Lots accomplished....
+
+- We setup Anaconda, checked the version, opened Ipython and wrote <br>
+```
+print("hello world")
+```
+
+- We checked out Spyder (editor, Ipython console, object console) and then ran our first program from Spyder checking out our version number.
+- We downloaded the [maddison_data_input.py](https://github.com/NYUDataBootcamp/Lab/blob/master/Maddison_data_input.py) from GitHub and then ran the program --- we got our first experience, downloading, manipulating and plotting data.
+- We talked a bit about projects. Please spend sometime thinking about three project ideas and bring them to class on Wednesday.
+
+Next class, [Python fundamentals 1](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html), check out the book to prepare. 
 
 ---
 **September 11, 2017...Where should Amazon's new headquarters be?**
