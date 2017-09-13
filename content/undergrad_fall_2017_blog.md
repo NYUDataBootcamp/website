@@ -4,7 +4,7 @@
 
 Awesome work today!
 
-- We briefly talked about an FT graphic on Iphone releases and [my code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/roster_pull.py) that pulled your `my_first_file.csv` and analyzed the data.
+- We briefly talked about an [FT graphic](https://www.instagram.com/p/BY9JvVSnykv/?hl=en&taken-by=financialtimes) on Iphone releases and [my code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/roster_pull.py) that pulled your `my_first_file.csv` and analyzed the data.
 
 - We started working through the book chapter [Python fundamentals 1](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html). [My code for today is posted on GitHub.](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_0913.)
 
