@@ -1,6 +1,16 @@
 # THE BLOG: Undergrad Fall 2017
 
-**September 11, 2007...What we did today**
+**Septemer 13, 2017...What we did today**
+
+Awesome work today!
+- We briefly talked about an FT graphic on Iphone releases and [my code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/roster_pull.py) that pulled your `my_first_file.csv` and analyzed the data.
+- We started working through the book chapter [Python fundamentals 1](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html). [My code for today is posted on GitHub.](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_0913.)
+- We talked about the logic of programs, calculations, variables and their assignment, and then the `print` function.
+- Along the way, we also discussed "google fu" and some good coding practices.
+
+Next Monday we finish up with Python fundamentals 1. Also feel free to get started on code practice 1
+
+**September 11, 2017...What we did today**
 
 Great day!!! Lots accomplished....
 
@@ -13,7 +23,7 @@ print("hello world")
 - We downloaded the [maddison_data_input.py](https://github.com/NYUDataBootcamp/Lab/blob/master/Maddison_data_input.py) from GitHub and then ran the program --- we got our first experience, downloading, manipulating and plotting data.
 - We talked a bit about projects. Please spend sometime thinking about three project ideas and bring them to class on Wednesday.
 
-Next class, [Python fundamentals 1](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html), check out the book to prepare. 
+Next class, [Python fundamentals 1](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html), check out the book to prepare.
 
 ---
 **September 11, 2017...Where should Amazon's new headquarters be?**
