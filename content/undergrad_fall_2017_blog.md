@@ -1,5 +1,7 @@
 # THE BLOG: Undergrad Fall 2017
 
+---
+
 **Septemer 13, 2017...What we did today**
 
 Awesome work today!
