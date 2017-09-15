@@ -2,7 +2,17 @@
 
 ---
 
-**Septemer 13, 2017...What we did today**
+**September 15, 2017...Why is Python So Popular**
+
+Here is an interesting post from Stack Overflow (a great place to find help) about why Python is (is becoming) so popular...its about the Pandas package (one of the packages that we will focus on and learn more about):
+
+https://stackoverflow.blog/2017/09/14/python-growing-quickly/
+
+Note also the use of their data and the graphics that help substantiate this conclusion!!!
+
+---
+
+**September 13, 2017...What we did today**
 
 Awesome work today!
 

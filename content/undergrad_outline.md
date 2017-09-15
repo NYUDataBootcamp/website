@@ -19,7 +19,7 @@ Last update: \today
 
 - **[THE BOOK.](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 - **[THE BLOG.]({{< ref "undergrad_fall_2017_blog.md" >}})** Remember this course is a data course that uses Python. In THE BLOG, I'll discuss interesting uses of data that I find on the web and talk through various issues.
-- **[GitHub REPSOITORY](https://github.com/NYUDataBootcamp)** All the material is here, code, past projects, book, etc.
+- **[GitHub REPOSITORY](https://github.com/NYUDataBootcamp)** All the material is here, code, past projects, book, etc.
 
 - **[DISCUSSION GROUP](https://groups.google.com/d/forum/databootcamp_fall2017_undergrad)** This is where you can get help from other classmates and from myself.  
 
