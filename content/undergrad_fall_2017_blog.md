@@ -2,6 +2,17 @@
 
 ---
 
+**September 18, 2017...What we did today**
+
+Lots accomplished, we are learning a lot about basic properties of python....
+- We talked about [code practice #1]((https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf). Professional looking; hand in a hard copy by September 22 5pm to my mail box or office (KMC 7-74).
+- We worked through python fundamentals 1 by covering strings, running programs in spyder, commenting practices, quotation marks (single, double, triple), then lists.
+- Next class we will finish up with functions and object methods. Maybe start python fundamentals 2 (or do some extra practice)
+
+See you this Wednesday!
+
+---
+
 **September 15, 2017...Why is Python So Popular**
 
 Here is an interesting post from Stack Overflow (a great place to find help) about why Python is (is becoming) so popular...its about the Pandas package (one of the packages that we will focus on and learn more about):
