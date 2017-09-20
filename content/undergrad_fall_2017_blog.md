@@ -16,6 +16,10 @@ Python fundamentals 1 complete....
 
 Have a great weekend!
 
+PS: All my code for this week is posted here:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_0918
+
 ---
 
 **September 18, 2017...What we did today**
