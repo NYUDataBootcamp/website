@@ -2,6 +2,22 @@
 
 ---
 
+**September 20, 2017...What we did today**
+
+Python fundamentals 1 complete....
+
+- Class room change to KMC 3-70 next Monday.
+
+- [Code practice #1](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf). Professional looking; hand in a hard copy by September 22 5pm to my mail box or office (KMC 7-74).
+
+- We talked about tuples (immutability of them), built in functions like `len` `type` and changing type like `str` `float` `list` and then talked about methods associated with objects, tab completion, etc. Great job!
+
+- Next class we start Python fundamentals 2
+
+Have a great weekend!
+
+---
+
 **September 18, 2017...What we did today**
 
 Lots accomplished, we are learning a lot about basic properties of python....
