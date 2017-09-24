@@ -12,6 +12,8 @@
 ---
 ## Important Links
 
+- **[THE SYLLABUS.](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus_fall17_mba.pdf)** All the important details about the course, procedures, important dates, etc.
+
 - **[THE BOOK.](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
 - **[NOTEBOOKS](https://github.com/NYUDataBootcamp/Materials/tree/master/Code/notebooks)** Github repository of notebooks used in class.
