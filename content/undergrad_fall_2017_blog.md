@@ -2,6 +2,18 @@
 
 ---
 
+**September 25, 2017...What we did today**
+
+Started in our new classroom!!! KMC 3-70 Started Python fundamentals 2 complete...
+
+- We talked about dictionaries, Booleans, comparisons, and then discussed the syntax of `if` and `else` statements.
+
+- Please do the challenging exercise before next class (take in names, print them in alphabetical order) and then do it anticipating that the capitalization of may be different.
+
+- Code practice 2 due next Wednesday (October 4th)
+
+---
+
 **September 20, 2017...What we did today**
 
 Python fundamentals 1 complete....
