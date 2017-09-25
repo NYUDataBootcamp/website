@@ -4,7 +4,7 @@
 
 **September 25, 2017...What we did today**
 
-Started in our new classroom!!! KMC 3-70 Started Python fundamentals 2 complete...
+Started in our new classroom!!! KMC 3-70 Python fundamentals 2 started...
 
 - We talked about dictionaries, Booleans, comparisons, and then discussed the syntax of `if` and `else` statements.
 
