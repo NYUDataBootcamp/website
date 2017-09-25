@@ -12,6 +12,10 @@ Started in our new classroom!!! KMC 3-70 Python fundamentals 2 started...
 
 - Code practice 2 due next Wednesday (October 4th)
 
+Code for today is posted at:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_0925
+
 ---
 
 **September 20, 2017...What we did today**
