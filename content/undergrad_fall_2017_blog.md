@@ -1,5 +1,19 @@
 # THE BLOG: Undergrad Fall 2017
 
+**September 27, 2017...What we did today**
+
+- We talked about data from the [Equality of opportunity project](http://www.equality-of-opportunity.org/)
+
+- We setup Atom to be able and create markdown documents and convernt them to `.pdf` files. Quick summary: (In PC): Go to File, Settings, then Install packages and look for `markdown-themeable-pdf` and install. We then downloaded the [markdown template](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Other/DataBootcamp_codepractice1_template.md). Then with the markdown template, you can explore markdown. By doing `control-shift-m` you see the preview of your markdown file. By right clicking the text editor and selecting `markdown to pdf` you convert your file to a pdf!
+
+- We talked about slicing, for loops over lists and strings. Next class we will talk about for loops over counters, list comprehension, the defining functions. 
+
+- Code practice 2 due next Wednesday (October 4th)
+
+Code for today is posted at:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_0927
+
 ---
 
 **September 25, 2017...What we did today**
