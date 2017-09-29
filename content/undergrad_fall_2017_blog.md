@@ -1,12 +1,22 @@
 # THE BLOG: Undergrad Fall 2017
 
+**September 29, 2007...A great business + python resource**
+
+Ok so we've been rolling along acquiring basic python skills. By next Wednesday we should be starting key **DATA** aspects of the course. This means we will learn and use (a lot) the Pandas package in python and the Matplotlib plotting package.
+
+As we get into this I wanted to point out a very useful resource...this blog [Practical Business Python](http://pbpython.com/). It goes through and talks a lot about using python as a business tool...which is basically the point of the Data Bootcamp class.
+
+Personally, I've spent a bunch of time looking through it---it has a recent post on and intro [into Matplotlib](http://pbpython.com/effective-matplotlib.html); if you are an excel wiz there is a post on [how to do common excel tasks in python](http://pbpython.com/excel-pandas-comp.html); [web scraping](http://pbpython.com/web-scraping-mn-budget.html)---all very cool. And of course all the code is posted on GitHub! Check it out!
+
+---
+
 **September 27, 2017...What we did today**
 
 - We talked about data from the [Equality of opportunity project](http://www.equality-of-opportunity.org/)
 
-- We setup Atom to be able and create markdown documents and convernt them to `.pdf` files. Quick summary: (In PC): Go to File, Settings, then Install packages and look for `markdown-themeable-pdf` and install. We then downloaded the [markdown template](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Other/DataBootcamp_codepractice1_template.md). Then with the markdown template, you can explore markdown. By doing `control-shift-m` you see the preview of your markdown file. By right clicking the text editor and selecting `markdown to pdf` you convert your file to a pdf!
+- We setup Atom to be able and create markdown documents and convernt them to `.pdf` files. Quick summary: (In PC): Go to File, Settings, then Install packages and look for `markdown-themeable-pdf` and install. We then downloaded the [markdown template](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Other/DataBootcamp_codepractice1_template.md). Then with the markdown template, you can explore markdown. By doing `control-shift-m` you see the preview of your markdown file. By right clicking the text editor and selecting `markdown to pdf` you convert your file to a pdf! Unless you have some other method of creating a professional looking document, this is what you should do when handing Code practice 2!
 
-- We talked about slicing, for loops over lists and strings. Next class we will talk about for loops over counters, list comprehension, the defining functions. 
+- We talked about slicing, for loops over lists and strings. Next class we will talk about for loops over counters, list comprehension, the defining functions.
 
 - Code practice 2 due next Wednesday (October 4th)
 
