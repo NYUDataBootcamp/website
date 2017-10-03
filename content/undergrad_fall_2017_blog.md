@@ -4,11 +4,11 @@
 
 Finished up Python fundamentals 2! We now have some basic skills and can stat to apply them to data analysis.
 
-- Talked about `range` objects/command and then `for` loops over a counter like `range`. Intermixed this with bond pricing and issues with regards to [round off error.](https://stackoverflow.com/questions/15930381/python-round-off-error)
+- Talked about `range` objects/command and then `for` loops over a counter like `range`. Intermixed was a lesson on bond pricing and issues with regards to [round off error.](https://stackoverflow.com/questions/15930381/python-round-off-error)
 
 - Talked about list comprehension, a compact way to construct lists. Finished up with functions.
 
-- **Do you know what you are doing?** Challenge yourself with this exercise...here is the [Edgar Allen Poe poem](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_0927/poe_poem.py) It is a Valentine poem secretly written to a specific woman whos name is hidden in the poem. Specifically, it is a acrostic poem where if you take from line number `x`, letter number `x`, and piece it together it sill spell the name. So take the first letter from the first line, second letter from the second line...use Python to discover the secret.
+- **Do you know what you are doing?** Challenge yourself with this exercise...here is the [Edgar Allen Poe poem](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_0927/poe_poem.py) It is a Valentine poem secretly written to a specific woman who's name is hidden in the poem. Specifically, it is a [acrostic poem](https://en.wikipedia.org/wiki/Acrostic) where if you take from line number `x`, letter number `x`, and piece it together it will spell the name. So take the first letter from the first line, second letter from the second line...use Python to discover the secret.
 
 We start Pandas on Wednesday. Code practice 2 due then too.     
 
