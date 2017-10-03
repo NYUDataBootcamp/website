@@ -1,5 +1,19 @@
 # THE BLOG: Undergrad Fall 2017
 
+**October 2nd, 20117...What we did today**
+
+Finished up Python fundamentals 2! We now have some basic skills and can stat to apply them to data analysis.
+
+- Talked about `range` objects/command and then `for` loops over a counter like `range`. Intermixed this with bond pricing and issues with regards to [round off error.](https://stackoverflow.com/questions/15930381/python-round-off-error)
+
+- Talked about list comprehension, a compact way to construct lists. Finished up with functions.
+
+- **Do you know what you are doing?** Challenge yourself with this exercise...here is the [Edgar Allen Poe poem](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_0927/poe_poem.py) It is a Valentine poem secretly written to a specific woman whos name is hidden in the poem. Specifically, it is a acrostic poem where if you take from line number `x`, letter number `x`, and piece it together it sill spell the name. So take the first letter from the first line, second letter from the second line...use Python to discover the secret.
+
+We start Pandas on Wednesday. Code practice 2 due then too.     
+
+---
+
 **September 29, 2007...A great business + python resource**
 
 Ok so we've been rolling along acquiring basic python skills. By next Wednesday we should be starting key **DATA** aspects of the course. This means we will learn and use (a lot) the Pandas package in python and the Matplotlib plotting package.
