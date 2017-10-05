@@ -1,6 +1,22 @@
 # THE BLOG: Undergrad Fall 2017
 
-**October 2nd, 20117...What we did today**
+**October 4th, 2017...What we did today**
+
+Started Intro to Pandas...very exciting.
+
+- Briefly talked about functions and importing them into your program.
+
+- Talked about Pandas, dataframes, attributes of a dataframe, and some basic calculations of a series (column) of a dataframe.
+
+Next week we keep learning more about Pandas and will start to work with larger, real datasets. Also here is the [Edgar Allen Poe poem](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_0927/poe_poem.py) that you can practice on.
+
+Code for today posted here:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1004/intro_pandas.py
+
+---
+
+**October 2nd, 2017...What we did today**
 
 Finished up Python fundamentals 2! We now have some basic skills and can stat to apply them to data analysis.
 
@@ -10,7 +26,7 @@ Finished up Python fundamentals 2! We now have some basic skills and can stat to
 
 - **Do you know what you are doing?** Challenge yourself with this exercise...here is the [Edgar Allen Poe poem](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_0927/poe_poem.py) It is a Valentine poem secretly written to a specific woman who's name is hidden in the poem. Specifically, it is a [acrostic poem](https://en.wikipedia.org/wiki/Acrostic) where if you take from line number `x`, letter number `x`, and piece it together it will spell the name. So take the first letter from the first line, second letter from the second line...use Python to discover the secret.
 
-We start Pandas on Wednesday. Code practice 2 due then too.     
+We start Pandas on Wednesday. Code practice 2 due then too.   
 
 ---
 
