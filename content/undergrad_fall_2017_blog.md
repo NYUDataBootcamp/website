@@ -1,5 +1,21 @@
 # THE BLOG: Undergrad Fall 2017
 
+**October 18th, 2017...What we did today**
+
+I was doing good at keeping up with this...then essentially a week of no activity! Sorry, I'm going to keep at it...
+
+- Spent time working with `pd.read_csv` and `pd.read_excel` on real data sets and explored some more functionality of pandas like `.pct_change` or `.corr` or `.plot(kind = barh)` and practiced slicing, redindexing, etc. dataframes.
+- Explored some APIs from `pandas_datareader` (including how to install the package...go to the terminal/command prompt and type `pip install pandas_datareader`).
+- Did some cool stuff with `pandas_datareader` like pulled GDP data and plotted it and stock prices from yahoo. After class I figured out how to grab daily bitcoin prices!
+
+Code posted here:
+- Reading in data in Pandas https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1016/data_input_pandas.py
+
+- APIs
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1018
+
+---
+
 **October 4th, 2017...What we did today**
 
 Started Intro to Pandas...very exciting.
