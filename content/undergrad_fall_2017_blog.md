@@ -1,5 +1,20 @@
 # THE BLOG: Undergrad Fall 2017
 
+**October 25th, 2017...What we did today**
+
+Great work today! A little bit of frustration with the FRED API, but we made it...
+
+- Talked a bit more about project ideas. I referenced this website [kaggle](https://www.kaggle.com/) as a place with datasets that may be of interest as a starting point for thinking and finding data for a project.
+- Walked through the analysis of GDP example, big picture point was how to modify the plot and produce something that is nice looking and communicates something about the data.
+- Walked through sub-plotting, how to use the `for` loop on the `ax` object to modify the properties of the plot without having to do so manually.
+- Walked through scatter plots and explored how to print text on directly on the plot and in this case communicate a statistic (correlation) along with a graphical analysis.
+
+My updated notebook is posted here (this does the whole analysis for all the components of GDP and the last part plots scatter plots for each):
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1023/intro_matplotlib.ipynb
+
+---
+
 **October 23th, 2017...What we did today**
 
 We accomplished a lot, class is starting to move a bit quicker...with more substantive content
@@ -7,7 +22,7 @@ We accomplished a lot, class is starting to move a bit quicker...with more subst
 - Spent some time talking about projects. November 3rd we need one page (professionally executed) three project ideas. Each idea should consist of basic question you are after and a quick look for data that could be used.
 - Learned about Jupyter notebooks. Walked thorugh how to open, the basic interface, some key board shortcuts etc.
 - Started a "mini project" to learn how to professionally plot something in `Matplotlib`. So we used `pandas_datareader` to import data from FRED, manipulated it in `Pandas` and then briefly talked about how to plot it and modify the plot with `Matplotlib`
-- Note my lecture deviates a bit from the book. This is not a substitute for reading the book and working through the many examples in there. 
+- Note my lecture deviates a bit from the book. This is not a substitute for reading the book and working through the many examples in there.
 
 Code for today (my Ipython notebook) posted here:
 
