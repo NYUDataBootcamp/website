@@ -12,11 +12,13 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2017, Undergrad section.  Delivera
 
 **October 20** <br> Submit answers to [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf).
 
-**November 03** <br> Recommended but not graded:  [Optional Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_practice_a.ipynb).
+**November 03** <br>
+<br> Submit [Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br> 
+<br>  Recommended but not graded:  [Optional Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_practice_a.ipynb).
 
 **November 08** <br> Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).
 
-**November 15** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br> (You should start thinking about your project as soon as the exam is over.)
+**November 15** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br>
 
 Thanksgiving break, have fun...show your parents your GitHub site
 
