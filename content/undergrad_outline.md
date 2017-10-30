@@ -65,8 +65,12 @@ Last update: \today
 ---
 ## Topic 5.  Python graphics:  Matplotlib fundamentals
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics.ipynb) (Download "Raw" as ipynb) | [Code Practice A (try by November 3)](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb) (Download "Raw" as ipynb) <br>
-**Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) | [Code Practice A (try by November 3)](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb) (Download "Raw" as ipynb) <br>
+**Summary:**  Approach to graphics focused on the fig/ax objects and methods; lines, scatters, bars, horizontal bars, histograms, styles.
+
+In class code/lectures:
+- [GDP and its comovement with subcomponents](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1023/intro_matplotlib.ipynb) (fundamentals of plotting, line and scatter plots).
+- [Why are some countries rich, others poor?](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1030) (more histograms, bar charts, fancy scatter plots, data wrangling).
 
 ---
 ## Topic 6.  Review & applications
