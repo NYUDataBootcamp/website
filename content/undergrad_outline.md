@@ -70,6 +70,7 @@ Last update: \today
 
 In class code/lectures:
 - [GDP and its comovement with subcomponents](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1023/intro_matplotlib.ipynb) (fundamentals of plotting, line and scatter plots).
+
 - [Why are some countries rich, others poor?](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1030) (more histograms, bar charts, fancy scatter plots, data wrangling).
 
 ---
