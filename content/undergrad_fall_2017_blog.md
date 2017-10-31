@@ -1,5 +1,16 @@
 # THE BLOG: Undergrad Fall 2017
 
+**October 30th, 2017...What we did today**
+
+- Talked a bit about the upcoming exam: Jupyter notebook with questions essentially covering all that is in the book: Python fundamentals 1,2, Pandas, Matplotlib.
+- Worked through more plotting using the PWT (histograms, bar charts, vertical lines on graph, setting tick labels); also practiced some data wrangling skills like setting the index in a judicious way. Code posted here:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1030
+
+- Next class: Finish up this notebook, some fancy line plots, styles, getting the plot out of Python and into a presentation/document etc.
+
+---
+
 **October 25th, 2017...What we did today**
 
 Great work today! A little bit of frustration with the FRED API, but we made it...
