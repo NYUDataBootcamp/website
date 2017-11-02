@@ -1,5 +1,18 @@
 # THE BLOG: Undergrad Fall 2017
 
+**November 1st, 2017...What we did today**
+
+- Talked more about project stuff (due: Nov 3). Here is the link to the 538's GitHub site: https://github.com/fivethirtyeight/data
+- Talked about upcomming exam (Nov 8). Here is [the practice exam](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_exam_practice.ipynb):
+- Finished up the advanced Matplotlib notebook. Made some really cool charts.
+- Learned the value of a log-log transformation. Also learned about the very powerful `groupby` feature in Pandas.
+
+Code posted here:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1030
+
+---
+
 **October 30th, 2017...What we did today**
 
 - Talked a bit about the upcoming exam: Jupyter notebook with questions essentially covering all that is in the book: Python fundamentals 1,2, Pandas, Matplotlib.
