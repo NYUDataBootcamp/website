@@ -1,5 +1,16 @@
 # THE BLOG: Undergrad Fall 2017
 
+**November 6th, 2017...What we did today**
+
+- Talked a little bit about project strategy: basic idea start small, then scale up.
+- Talked about cleaning operations (which used tools useful for exam prep). Will finish this up next week.
+- Talked about the exam on Wednesday. Jupyter notebook, open everything, just can't communicate with neighbors.
+
+Code posted here:
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1106
+
+---
+
 **November 1st, 2017...What we did today**
 
 - Talked more about project stuff (due: Nov 3). Here is the link to the 538's GitHub site: https://github.com/fivethirtyeight/data
@@ -44,7 +55,7 @@ https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_
 We accomplished a lot, class is starting to move a bit quicker...with more substantive content
 
 - Spent some time talking about projects. November 3rd we need one page (professionally executed) three project ideas. Each idea should consist of basic question you are after and a quick look for data that could be used.
-- Learned about Jupyter notebooks. Walked thorugh how to open, the basic interface, some key board shortcuts etc.
+- Learned about Jupyter notebooks. Walked through how to open, the basic interface, some key board shortcuts etc.
 - Started a "mini project" to learn how to professionally plot something in `Matplotlib`. So we used `pandas_datareader` to import data from FRED, manipulated it in `Pandas` and then briefly talked about how to plot it and modify the plot with `Matplotlib`
 - Note my lecture deviates a bit from the book. This is not a substitute for reading the book and working through the many examples in there.
 
