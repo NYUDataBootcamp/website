@@ -1,5 +1,11 @@
 # THE BLOG: Undergrad Fall 2017
 
+**November 8th, 2017...Exam!**
+
+- Take a break, but keep thinking about projects an data... Felipe and I've found some cool stuff recently and I'll post some links to that.
+
+---
+
 **November 6th, 2017...What we did today**
 
 - Talked a little bit about project strategy: basic idea start small, then scale up.
@@ -7,6 +13,7 @@
 - Talked about the exam on Wednesday. Jupyter notebook, open everything, just can't communicate with neighbors.
 
 Code posted here:
+
 https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1106
 
 ---
