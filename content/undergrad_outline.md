@@ -88,49 +88,57 @@ In class code/lectures:
 ---
 ## Topic 8.  Thinking about projects
 
-**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_projects.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
+**Handouts:** [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf) | [Project Examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_examples.pdf) | Code ([examples](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_examples.ipynb) | [current indicators](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_indicators.ipynb) | [demography](https://github.com/NYUDataBootcamp/Lab/blob/master/UN_demography.ipynb) | [Airbnb](https://github.com/NYUDataBootcamp/Lab/blob/master/Airbnb_experiments_Chase.ipynb)) <br>
 **Summary:**  Projects:  say something interesting with data.  Idea machines. Examples.
-
----
-## Remaining topics will depend upon interest --- yours and ours.
-
-We have almost enough for another course.  If there's something you'd particularly like to see, let us know. The plan is to mix data applications and tools in parallel.  These topics are generally shorter than before.
 
 ---
 ## Topic 9.  More Pandas: Cleaning
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv1-clean.ipynb) <br>
-**Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods.
+ **Handouts:**  [Code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1106/cleaning_chipoltle_data.ipynb) <br>
+**Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods. Application: What is the price of Guacamole at Chipotle?
 
 ---
-## Topic 10.  More Pandas: Shaping
+## Topic 10.  More Pandas: Merging
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
-**Summary:**  Here we introduce four key methods for "shaping" our data: `df.set_index`, `df.reset_index`, `df.stack`, and `df.unstack`. When we say shaping we mean manipulating the data so we get specific row and column labels.
+ **Handouts:** [Code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1113) <br>
+**Summary:**  Often we need to combine data from two or more dataframes. We explore the `merge` feature of Pandas. Along the way we take an extended detour to review methods for downloading and unzipping compressed files.
+
+---
+## Topic 10.  More Pandas: Census API and Mapping.
+
+ [Code]() <br>
+**Summary:** The US government has a massive amounts of data that can be easily accessed. We explore this and then merge the census data with election results. Application: Who voted for whom in the 2016 Presidential Election? As we answer this question, we learn some basic mapping skills.
+
+---
+## Topic 11.  More Pandas: Regression Analysis
+
+ [Code]() <br>
+**Summary:** A brief introduction to Regression analysis in Python. We continue to explore Who voted for whom in the 2016 Presidential Election?
+
 
 <!-- TODO: this needs to be changed once we re-arrange the book -->
 ---
-## Topic 11.  Web scraping
+## Topic:  Web scraping
 
 **Handouts:**  [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_scraping-sortof.ipynb)  <br>
 **Summary:** Python has great tools for scraping data off websites. We will give a _very light_ introduction to some of the routines we've found useful for doing this.
 
 ---
 
-## Topic 12.  More Pandas: Combining & summarizing data
+## Topic:  More Pandas: Combining & summarizing data
 
 **Handouts:**  Code ([combining](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-merge.ipynb)|[summarizing](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-summarize.ipynb))<br>
 **Summary:**  Combining dataframes (merge, concatenate).  Statistics (mean, median, quantiles), categorical variables, grouping data by categories, counts and statistics by category.
 
 
 ---
-## Topic.  Advanced graphics with Plotly and Seaborn
+## Topic:  Advanced graphics with Plotly and Seaborn
 
 **Handouts:**  Code ([Plotly](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_plotly.ipynb) | [Seaborn ](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_advgraphics_seaborn.ipynb))  <br>
 **Summary:** We cover more advanced graphics using the seaborn and plotly packages. We show how to leverage our knowledge of matplotlib to jumpstart our usage of these two packages. We also show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort. We also show how to leverage plotly's unique features to do things that are very difficult, or sometimes impossible, to do with matplotlib.
 
 ---
-## Topic.  Updating and installing packages
+## Topic:  Updating and installing packages
 
 **Handouts:**  [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/packages.html) <br>
 **Summary:**  Using conda, pip, etc.  Updating Anaconda, installing Seaborn, Plotly, and Pandas-Datareader.
