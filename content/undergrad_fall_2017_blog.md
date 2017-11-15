@@ -1,5 +1,13 @@
 # THE BLOG: Undergrad Fall 2017
 
+**November 13th, 2017...What we did today**
+
+- Talked about projects: Nov 27 is a [final proposal including a data report](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
+- Finished up cleaning notebook, key things we learned were the string method `replace` (which replaces individual string elements within each entry) and `replace` on a dataframe (which globally replaces entries).
+- Practiced `groupby` (and aggregation of strings) and boolean operations on the cleaned dataset, estimated that a side of guacamole at Chipoltle costs about 2.3 dollars (side note, I stepped into Chipoltle on Broday and verified that this was about correct!)
+
+---
+
 **November 8th, 2017...Exam!**
 
 - Take a break, but keep thinking about projects an data... Felipe and I've found some cool stuff recently and I'll post some links to that soon.
