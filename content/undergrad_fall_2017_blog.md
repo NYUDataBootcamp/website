@@ -2,7 +2,7 @@
 
 **November 8th, 2017...Exam!**
 
-- Take a break, but keep thinking about projects an data... Felipe and I've found some cool stuff recently and I'll post some links to that.
+- Take a break, but keep thinking about projects an data... Felipe and I've found some cool stuff recently and I'll post some links to that soon.
 
 ---
 

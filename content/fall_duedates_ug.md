@@ -13,17 +13,14 @@ Due dates for Data Bootcamp @ NYU Stern, Fall 2017, Undergrad section.  Delivera
 **October 20** <br> Submit answers to [Code Practice #3](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf).
 
 **November 03** <br>
-<br> Submit [Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br> 
+<br> Submit [Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br>
 <br>  Recommended but not graded:  [Optional Code Practice A](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/IPython/bootcamp_practice_a.ipynb).
 
 **November 08** <br> Exam (75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes).
 
-**November 15** <br> Submit [Revised Project Ideas](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf). <br>
-
 Thanksgiving break, have fun...show your parents your GitHub site
 
-**November 27** <br> Submit [Project Proposal](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
-
+**November 27** <br> Submit [Project Proposal + Data Report](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 
 **December 21** Submit project.  <br> The absolute latest time a project can be submitted is **11:59pm December 21**.  No exceptions.  Keep in mind that this is the last possible time, not a target; you're more than welcome to submit your project earlier.  And honestly, you don't want this to drag on any longer than this. <br>
 
