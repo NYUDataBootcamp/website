@@ -1,10 +1,27 @@
 # THE BLOG: Undergrad Fall 2017
 
+**November 15th, 2017...What we did today**
+- Talked a little bit more about projects. Two thoughts: (i) think about what kind of graphic, table, story you want to tell, then work backwards. (ii) What type of variation are you going to exploit, across space, time, both?
+- Spent the class `merge`ing datasets. Talked about one-to-one merges, many-to-one merges, etc and pandas functionality with respect to them.
+- Applied this on the movie data set and then practiced `groupby` to see look at movie ratings.
+- Next week, we talk about the Census APIs and statistics in Python.
+
+Code posted here:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1113/merge_iozip_data.ipynb
+
+
+---
+
 **November 13th, 2017...What we did today**
 
 - Talked about projects: Nov 27 is a [final proposal including a data report](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf).
 - Finished up cleaning notebook, key things we learned were the string method `replace` (which replaces individual string elements within each entry) and `replace` on a dataframe (which globally replaces entries).
-- Practiced `groupby` (and aggregation of strings) and boolean operations on the cleaned dataset, estimated that a side of guacamole at Chipoltle costs about 2.3 dollars (side note, I stepped into Chipoltle on Broday and verified that this was about correct!)
+- Practiced `groupby` (and aggregation of strings) and boolean operations on the cleaned dataset, estimated that a side of guacamole at Chipoltle costs about 2.3 dollars (side note, I stepped into Chipoltle on Broadway and verified that this was about correct!)
+
+Code posted here:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1106
 
 ---
 
