@@ -2,8 +2,8 @@
 
 **November 20th, 2017...What we did today**
 
-- Talked briefly about exam resluts.
-- Reminder Nov 27 (next Monday), Final Proposal + Data Report. Final proposal means flushed out question and "want" from the data and group, Data Report means that you show you have **accessed** the data (e.g. provide code importing data, report simple statistics from it). **What form?** Bottom line: It has to be professionally done; one approach is to create a Jupyter Notebook and do it all in there, then print out the `.pdf`
+- Talked briefly about exam results.
+- Reminder Nov 27 (next Monday), Final Proposal + Data Report. Final proposal means flushed out question and "want" from the data and group, Data Report means that you show you have **accessed** the data (e.g. provide code importing data, report simple statistics from it). <br> **What form?** Bottom line: It has to be professionally done; one approach is to create a Jupyter Notebook and do it all in there, then print out the `.pdf`
 - Worked with the Census API, figured out that household income in Beverly Hills is way higher than in Compton.  
 - Started to `merge` the Census data at the county level with 2016 election results. Next class, `pivot` tables and statistics.
 
@@ -11,6 +11,7 @@ Code posted here (Note I'll update this filling out some more info on the Census
 
 https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1120
 
+---
 
 **November 15th, 2017...What we did today**
 
