@@ -1,5 +1,23 @@
 # THE BLOG: Undergrad Fall 2017
 
+**Final Project...details**
+
+---
+
+**December 13th, 2017...We we did this past MONTH**
+
+I really dropped the ball on this....below let me give a recap of what we have done the last couple of weeks.
+
+- Statistical analysis in python (principally) regression: https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1127/stats_models.ipynb
+- Basemap as a Matplotlib + mapping package:
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1204/base_map.ipynb
+- More mapping for fillin maps using BOKEH package: https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1120/more_mapping.ipynb
+- Time series features of Pandas (when the index is set to a DateTime index): https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1211/bootcamp_timeseries.ipynb
+- An example of a "BIG DATA" set...the scanner price data from IRI marketing research:
+https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1211/IRI_price_data.ipynb
+
+---
+
 **November 20th, 2017...What we did today**
 
 - Talked briefly about exam results.
