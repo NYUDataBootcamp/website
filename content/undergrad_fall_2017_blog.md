@@ -2,6 +2,16 @@
 
 **Final Project...details**
 
+This last class I talked about projects. Two key issues:
+
+- First, I discussed an example of a project (my own) and how I presented the project in a professional manner. Clear description of question, data used, tools and packages, well written code to execute the idea, clear outline and linear thinking in the presentation of the results. Link to my final project repository is here:
+
+https://github.com/mwaugh0328/Data_Bootcamp_Final_Project
+
+- Second, I discussed the details to turn in your project. If they are not followed **exactly** you will lose 10 percent of the available points and your project may not be graded until the instructions are followed properly. Details are described below:
+
+https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project_turnin.pdf
+
 ---
 
 **December 13th, 2017...We we did this past MONTH**
