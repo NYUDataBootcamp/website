@@ -1,6 +1,13 @@
 # THE BLOG: Undergrad Spring 2018
 
 ---
+**What we did today...Jan 23, 2018**
+
+We talked...a lot. I told you about the course (big ideas, [course website](https://nyu.data-bootcamp.com/undergrad_outline/), materials, the [syllabus]((https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf))), who I am, and I asked about you!
+
+We also tried to download Anaconda installation of python, but ran out of time. Next class we will get it done and start learning.
+
+---
 **January 18, 2018: Welcome to Data Bootcamp...**
 
 Welcome to Data Bootcamp!
@@ -19,7 +26,7 @@ This has information about important dates, texts, grading, etc. Please take som
 
 (3) Take the online survey. This link below:
 
-https://goo.gl/forms/dXyikuJZDALIRBXw2
+https://goo.gl/forms/ITdV9tuEwBrjbB053
 
 has a survey for you to complete. Completing this will partially go towards your participation / professionalism grade.
 
