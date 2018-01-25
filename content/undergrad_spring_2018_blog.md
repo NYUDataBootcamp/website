@@ -1,6 +1,11 @@
 # THE BLOG: Undergrad Spring 2018
 
 ---
+**What we did today...Jan 25, 2018**
+
+Got Anaconda installed! Yes! Opened up Jupyter and talked about its features. Then we briefly did some computation. Next class, we will delve into the details regarding basics of Python in [Python fundamentals 1](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html). Feel free to work through this on your own.    
+
+---
 **What we did today...Jan 23, 2018**
 
 We talked...a lot. I told you about the course (big ideas, [course website](https://nyu.data-bootcamp.com/undergrad_outline/), materials, the [syllabus]((https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus.pdf))), who I am, and I asked about you!
