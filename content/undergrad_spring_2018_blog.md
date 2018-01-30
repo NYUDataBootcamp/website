@@ -1,6 +1,17 @@
 # THE BLOG: Undergrad Spring 2018
 
 ---
+**What we did today...Jan 30, 2018**
+
+* Talked a little a bit about data today. In particular we looked at this graphic from the [Economist magazine](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/week1/interesting_data_0130.ipynb
+) Following up on this discussion, please look through [data mentality chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/data-mentality.html).
+
+* Talked about how to turn in Code practice 1. Jupyter notebook, print a hard copy and hand it to me. Here is my [mini-example of the format](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/week1/code_practice_1.ipynb).
+
+* Worked through [Python fundamentals 1](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html). Basic calculations, assignments, print. Getting help with `?` and the `whos` command to see what variables are in your enviornment.
+
+
+---
 **What we did today...Jan 25, 2018**
 
 Got Anaconda installed! Yes! Opened up Jupyter and talked about its features. Then we briefly did some computation. Next class, we will delve into the details regarding basics of Python in [Python fundamentals 1](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html). Feel free to work through this on your own.    
