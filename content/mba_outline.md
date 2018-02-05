@@ -1,4 +1,4 @@
-# Data Bootcamp: MBA Fall 2017
+# Data Bootcamp: MBA Spring 2018
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 ## Important Links
 
-- **[THE SYLLABUS.](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus_fall17_mba.pdf)** All the important details about the course, procedures, important dates, etc.
+- **[THE SYLLABUS.](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_syllabus_spring18_mba.pdf)** All the important details about the course, procedures, important dates, etc.
 
 - **[THE BOOK.](https://www.gitbook.com/book/nyudatabootcamp/data-bootcamp/details)**  The topics in the first half are all in the book. We will follow this closely. At the book link, click the large blue Read button to read online -- or download the pdf.  Both come with links.
 
@@ -23,15 +23,15 @@
 ---
 ## Important Dates
 
-- **Code Practice 1** Due Date: **October 10, 2017.**
+- **Code Practice 1** Due Date: **February 20, 2018.**
 
-- **Code Practice 2** Due Date: **October 17, 2017.**
+- **Code Practice 2** Due Date: **February 27, 2018.**
 
-- **Code Practice 3** Due Date: **October 24, 2017.**
+- **Code Practice 3** Due Date: **Mar 06, 2018.**
 
-- **Midterm Exam:** **November 7, 2017.** Quick info: 75 minutes, in class, open book, open internet if the wireless is up, bring one page of notes.
+- **Midterm Exam:** **Mar 27, 2018.** Quick info: In class, open book, open internet if the wireless is up, bring one page of notes.
 
-- **[Final Project](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** Due Date: **End of Day December 21, 2017**
+- **[Final Project](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** Due Date: **End of Day May 04, 2018**
 
 ---
 ## Code Pratice Submissions
@@ -53,25 +53,25 @@ Assignments will be posted on NYU Classes. Submit your python code in PDF format
 ---
 ## Topic 2.  Python fundamentals 1
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | [Code Practice #1 (Due October 10)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun1.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun1.html) | [Code Practice #1 (Due February 20)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_1.pdf) <br>
 **Summary:**  Calculations; assignments; strings; lists; tuples; built-in functions; objects; methods; tab completion.
 
 ---
 ## Topic 3.  Python fundamentals 2
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) | [Code Practice #2 (Due October 17)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pyfun2.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/py-fun2.html) | [Code Practice #2 (Due February 27)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_2.pdf) <br>
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 ---
 ## Topic 4.  Data input:  Packages and Pandas
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-input.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Python/bootcamp_pandas-input.py) (Download "Raw") | <!-- Code Practice 3 (coming soon) --> [Code Practice #3 (Due October 24)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf)  ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-input.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Python/bootcamp_pandas-input.py) (Download "Raw") | <!-- Code Practice 3 (coming soon) --> [Code Practice #3 (Due Mar 06)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf)  ([code template](https://raw.githubusercontent.com/NYUDataBootcamp/Materials/master/Code/Python/bootcamp_practice_3_template.py)) <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.
 
 ---
 ## Topic 5.  Python graphics:  Matplotlib fundamentals
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics.ipynb) (Download "Raw" as ipynb) | [Code Practice A (try by October 31)](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb) (Download "Raw" as ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_graphics.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/graphs1.html) | [Code](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_graphics_s17_MBA.ipynb) (Download "Raw" as ipynb) | [Code Practice A (try by March 20)](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_practice_a.ipynb) (Download "Raw" as ipynb) <br>
 **Summary:**  Three approaches to graphics: dataframe plot methods, plot(x,y), and fig/ax objects and methods; lines, scatters, bars, horizontal bars, styles.
 
 ---
@@ -81,7 +81,7 @@ Assignments will be posted on NYU Classes. Submit your python code in PDF format
 **Summary:**  Exam review, followed by applications to get us thinking about interesting datasets and how to work with them.
 
 ---
-## Topic 7.  Midterm Exam: November 7
+## Topic 7.  Midterm Exam: March 27
 
 **Posted after class:** Exam with answers
 
@@ -92,19 +92,19 @@ Assignments will be posted on NYU Classes. Submit your python code in PDF format
 **Summary:**  Projects:  say something interesting with data.  Idea machines. Examples.
 
 ---
-## Topic 9.  Pandas Cleaning and Seaborn
+## Topic 9.  Pandas Cleaning and Statmodels
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf) | [Code_Pandas_Cleaning](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv1-clean.ipynb) |
-[Code_seaborn](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_advgraphics_seaborn.ipynb) <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-clean.pdf) | [Code_Pandas_Cleaning](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv1-clean.ipynb) <br>
 **Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods. <br>
-We cover more advanced graphics using the seaborn. We show how seaborn can be used to easliy construct common, yet sophisticated graphics with little additional effort.
+We also cover statmodels, python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
 
 ---
-## Topic 10. Pandas Shaping and Statsmodels
+## Topic 10. Pandas Shaping and Scikit-learn
 
 **Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-shape.pdf) | [Code_Pandas_Shaping](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas_adv2-shape.ipynb) <br>
 **Summary:**  Here we introduce four key methods for "shaping" our data: `df.set_index`, `df.reset_index`, `df.stack`, and `df.unstack`. When we say shaping we mean manipulating the data so we get specific row and column labels. <br>
-We also cover statmodels, python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
+We also cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.
+
 
 <!-- TODO: this needs to be changed once we re-arrange the book -->
 ---
@@ -112,8 +112,7 @@ We also cover statmodels, python module that provides classes and functions for 
 
 **Handouts:**  ([Code_Pandas_Combining](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-merge.ipynb)|[summarizing](https://github.com/NYUDataBootcamp/Materials/blob/master/Code/notebooks/bootcamp_pandas-summarize.ipynb))<br>
 **Summary:**  Combining dataframes (merge, concatenate).  Statistics (mean, median, quantiles), categorical variables, grouping data by categories, counts and statistics by category. <br>
-We also cover Scikit-learn, Machine Learning package to model various classification, regression and clustering algorithms.
-
+We will also cover remaining topics in Scikit-learn in this class.
 
 ---
 ## Topic 12. Review and General Project Discussion.
