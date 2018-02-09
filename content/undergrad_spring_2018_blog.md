@@ -1,6 +1,20 @@
 # THE BLOG: Undergrad Spring 2018
 
 ---
+**What we did the past week...2018**
+
+Totally defaulted on this...last couple of classes we've worked through Python Fundamentals 1 (great work) and are now in the middle of Python Fundamentals 2 (up to if/than statements). You should be a position to complete about half of code practice 2. Link to my code is here:
+
+https://github.com/mwaugh0328/data_bootcamp_spring_2018/tree/master/week3
+
+Next week for loops and list comprehension.
+
+Final thought...the FT has a nice piece on data and statistics. In many ways the advice and principals talked about mesh well with the "ethos" of this course| harness data and communicate it in a simple, clear, understandable way.  Link is here:
+
+https://www.ft.com/content/ba4c734a-0b96-11e8-839d-41ca06376bf2
+
+
+---
 **What we did today...Jan 30, 2018**
 
 * Talked a little a bit about data today. In particular we looked at this graphic from the [Economist magazine](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/week1/interesting_data_0130.ipynb
