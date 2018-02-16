@@ -1,6 +1,14 @@
 # THE BLOG: Undergrad Spring 2018
 
 ---
+**What we did the past week...Feb12-16 2018**
+
+Finished up Python Fundamentals 2. Slicing, if then, for loops, list comprehension, functions. Congrats! Sit back, relax, think about where you started and now where you are! Also talked about strategies to extract the name from the Poe Poem.
+
+Code Practice 2 due today (Feb 16th). Email you Jupyter notebook to nyudatabootcamp At gmail.com
+
+
+---
 **What we did the past week...2018**
 
 Totally defaulted on this...last couple of classes we've worked through Python Fundamentals 1 (great work) and are now in the middle of Python Fundamentals 2 (up to if/than statements). You should be a position to complete about half of code practice 2. Link to my code is here:
