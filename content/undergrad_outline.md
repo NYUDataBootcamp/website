@@ -62,7 +62,7 @@ Last update: 1/16/2018
 
 - [Python Fundamentals 1 practice here](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_pyfund1.pdf)
 
-- [Python Fundamentals 2 practice here](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_pyfunds.pdf)
+- [Python Fundamentals 2 practice here](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_pyfund2.pdf)
 
 ---
 
@@ -74,7 +74,7 @@ Last update: 1/16/2018
 ---
 ## Topic 4.  Intro to Pandas
 
-**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html) | <!-- Code Practice 3 (coming soon) --> [Code Practice #3 (Due March 2nd)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf)   <br>
+**Handouts:**  [Outline](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_topic_pandas-input.pdf) | [Book chapter](https://nyudatabootcamp.gitbooks.io/data-bootcamp/content/pandas-intro.html) | <!-- Code Practice 3 (coming soon) --> [Code Practice #3 (Due March 9th)](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_3.pdf)   <br>
 **Summary:**  Packages; import; Pandas; csv files; reading csv/xls files; dataframes; columns; index; APIs.
 
 ---
