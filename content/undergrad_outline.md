@@ -59,6 +59,9 @@ Last update: 1/16/2018
 **Summary:**  True and False; comparisons; conditionals; slicing; loops; function definitions and returns; dictionaries.
 
 **Mini-Midterm #1:** **February 22nd, 2017.** Quick info: Python fundamentals 1-2, 30 minutes, in class, open book, open internet if the wireless is up, bring one page of notes.
+- [Python Fundamentals 1 practice here](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_pyfund1.pdf)
+
+- [Python Fundamentals 2 practice here](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_practice_pyfunds.pdf)
 
 ---
 
