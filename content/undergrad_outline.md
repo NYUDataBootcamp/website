@@ -89,7 +89,9 @@ In class code/lectures:
 
 - [Why are some countries rich, others poor?](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1030) (more histograms, bar charts, fancy scatter plots, data wrangling).
 
-**Mini-Midterm #2:** **March 22nd, 2018.** Quick info: Intro to Pandas and Matplotlib, 30 minutes, in class, open book, open internet if the wireless is up, bring one page of notes.
+**Mini-Midterm #2:** **March 22nd, 2018.** Quick info: Intro to Pandas and Matplotlib, 45 minutes, in class, open book, open internet if the wireless is up, bring one page of notes.
+
+ - Two practice exams: [Here](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/mini_exam_two_practice/sample_midterm_one.ipynb) and [Here](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/mini_exam_two_practice/sample_midterm_two.ipynb).  
 
 ---
 ## Topic 6.  Thinking about projects
