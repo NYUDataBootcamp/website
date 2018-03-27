@@ -1,6 +1,21 @@
 # THE BLOG: Undergrad Spring 2018
 
 ---
+**Interesting data and what we did March 27th 2018**
+
+Here are those two interesting data links that I saw:
+
+- [Site with all the links to transit data for NYC](https://data.world/forum4thefuture/open-data-l-train-innovation-challenge)
+
+- [Site we cleaned patent data](https://sites.google.com/site/patentdataproject/)
+
+Today, we did some more advanced plotting in Matplotlib. Histograms, Bubble/Scatter plots, and explored a lot of the optionality around it. Next class we finish this up by plotting statistics from a data set and how they vary over time. Then we start working on cleaning data.
+
+Code here:
+
+https://github.com/mwaugh0328/data_bootcamp_spring_2018
+
+---
 **What we did the past week...Feb12-16 2018**
 
 Finished up Python Fundamentals 2. Slicing, if then, for loops, list comprehension, functions. Congrats! Sit back, relax, think about where you started and now where you are! Also talked about strategies to extract the name from the Poe Poem.
