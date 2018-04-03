@@ -1,5 +1,9 @@
 # THE BLOG: Undergrad Spring 2018
 
+**Make an appointment to talk about projects. Here is the link**
+
+[Click here](https://docs.google.com/spreadsheets/d/1lAOLo8PPe1-YzuTS4g-IX_8ByRh4fJU1mejVMedBx7o/edit?usp=sharing)
+
 ---
 **Interesting data and what we did March 27th 2018**
 
