@@ -28,7 +28,9 @@ Last update: 1/16/2018
 
 - **Mini-Midterm #2:** **March 22nd, 2018.** Quick info: Intro to Pandas and Matplotlib, 30 minutes, in class, open book, open internet if the wireless is up, bring one page of notes.
 
-- **Three Project Ideas:** **March 29, 2018.** Jupyter Notebook with three project ideas, briefly flushed out and potential data sources. Hard copy due at 5pm.
+- **Three Project Ideas:** **March 30, 2018.** Jupyter Notebook with three project ideas, briefly flushed out and potential data sources. Hard copy due at 5pm.
+
+- **Talk with me about project ideas** [Appointment calendar here](https://docs.google.com/spreadsheets/d/1lAOLo8PPe1-YzuTS4g-IX_8ByRh4fJU1mejVMedBx7o/edit?usp=sharing) 
 
 - **Final Project Proposal + Data Report:** **April 20th, 2018.** Jupyter Notebook with final proposal. More details to be provided. Hard copy due at 5pm.
 
