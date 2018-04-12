@@ -30,9 +30,9 @@ Last update: 1/16/2018
 
 - **Three Project Ideas:** **March 30, 2018.** Jupyter Notebook with three project ideas, briefly flushed out and potential data sources. Hard copy due at 5pm.
 
-- **Talk with me about project ideas** [Appointment calendar here](https://docs.google.com/spreadsheets/d/1lAOLo8PPe1-YzuTS4g-IX_8ByRh4fJU1mejVMedBx7o/edit?usp=sharing) 
+- **Talk with me about project ideas** [Appointment calendar here](https://docs.google.com/spreadsheets/d/1lAOLo8PPe1-YzuTS4g-IX_8ByRh4fJU1mejVMedBx7o/edit?usp=sharing)
 
-- **Final Project Proposal + Data Report:** **April 20th, 2018.** Jupyter Notebook with final proposal. More details to be provided. Hard copy due at 5pm.
+- **Final Project Proposal + Data Report:** **April 24th, 2018.** Jupyter Notebook with final proposal. More details to be provided. **Hard copy due at 5pm.**
 
 - **[Final Project](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** Due Date: **End of Day May 14, 2018**
 
@@ -108,21 +108,34 @@ In class code/lectures:
 **Summary:**  Pandas has incredible facilities for managing data.  We look at fixing numbers misidentified as strings, managing missing observations, selecting variables and observations, and the `isin` and `contains` methods. Application: What is the price of Guacamole at Chipotle?
 
 ---
-## Topic 8.  More Pandas: Merging
+## Topic 8.  More Pandas: Shaping
+
+**Handouts:** [Code](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/week10/reshape.ipynb) <br>
+**Summary:**  Understand and be able to apply the melt/stack/unstack/pivot methods.
+
+---
+## Topic 9.  More Pandas: Groupby, Aggregation, Pivot Tables
+
+**Handouts:** [Code](https://github.com/mwaugh0328/data_bootcamp_spring_2018/blob/master/week10/groupby.ipynb) <br>
+**Summary:**  Explore the use of `groupby` and related operations.
+
+---
+## Topic 10.  More Pandas: Merging
 
  **Handouts:** [Code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1113) <br>
 **Summary:**  Often we need to combine data from two or more dataframes. We explore the `merge` feature of Pandas. Along the way we take an extended detour to review methods for downloading and unzipping compressed files.
 
----
-## Topic 9.  More Pandas: Aggregation, Groupby, Pivot Tables
-
- **Handouts:** [Code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1113) <br>
-**Summary:**  Explore the use of `groupby` and related operations.
 
 ---
 ## Topic 11. Census API
  **Handouts:**  [Code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/tree/master/data_bootcamp_1120)<br>
 **Summary:** The US government has a massive amounts of data that can be easily accessed. We explore this and then merge the census data with election results. Application: Who voted for whom in the 2016 Presidential Election?  
+
+---
+## Topic 12.  GeoPandas and Mapping
+
+**Handouts:**  [Code]()<br>
+**Summary:** Here we use the `GeoPandas` package and learn some basic mapping skills.
 
 ---
 
@@ -131,12 +144,6 @@ In class code/lectures:
  **Handouts:**
  [Code](https://github.com/mwaugh0328/Data_Bootcamp_Fall_2017/blob/master/data_bootcamp_1211/bootcamp_timeseries.ipynb)<br>
  **Summary** Time series features of Pandas (when the index is set to a DateTime index):
-
----
-## Topic 11.  GeoPandas and Mapping
-
-**Handouts:**  [Code]()<br>
-**Summary:** Here we use the `GeoPandas` package and learn some basic mapping skills.
 
 ---
 ## Topic 12.  Putting it All Together...
