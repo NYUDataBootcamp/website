@@ -36,6 +36,8 @@ Last update: 1/16/2018
 
 - **[Final Project](https://github.com/NYUDataBootcamp/Materials/blob/master/Documents/bootcamp_project.pdf)** Due Date: **End of Day May 14, 2018**
 
+- **[Instructions to turn in Final Project](https://github.com/NYUDataBootcamp/Materials/raw/master/Documents/bootcamp_project_turnin.pdf) 
+
 ---
 
 ## Week By Week Guide...
