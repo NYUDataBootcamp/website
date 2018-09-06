@@ -1,4 +1,4 @@
-baseurl = "https://nyu.data-bootcamp.com/"
+baseurl = "https://nyu-databootcamp.netlify.com/"
 languageCode = "en-us"
 title = "Data Bootcamp"
 metaDataFormat = "yaml"
